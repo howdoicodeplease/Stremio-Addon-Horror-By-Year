@@ -1,0 +1,794 @@
+[
+  {
+    "title": "Shaun of the Dead",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0365748",
+    "description": "The uneventful, aimless lives of a London electronics salesman and his layabout roommate are disrupted by the zombie apocalypse.",
+    "rating": "7.9",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Saw",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTE5MzFlMTktMzBkOC00ZjMxLThmOTAtOGU3ZGEwZGRlNDdjXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0387564",
+    "description": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other or face consequences. These two are the latest victims of the Jigsaw Killer.",
+    "rating": "7.6",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Hellboy",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWZhODhmZjktNmIzNC00NGRmLTkyMDEtODVmMzVmNGQwYWU0XkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt0167190",
+    "description": "A demon raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.",
+    "rating": "6.9",
+    "movieLength": "2h 2m"
+  },
+  {
+    "title": "Dawn of the Dead",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZiYjNlMWYtNTc2My00ZTM4LWJhMjQtM2FlOWM0ZmE0Yjg1XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0363547",
+    "description": "A nurse, a policeman, a young married couple, a salesman and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.",
+    "rating": "7.2",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "AVP: Alien vs. Predator",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0370263",
+    "description": "During an archaeological expedition on Bouvetøya Island in Antarctica, a team of archaeologists and other scientists find themselves caught up in a battle between the two legends. Soon, the team realize that only one species can win.",
+    "rating": "5.7",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Resident Evil: Apocalypse",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0318627",
+    "description": "Alice wakes up in the Raccoon City hospital after the area has been overrun by zombies, and must now make it out of the city before a nuclear bomb is dropped.",
+    "rating": "6.1",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Blade: Trinity",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Nzg2MzI3MF5BMl5BanBnXkFtZTYwMjExODQ3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0359013",
+    "description": "Blade, now a wanted man by the FBI, must join forces with the Nightstalkers to face his most challenging enemy yet: Dracula.",
+    "rating": "5.8",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "The Grudge",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxODg1Nzc3NF5BMl5BanBnXkFtZTcwMjM0MjEzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0391198",
+    "description": "An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim.",
+    "rating": "5.9",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "The Stepford Wives",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNTM4ODM1OF5BMl5BanBnXkFtZTcwNjg4NzAzMw@@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt0327162",
+    "description": "The secret to a Stepford wife lies behind the doors of the Men's Association.",
+    "rating": "5.4",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Scooby-Doo 2: Monsters Unleashed",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzk3NTE1Ml5BMl5BanBnXkFtZTYwODM1MTU3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0331632",
+    "description": "The Mystery Inc. gang must save Coolsville from an attack of their past monsters brought to life by an evil masked figure trying to take down the gang.",
+    "rating": "5.3",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Mindhunters",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0297284",
+    "description": "A group of FBI trainees are taken to a remote island for simulation training. However, once there, they realize that they are being hunted by a serial killer, who might be someone amidst them.",
+    "rating": "6.3",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Seed of Chucky",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMTczMjc3M15BMl5BanBnXkFtZTcwODcxMzcyMQ@@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+    "imdbId": "tt0387575",
+    "description": "Chucky and Tiffany are resurrected by their innocent gender-confused child, Glen/Glenda, and hit Hollywood, where a movie depicting the killer dolls' murder spree is underway.",
+    "rating": "4.9",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Exorcist: The Beginning",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NzY1MzQ0MV5BMl5BanBnXkFtZTcwOTM1MTEzMw@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0204313",
+    "description": "In 1947, having abandoned his faith, Father Merrin joins an archaeological excavation in Kenya, where an ancient church has been unearthed and something much older waits to be awoken.",
+    "rating": "5.1",
+    "movieLength": "1h 54m"
+  },
+  {
+    "title": "Anacondas: The Hunt for the Blood Orchid",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzc5MDg1NTkxNl5BMl5BanBnXkFtZTYwNTcyNjA3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0366174",
+    "description": "A scientific expedition sets out for Borneo to seek a flower called the Blood Orchid, which could grant longer life. Meanwhile, they run afoul of snakes and each other.",
+    "rating": "4.7",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Creep",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTgzODgyOTQ3OF5BMl5BanBnXkFtZTcwMjI0MjgyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0381966",
+    "description": "Trapped in a London subway station, a woman who's being pursued by a potential attacker heads into the unknown labyrinth of tunnels beneath the city's streets.",
+    "rating": "5.6",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Club Dread",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExNDgxMjEwNl5BMl5BanBnXkFtZTcwMTYzNzQyMQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0331953",
+    "description": "When a serial killer interrupts the fun at the swanky Coconut Pete's Coconut Beach Resort--a hedonistic island paradise for swingers--it's up to the club's staff to stop the violence...or at least hide it.",
+    "rating": "5.7",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "Godsend",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNzE3MTg5Ml5BMl5BanBnXkFtZTcwMTIxNDYwNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0335121",
+    "description": "A couple agree to have their deceased son cloned, under the supervision of an enigmatic doctor, but bizarre things start to happen several years after his rebirth.",
+    "rating": "4.8",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Suspect Zero",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjYwMDBkNTgtNzY1ZC00ODQyLTk0OTgtZWJjMDVlMjMxNzVmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0324127",
+    "description": "A mysterious serial killer is preying on other serial killers and one FBI agent suspects there may be more to the vigilante than the obvious characteristics.",
+    "rating": "5.8",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Ginger Snaps 2: Unleashed",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTIxMTc0MV5BMl5BanBnXkFtZTcwOTIxMjUyMQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0353489",
+    "description": "Ginger's sister Brigitte, now a werewolf herself, must try to find a cure for her blood lust before the next full moon while hiding out in a rehab clinic from a relentless werewolf.",
+    "rating": "6.4",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Ginger Snaps Back: The Beginning",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NTg3OTI4N15BMl5BanBnXkFtZTcwNDAxNDYwNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0365265",
+    "description": "Set in 19th Century Canada, Brigette and her sister Ginger take refuge in a Traders' Fort which later becomes under siege by some savage werewolves.",
+    "rating": "5.8",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Dead Birds",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NmMDMzYmUtNGYwNC00ZDU3LWI3ZTctYzNkOTc3MzIwZTdlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0377749",
+    "description": "A group of Confederate soldiers hole up in an abandoned plantation after robbing a bank and find themselves at the mercy of supernatural forces.",
+    "rating": "5.6",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Riding the Bullet",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI2ZmZiMWItNzdlZC00ZjYxLThlMTctYmE5ZjQwNzI0ZjlhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0355954",
+    "description": "When a man finds out his mother is dying and tries to hitchhike his way to the hospital, he is picked up by a stranger with a deadly secret.",
+    "rating": "5.2",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Survive Style 5+",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWViMDk1MzYtM2FiYS00MTdkLWI3YTQtNmFjN2FlMTY0NmM1XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0430651",
+    "description": "Five bizarre stories with no apparent connection to one and other eventually become intertwined, resulting in surreal circumstances.",
+    "rating": "7.4",
+    "movieLength": "2h"
+  },
+  {
+    "title": "Highwaymen",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI4ODMxNzEwN15BMl5BanBnXkFtZTYwODcxMjM3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0339147",
+    "description": "Rennie Cray (Caviezel) embarks on a bloodthirsty rampage to avenge the death of his wife who was struck down by a serial killer - a man who hunts and kills women using his '72 El Dorado.",
+    "rating": "5.6",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Toolbox Murders",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg0Y2I2NmMtZDc2OS00NTkyLTgxNWYtNWM3N2NkMjAwMTZiXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0367153",
+    "description": "A historic Hollywood hotel houses a supernatural evil. It's been subdued for decades, but when renovations start, a series of murders take place.",
+    "rating": "5.3",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Zombie Nation",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNjE5Njk5Ml5BMl5BanBnXkFtZTcwNDc3MDA0MQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0463392",
+    "description": "A psychotic police officer who murders his female arrestees gets what's coming to him when a horde of zombified women rise from their graves to seek revenge.",
+    "rating": "1.5",
+    "movieLength": "1h 21m"
+  },
+  {
+    "title": "Madhouse",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjQ1MWYxZGUtNmFjOS00NThiLThkMTQtZTA1ZGZkYjJkMTI4XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0363276",
+    "description": "A young psychiatric intern unearths secrets about the mental health facility in which he works.",
+    "rating": "5.4",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Satan's Little Helper",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWI2Y2YyMWItMmIxZC00M2E1LWFlNDAtOGM2ZTk2ZmZkZjAxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0380687",
+    "description": "A naive young boy unknowingly becomes the pawn of a serial killer.",
+    "rating": "5.3",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Dracula 3000",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI3NmUzZWMtMTJjMy00MGRhLWExZmEtZGE4ZmVkY2I2YjJhXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0367677",
+    "description": "Count Dracula terrorizes the crew of a spaceship.",
+    "rating": "2.1",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Dead & Breakfast",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ0NDQ3MzA4M15BMl5BanBnXkFtZTcwMDcyNDAzMQ@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0350774",
+    "description": "A night at a local bed and breakfast turns into a bloody supernatural fight to the death.",
+    "rating": "5.7",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "One Point O",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNDk5Mzc4NF5BMl5BanBnXkFtZTcwNzM2MTcyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0317042",
+    "description": "After receiving mysterious empty packages inside his apartment, a young computer-programmer begins a personal investigation into their origins.",
+    "rating": "5.9",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "R-Point",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM5MTExNzE0Ml5BMl5BanBnXkFtZTgwNjM5MDQ2MzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0417072",
+    "description": "During the Vietnam War, a South Korean base receives a radio transmission from a missing squad, presumed dead, and sends a platoon to rescue the lost squad from the R-Point.",
+    "rating": "6.2",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Decoys",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDcwMTM2Nl5BMl5BanBnXkFtZTYwMjIzODk2._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0357585",
+    "description": "Luke and Roger are just another couple of college guys trying to lose their virginity. But when Luke sees something unusual, he begins to suspect that the girls on campus aren't exactly human.",
+    "rating": "4.7",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "The Eye 2",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjY5YzExYzQtZjU4Yy00NDg3LWIwN2ItOWFmMzhiMDQwNzE2XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0405061",
+    "description": "After a failed suicide attempt, a pregnant woman gains the ability to see ghosts.",
+    "rating": "5.6",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Saint Ange",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGNkMWI3OWUtNDI0Ny00NDJkLWE3ODMtMjAyNjNhYTdjMzM3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0367000",
+    "description": "Anna is a servant who accepts a post at the St. Ange. She arrives to confront an unsettling lack of orphans, save for one. Then the bizarre sights and sounds begin, which seem to elude detection by the other servant or the gloomy director.",
+    "rating": "5.0",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Shallow Ground",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MTc3NDk4M15BMl5BanBnXkFtZTcwNjUyMDgyMQ@@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0369918",
+    "description": "A naked teenage boy covered in blood appears at a remote sheriff's station one year after the brutal unsolved murder of a local girl. Now Sheriff Jack Shepherd, guilt ridden over the girl's murder, must confront his own demons as he desperately searches for the boy's true identity and possible victims. Little does Jack realize that he has started down a path that will bring him face to face with an unthinkable horror. Before sunrise the living will pay for the pain the dead have suffered.",
+    "rating": "4.9",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Izo",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMDY1MzM1M15BMl5BanBnXkFtZTcwMDI3MzEzMQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0377079",
+    "description": "An executed samurai takes an existential journey throughout time, space and eternity in search of bloody vengeance.",
+    "rating": "6.0",
+    "movieLength": "2h 8m"
+  },
+  {
+    "title": "Murder-Set-Pieces",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZjJiMWYtZDA2OC00YWY0LTkwNWEtMjk3YTVmOTAxOTdkXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt0422779",
+    "description": "A fashion photographer exposes his demented childhood and zooms his evil lens on the oldest profession under the moon, in quite possibly the most notorious serial killer film ever made.",
+    "rating": "3.7",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Incident at Loch Ness",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTUwMTYzN15BMl5BanBnXkFtZTcwNzA4MDcyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0374639",
+    "description": "A documentary exploring the myth of the Loch Ness monster.",
+    "rating": "6.4",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Romasanta",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwMzYxOTI4M15BMl5BanBnXkFtZTcwMDQzNDMzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0374180",
+    "description": "An uproar is caused when some mutilated cadavers are discovered, giving way to the legend of the \"Werewolf of Allariz\". A traveling vendor rolls through the forest in his old wagon. A woman from every village on his route faithfully awaits him. He's attractive, intelligent, charming.... But he's also the monster feared by all. His most recent prey, Barbara will soon become the one who hunts him down. The film is based on the true-life story of Manuel Blanco Romasanta, the traveling vendor, who confessed to the murders of thirteen people, using their body fat to make soap. Romasanta was tried in Allaríz in 1852 and avoided capital punishment by proclaiming he was a werewolf. Barbara was the lone survivor of four sisters.",
+    "rating": "5.2",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Hellbent",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NDg2NTgyNF5BMl5BanBnXkFtZTcwNzQ4NjkzMQ@@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+    "imdbId": "tt0356159",
+    "description": "Halloween in West Hollywood, two guys making out in a park are interrupted by a serial killer. Later that night, a group of gay kids decide to visit to the site of the murders.",
+    "rating": "5.5",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "The Maize: The Movie",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNDUzNTQxOV5BMl5BanBnXkFtZTcwNjI1ODgyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0451109",
+    "description": "A father's psychic abilities are put to the test when his two daughters are trapped inside of a corn maze haunted by the spirits of two young girls who disappeared a year earlier.",
+    "rating": "1.6",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Pterodactyl",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNTk0ODI0NF5BMl5BanBnXkFtZTcwOTE5MjYzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0452668",
+    "description": "A dormant volcano deep with the Turkish forest holds a deadly secret. Perfectly preserved, a nest of pterodactyl eggs are ready to hatch...",
+    "rating": "3.2",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Zombie Honeymoon",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzMjMzOTEwN15BMl5BanBnXkFtZTcwMTY1MjcyMQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0399934",
+    "description": "Zombie Honeymoon is a gore-soaked exploration of how far the boundaries of true love can be pushed without reaching a breaking point.",
+    "rating": "4.5",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Rottweiler",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTI2NTY4YTMtNWFjZi00MDI0LTgwZDYtOTg5YzhkYzk0NDg2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0371920",
+    "description": "Dante travels across a desolate, futuristic Spain in search of his girlfriend, Ula. He is pursued by a bloodthirsty, cybernetic Rottweiler.",
+    "rating": "3.1",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Blessed",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmFiNDY0ZjctZTk1NC00NWRhLTllNTQtYTQ4ZmVlYTYyZTE1XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0390450",
+    "description": "A fertility clinic visit becomes an unfathomable nightmare for a woman who's impregnated with the devil's DNA.",
+    "rating": "4.2",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Dead Meat",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTJlNGFmNTAtZjU5NC00MjA2LThjZmQtODJjN2ZhMWFmYmJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt0369359",
+    "description": "An infection spreads from slaughtered animals to humans, which causes the dead to rise and feed on the living.",
+    "rating": "4.7",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Dinocroc",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MjAxMzI3MF5BMl5BanBnXkFtZTYwNjkwMTc3._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt0365653",
+    "description": "After an African dinosaur ancestor of the crocodile is found, Dr. Campbell uses its DNA to create prototypes at Paula Kennedy's Gereco lab.",
+    "rating": "3.4",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Vampires: The Turning",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAyMzI4MzIyNl5BMl5BanBnXkFtZTgwMTQyOTkwMzE@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0398378",
+    "description": "An American muay-thai fighter in Thailand must join forces with a group of vampire hunters to track down and kill a vampire lord who has kidnapped his gilfriend.",
+    "rating": "3.6",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "The Hazing",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwOTg0NDQzOV5BMl5BanBnXkFtZTcwNjg5ODYyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0366555",
+    "description": "Several college kids spend the night in a spooky mansion in an attempt to pledge fraternities and sororities. A deranged \"professor\" begins murdering them. They must figure why, and also if one or more of them are working with the killer.",
+    "rating": "5.4",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "King of the Lost World",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTgyMzQxMF5BMl5BanBnXkFtZTcwNzQ0NDIzMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0478188",
+    "description": "Sir Arthur Conan Doyle's action-adventure classic, four plane crash survivors encounter danger in a world that time forgot.",
+    "rating": "2.4",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Skinned Deep",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzBmMmIxYjItMTljZS00YjBkLTkxYzYtOTVkNTAxYmVjYTMzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0304722",
+    "description": "A family vacation is turned into a nightmare when they are abducted by a family of deranged killers in this \"Texas Chainsaw\" style comedy sci-fi horror thriller romantic drama.",
+    "rating": "4.2",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Camp Slaughter",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODBjNjQ2ZTEtNTk5NC00MGUyLWFjMTktMTRlMjc1NWQwYjY1XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0337910",
+    "description": "A bunch of kids go to the woods to party. At the same time a freak known as The Bunny Man has escaped from his nest...",
+    "rating": "2.5",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "The Curse of the Komodo",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTUyYzk0ZTQtYzkzNS00MmVkLTljNTEtYzRmMWNmYzVlMWQ2XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0346811",
+    "description": "Genetically-engineered Komodo dragons have become ginormous creatures hunting people on a remote tropical island. A small group of scientists must stop the dragons before they escape the island and destroy the rest of the world.",
+    "rating": "3.0",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Trespassing",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTU2NzA0OWMtMjNjMi00NTdjLWFkZDItNDY1ZGVjZThhZGJjXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0350232",
+    "description": "A graduate student preparing his thesis on mythology leads his friends on a research expedition to an old plantation estate on the outskirts of the Big Easy. The site is reputed to mysteriously cause madness and death to all who enter it.",
+    "rating": "3.9",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Breaking Dawn",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNTQ4MTY4Ml5BMl5BanBnXkFtZTcwMTEzNTgyMQ@@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+    "imdbId": "tt0366518",
+    "description": "A medical student is assigned to a psychiatric patient to discover the truth about a brutal murder, but he instead rants about danger in the outside world. The student dismisses his claims as paranoia - until someone begins.",
+    "rating": "5.5",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Eternal",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzgxNDI0NzQ3NF5BMl5BanBnXkFtZTcwNDI2MDEzMQ@@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+    "imdbId": "tt0382019",
+    "description": "Detective Raymond Pope is a detective of questionable morals, searching for his missing wife. His investigation leads him to the wealthy estate of the enigmatic Elizabeth Kane and her young maid Irina.",
+    "rating": "4.8",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Death Valley: The Revenge of Bloody Bill",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTliMDFlZDUtOGU0Zi00ODQ2LWJmMGMtMTZkMTM2MGZkNzg1XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0403885",
+    "description": "When a group of college kids stumble upon a small abandoned town of Sunset Valley, they must fight a band of Zombies led by a soldier seeking retribution for his grisly execution.",
+    "rating": "3.0",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Straight Into Darkness",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNTIzODgwM15BMl5BanBnXkFtZTcwOTQ0MDA0MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0287733",
+    "description": "When two young American GIs desert their platoon in the final days of World War II, they will find themselves struggling against all odds to stay alive.",
+    "rating": "5.0",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "11:11",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIyYWM0NmEtYjY2YS00YzVjLTkyMjQtNzg2M2IzMDQ5NDVmXkEyXkFqcGc@._V1_QL75_UY207_CR9,0,140,207_.jpg",
+    "imdbId": "tt0396401",
+    "description": "A troubled young woman, haunted by her mother's ghost, is suddenly confronted by paranormal events which are wreaking havoc on her small college town. She struggles to understand the meaning of these supernatural events...",
+    "rating": "3.6",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Hair High",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhmZWY1NmItOGFjNi00NDBkLWFlNTQtMThlY2ZkMDAxNTJjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0365296",
+    "description": "A gothic '50s high-school comedy about a love-triangle that goes terribly bad, as two young, murdered teens return to their prom to get revenge.",
+    "rating": "6.7",
+    "movieLength": "1h 18m"
+  },
+  {
+    "title": "The Lazarus Child",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWU5MzNiMTEtZGI3MC00ZDJlLWFlNDEtMDJhMWVhYTI5MzY4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0368836",
+    "description": "A road accident leaves seven-year-old Frankie Heywood gravely injured and deeply comatose, when she is hit by a bus, and her twelve-year-old brother Ben severely depressed and traumatised after he witnessed the event. Their parents, Jack and Alison, have to put aside their fights over their unstable marriage to focus on their damaged children. But as life looks as if it will never improve for the Heywoods, Jack and Alison hear of a controversial medical therapy that could cajole Frankie from her coma. The treatment involves communicating with the comatose patient to coax them back to consciousness and Ben is the key to unlocking Frankie from her sleep. But will the Heywoods risk their son to save their daughter...?",
+    "rating": "4.8",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Feng Shui",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmEzZGMzMTctZGQ2Ny00MzAxLWIzOGMtNmJjMTA5MzM1NTlkXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt0430082",
+    "description": "After finding a Feng Shui amulet, Joy starts to see a string of fortunate events come her way. Soon, she realizes it is, in fact, a curse. Now she must break the cycle of good fortune and death in order to save her family.",
+    "rating": "6.4",
+    "movieLength": "1h 57m"
+  },
+  {
+    "title": "The Halfway House",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzODIyMzUwOF5BMl5BanBnXkFtZTcwNTU1OTAzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0390073",
+    "description": "Young girls are disappearing in and around the Mary Magdalen Halfway House for Troubled Girls. Desperate to find out what became of her sister, Larissa Morgan goes undercover to infiltrate the Catholic-run institution.",
+    "rating": "4.3",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Hide and Creep",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMjk2NTAyNV5BMl5BanBnXkFtZTgwMTQ1ODkwMzE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0422419",
+    "description": "Residents of a small Southern town contend with bloodthirsty zombies, a mysterious flying saucer, and bad television reception.",
+    "rating": "4.7",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Adam & Evil",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDczNGRkN2UtY2UzZS00ZDgwLTlhM2UtM2JjNmFlZjIxNjUxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0357414",
+    "description": "A group of sexy high school graduates are ready for a weekend of serious partying at a remote camp ground. Soon a murderer is on the loose...",
+    "rating": "3.2",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Starkweather",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzNjUxMzkzMF5BMl5BanBnXkFtZTYwNDAyOTg2._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0404456",
+    "description": "In 1958 Nebraska 19 year old garbageman Charles Starkweather goes on a murder spree with his 14 year old girlfriend Caril Ann Fugate killing 11 people in three months, introducing America to spree killing.",
+    "rating": "4.6",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "The Inn",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM1NDE4MDg5NV5BMl5BanBnXkFtZTcwMjcwMzQzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0435668",
+    "description": "When a TV reporter sets out to uncover a small town's hidden secret, she unwittingly becomes embroiled in a story that began with the curse of a Louisiana doll-maker over 40 years earlier.",
+    "rating": "4.0",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "SideFX",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1MjA2NjkyMF5BMl5BanBnXkFtZTcwNjgxNTUzMQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0441821",
+    "description": "Sex, drugs, and rock-and-roll will never be the same after a medieval sex drug makes a comeback on the college party scene. Everyone wants to try this \"orgasm\" drug but no one considers the side effects. This drug took its first victims in 1646. The church soon discovered that the blood-drained corpses found around the countryside were due to strigol, an elixir that made select victims thirst for blood. The drug wears off in hours, but while under its influence average men turn into animals. The church destroyed much of the strigol, or the vampire, but not all. And now, it's back. It's October 2004, and some college students are throwing a party at an abandoned farm to introduce their latest discovery, AYCE, a drug they promise is like nothing else. The one person who knows the side effects arrives too late. The bash becomes a bloodbath, and for the next few hours no one knows who will become the next victim or the next vampire.",
+    "rating": "3.0",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Serial Killer",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQwZmNmZTMtODgyOS00N2NlLWI4YzMtNDU2MzlhYzY1ZDc0XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0122247",
+    "description": "When a disgruntled high school senior gets hassled for his lack of ambition, he decides to devote his energy into becoming a serial killer. He starts out small until he meets the girl of his dreams who wants to be his first victim.",
+    "rating": "5.2",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Lucky",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MjAxNTU2NV5BMl5BanBnXkFtZTcwNDkxNTAzMQ@@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt0299014",
+    "description": "Ever have one of those lifetimes where nothing seems to go right? Failing cartoon writer, Millard Mudd, has sunk deep into one. Living hermit-like and existing on a strict alcohol diet, Mudd's world has collapsed. But one day everything changes when a dog named Lucky enters his life. You see, what makes Lucky no ordinary dog is his ability to talk. And what makes Lucky invaluable is his ability to teach Mudd how to write again. But what makes Lucky dangerous is his ability to get inside Mudd's head and turn him into a serial killer.",
+    "rating": "5.3",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Parasite",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY1NTA4MDQ4Nl5BMl5BanBnXkFtZTcwNzMyMTUxMQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0352699",
+    "description": "A cleaning fluid experiment on an oil rig turns disastrous when a worker goes missing and eco-activists seize the rig, before a dangerous new creature forces workers and activists to band together.",
+    "rating": "2.8",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Wilderness Survival for Girls",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZhM2RiODctNWNjNi00ZmNhLWFlZGYtYzgyODFiZDExODRlXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0387691",
+    "description": "Three high-school girls on a weekend getaway impulsively take a menacing trespasser captive when he shows up at their remote mountain cabin. Fueled by desperation and alcohol, they endure a long, terrifying night with their captive.",
+    "rating": "5.4",
+    "movieLength": "1h 18m"
+  },
+  {
+    "title": "Chainsaw Sally",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1ODE3MDU5MV5BMl5BanBnXkFtZTcwNTI3MDAzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0385592",
+    "description": "A young woman, traumatized after witnessing the murder of her parents as a young girl, grows up to be a serial killer whom gets her inspiration for killing from horror films.",
+    "rating": "4.4",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Freak Out",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMjEyNTQxN15BMl5BanBnXkFtZTcwNjgxNjYzMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0329099",
+    "description": "Two best friends, Merv Doody (James Heathcote) and Onkey (Dan Palmer), take a hapless escaped mental patient under their wing and attempt to teach him how to become a real serial killer.",
+    "rating": "5.1",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Darkhunters",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NjMwMDI1Nl5BMl5BanBnXkFtZTYwMzUxNzk5._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0337598",
+    "description": "They say the only thing you can depend upon in life is death. Charles Jackson is about to find out that isn't true. Dying is a tricky process and mistakes get made. How many ghost stories have you heard over the years? And what is a ghost but a mistake of death, an unclaimed soul forgotten by God. Now his only hope to get to heaven is the mysterious Carol Miller, a Dark Hunter, whose job it is to return those souls to death before others find them, for a soul is a valuable commodity and there are those who do not serve God but a darker master, who would eagerly exploit this. Darkhunters creates a world of demons and angels that will take you beyond your imagination.",
+    "rating": "2.4",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Nursie",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNDIyOTY4M15BMl5BanBnXkFtZTcwMjk0ODIzMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0313013",
+    "description": "A young man is held captive by a sadistic nurse.",
+    "rating": "5.4",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Jennifer's Shadow",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZiNGM0NjItNjA4YS00NDlmLWEyZDQtNzYwOTA1YzlkZTA5XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0382761",
+    "description": "Shaken by the recent, unexpected death of her twin sister, Jennifer travels to Buenos Aires to execute the will and claim her inheritance. There, she encounters her remarkably well-preserved grandmother, who might be hiding something.",
+    "rating": "4.4",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTkyNWU4OTktYzBhYS00N2Y0LWI1ZmItYWQ1OTdjN2Q5Y2NiXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0364599",
+    "description": "A corrupt young man somehow keeps his youthful beauty, but a special painting gradually reveals his inner ugliness to all.",
+    "rating": "3.9",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Hellbreeder",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2MxZWE5Y2MtOTRiNi00NzIzLWI2OGMtNzY3OGYwMDZjZDRlXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0359398",
+    "description": "Five years ago Alice's son was murdered. Every day is consumed with the need to find his killer. The arrival of a mysterious stranger leads Alice to suspect him to be the killer and coincides with a renewed spate of horrific child murders.",
+    "rating": "2.1",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Creature Unknown",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjM1NDcwMTI2M15BMl5BanBnXkFtZTcwNjI5ODYyMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0314204",
+    "description": "A weekend reunion becomes a confrontation with an incredible, inhuman creature as a group of young adults are forced to face the terrible sins of their past.",
+    "rating": "3.2",
+    "movieLength": "1h 19m"
+  },
+  {
+    "title": "The Birthday",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4ODk1ODkwM15BMl5BanBnXkFtZTcwMjM1ODkzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0402063",
+    "description": "Norman, a young man very much in love with his girlfriend, attends her father's birthday party, held in a hotel where a sect happens to be preparing for the birth of the god it worships.",
+    "rating": "5.7",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "The Off Season",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmE3ZmJiZWEtYTMxMC00MTdmLTk4MGItMjJhYTdhMWY2ODhkXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0387460",
+    "description": "A couple stay in a dingy motel in Maine to try and escape their hectic lives, but are haunted by spirits of previously murdered guests.",
+    "rating": "2.8",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Evil Eyes",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4MzIwNjk1NF5BMl5BanBnXkFtZTcwNjM0NDIzMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0404031",
+    "description": "A screenwriter is plagued by nightmares as he writes a script about a family that was slaughtered years before. Soon, the grisly murders he's writing about actually start to happen.",
+    "rating": "3.5",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Dead End Road",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMjIyMzY0NV5BMl5BanBnXkFtZTgwMzI0MDA2MDE@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+    "imdbId": "tt0439532",
+    "description": "Detective Burt Williams has been on the trail of the infamous \"Poe killer\" for nearly three years.",
+    "rating": "2.7",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Dead Clowns",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5YWM0OTctZjUxYi00YWMwLTgzMmUtZDVlNmFkNjU0Y2IwXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0372859",
+    "description": "Dead Clowns revolves around ordinary people in a small town in Florida. A hurricane has just slammed into the area, causing torrential downpours, whilst also awakening the clowns that died in the bay of the town. These clowns have only revenge on their mind since everyone had tried to erase their memories of the horrific accident. The clowns not only kill, but resort to cannibalism and slaughter the people one by one. Can there be an end to this mayhem or will the town be doomed?",
+    "rating": "2.3",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Insight of Evil",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmExZDZlOWUtMTc2Yy00M2MyLWE4ZTAtMWEwODEwYmRmNmYxXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0415068",
+    "description": "Eight months after her sister is brutally murdered, Tanya and her friends go to a cottage to celebrate high school graduation. But their party quickly turns into a blood bath as she stumbles upon the secret that was buried with her twin.",
+    "rating": "2.4",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Centipede!",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmE5NTQ5NzEtODA3ZS00MTg1LThmNzUtYWM2MWZiZTAwZTYzXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0321626",
+    "description": "A group of cave explorers are menaced by giant centipedes.",
+    "rating": "3.2",
+    "movieLength": "1h 33m"
+  }
+]

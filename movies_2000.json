@@ -1,0 +1,515 @@
+[
+  {
+    "title": "American Psycho",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0144084",
+    "description": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+    "rating": "7.6",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Final Destination",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODNhM2E4NDItMjFjZS00ODBlLWJlOTctZDgzZTY4YmZmY2YzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0195714",
+    "description": "After getting a premonition about a plane crash on his school trip, Alex, a student, saves a few of his classmates. However, their situation gets complicated when death starts chasing them.",
+    "rating": "6.7",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Pitch Black",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGJlYjllOTUtZGRiNS00YmI4LTkxYmItYjBmYTdmZWZlMTMxXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0134847",
+    "description": "A transport ship crashes and leaves its crew stranded on a desert planet inhabited by bloodthirsty creatures that come out during an eclipse.",
+    "rating": "7.0",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "Scream 3",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc4MThjNDItNWIzYy00NjA5LWExMTAtNjAzZGQwZTViN2ZiXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0134084",
+    "description": "While Sidney and her friends visit the Hollywood set of Stab 3, the third film based on the Woodsboro murders, another Ghostface killer rises to terrorize them.",
+    "rating": "5.7",
+    "movieLength": "1h 56m"
+  },
+  {
+    "title": "Hollow Man",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ2OTk4YTMtNmM1Mi00YjczLWExMTktOWM1ODIyMzJmODMzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0164052",
+    "description": "A brilliant scientist's discovery renders him invisible, but transforms him into an omnipotent, dangerous megalomaniac.",
+    "rating": "5.9",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "What Lies Beneath",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTRlMGVhOWYtMmNhZS00Y2Y4LTg3N2EtMmE4YTcwNGM3NTAwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0161081",
+    "description": "The wife of a university research scientist believes that her lakeside Vermont home is haunted by a ghost - or that she is losing her mind.",
+    "rating": "6.6",
+    "movieLength": "2h 10m"
+  },
+  {
+    "title": "The Cell",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWMyN2RjZTgtOGFlMi00ZWIyLWFlNzktM2U1OTkxNWU0NzBhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0209958",
+    "description": "An F.B.I. Agent persuades a social worker, who is adept with a new experimental technology, to enter the mind of a comatose serial killer in order to learn where he has hidden his latest kidnap victim.",
+    "rating": "6.4",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "The Gift",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDlhOWFhNTctMTNiYS00NjEwLWJjNDQtMmEyOWZhZTA0YjgyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0219699",
+    "description": "Annabelle Wilson, a woman with psychic abilities, tries to find Jessica King, a young socialite who has mysteriously disappeared. While the search continues, she starts to suspect the townspeople.",
+    "rating": "6.7",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "Ginger Snaps",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWVhNDMxOTUtNmMxOC00YmNiLWIxYjMtMDRmZDVkODAyZGU5XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0210070",
+    "description": "Two death-obsessed sisters, outcasts in their suburban neighborhood, must deal with the tragic consequences when one of them is bitten by a deadly werewolf.",
+    "rating": "6.8",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Shadow of the Vampire",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODcwOWM4MDEtMTMxMS00Zjg0LWJiNmYtYzE5MDFlMWEyYTdhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0189998",
+    "description": "The filming of Nosferatu: A Symphony of Horror (1922) is hampered by the fact that its star Max Schreck is taking the role of a vampire far more seriously than seems humanly possible.",
+    "rating": "6.9",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Book of Shadows: Blair Witch 2",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDI1NWIyZGQtZjM1NC00N2I1LWFmYjItZDliZjhmYjM4YTgxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0229260",
+    "description": "A group of tourists arrives in Burkittsville, Maryland after seeing The Blair Witch Project (1999) to explore the mythology and phenomenon, only to come face to face with their own neuroses and possibly the witch herself.",
+    "rating": "4.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Dracula 2001",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmY1YjVjNDctZDc3NC00YmM0LWE2ZGItZjE1ODk0ZWNiY2E5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0219653",
+    "description": "Dracula slakes his blood thirst and renews his search for love in New Orleans.",
+    "rating": "4.9",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Vampire Hunter D: Bloodlust",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE4MjMyOTQtZDI2OC00NTUxLTg3NzYtMDAxMzI2MmUzNjM4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0216651",
+    "description": "A legendary dhampir competes with a motley family of bounty hunters to return a young woman, who has been seemingly abducted by a vampire, to her family.",
+    "rating": "7.6",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Supernova",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYxYWEyYTUtOWFkMi00ZDFkLWExMWUtZjc0ZmQxNjZiMGM4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0134983",
+    "description": "A deep space rescue and recovery spaceship with a crew of 6 receives a distress call from a mining operation 3432 light years away. A rescue operation via dimension jump is made. Bad idea.",
+    "rating": "4.8",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Urban Legends: Final Cut",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzMzZWExODEtZDAxMC00NDIzLThlOTItZjhiYWI0MGU2ZTk3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0192731",
+    "description": "A film school is the center of a fresh spate of killings based on urban legends.",
+    "rating": "4.4",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Bless the Child",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzA1ZDVlZTAtZTgzNS00ZjM4LThmOTEtMWY1ZDRjNWJjYWZlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0163983",
+    "description": "Cody, a little girl abandoned by her mother and raised by her aunt, a nurse, is kidnapped. The girl's guardian, aided by an F.B.I. agent, learn that Cody has supernatural abilities, and the abductees are a Satanic cult willing to do anything to gain them.",
+    "rating": "5.1",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Versus",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzAxZWU0MWYtYmE4Ny00MWY3LWE3MTQtY2Q4ZDFiMWE2N2U1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0275773",
+    "description": "There are 666 portals that connect this world to the other side. These are concealed from all human beings. Somewhere in Japan exists the 444th portal.... The forest of resurrection.",
+    "rating": "6.3",
+    "movieLength": "1h 59m"
+  },
+  {
+    "title": "Blood: The Last Vampire",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWVjNDYwZmUtMzc4ZS00ZWEzLThjYmMtYmU2ZDE3Yjk4MmYzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0275230",
+    "description": "Saya is a Japanese vampire slayer whose next mission is in a high school on a US military base in 1960s Japan, where she poses as a student. She uses a katana/samurai sword to kill vampires.",
+    "rating": "6.6",
+    "movieLength": "48m"
+  },
+  {
+    "title": "The Crow: Salvation",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTc3MGQ5MzUtYWUxOC00YTg3LTg2MjMtNTIxODk0OGI5OTM5XkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+    "imdbId": "tt0132910",
+    "description": "Alex Corvis returns to the world of the living to solve the murder of a young woman that he was wrongly accused of.",
+    "rating": "4.9",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Lost Souls",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTlhNTQ1ZmQtMmNlOS00YzJkLTg5YTYtYzQzN2RlYmEzNjE5XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0160484",
+    "description": "A Catholic teacher meets an atheist journalist, whom a group of Catholics and Priests believes has been chosen by the devil to be the Antichrist.",
+    "rating": "4.8",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Psycho Beach Party",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGU0NmFjM2UtMWM4MS00YThmLWIwOGItZGRiN2QwNjRmYzI5XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0206226",
+    "description": "Chicklet is a sixteen-year old tomboy who's desperate to be part of the in-crowd of Malibu beach surfers. She's the typical American girl - except for one little problem: her personality is split into more slices than a pepperoni pizza.",
+    "rating": "6.0",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Bruiser",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3ODZlM2YtNDQxMi00N2FlLThhM2ItODVjMDBlYjg0MzdhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0212830",
+    "description": "After years of being tread upon and cheated on, a man awakens to find his face has a been replaced by a blank, white mask.",
+    "rating": "5.3",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Citizen Toxie: The Toxic Avenger IV",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWU5NzE2ZjAtNjU5Yy00MTlmLWEyNzctYTA3NjNlNDFiMzVlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0212879",
+    "description": "The Toxic Avenger must defend his friends from his own evil alternate universe doppelgänger, The Noxious Offender.",
+    "rating": "5.9",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "Ed Gein",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzOTAyNTA2MV5BMl5BanBnXkFtZTcwMDc1ODAzMQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0230169",
+    "description": "The story of Ed Gein, who dug up the corpses of over a dozen women and made things out of their remains before finally shooting two people to death and butchering their bodies like beef sides.",
+    "rating": "5.5",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Faust: Love of the Damned",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzJmNWMwOTItMjFjMi00OTcwLTk4MDItMWRhZWNmZTkyYjMyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0223268",
+    "description": "A man sells his soul to the devil to gain superpowers and avenge his girlfriend's brutal murder. When he realizes that the price is the soul of his new love interest, he turns on the devil.",
+    "rating": "4.4",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Cut",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTlmZTBjNTEtNDE5MC00YjRkLTlmZTMtNWQ2OTlkMzg4OTkxXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0189456",
+    "description": "Years after the original director was killed during the filming of a low-budget thriller, a crew of film students set out to finish where she left off. When the filming begins, so too do the killings.",
+    "rating": "4.4",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Chasing Sleep",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWQyMmU1ZmItOTJlZC00MGM4LTllNjMtNTNkMzgwYzdkMWQxXkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0221069",
+    "description": "A college professor wakes up to find his wife has not returned home, then struggles to understand her disappearance.",
+    "rating": "6.2",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "The Convent",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2IxMDJkZmQtOGI1MS00NmMzLWJkOWMtZThlNTA1ZjU1ZDIzXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0217331",
+    "description": "A group of college students break into an abandoned convent and become possessed by demonic spirits.",
+    "rating": "5.2",
+    "movieLength": "1h 19m"
+  },
+  {
+    "title": "Spiders",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQxNGM5MDAtOTdlZC00YWI0LThiY2YtOWNmM2JlMjBlMTY3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0203940",
+    "description": "A DNA experiment on a rare breed of spider is taking place on a NASA space shuttle, when a freak meteor shower engulfs the shuttle, causing everything to go horribly wrong.",
+    "rating": "3.9",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Christina's House",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk4MmQ2ZDItMDhkOC00MTM1LTlkNzYtZWRjMWI5NzY4ZWRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,10,140,207_.jpg",
+    "imdbId": "tt0216620",
+    "description": "A teenage girl fears for her sanity when strange occurrences give her new home a menacing air.",
+    "rating": "4.4",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Paranoid",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjAyMTNjYTQtY2E3NC00YmRiLWIwNzMtYTY5MDZiZDA5YzVlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0197750",
+    "description": "A fashion model, living in London, attends a dinner party in the country side. Her \"friend\" just leaves and she's stuck there. She's drugged, abused and filmed. She tries to escape and is chained. Who'll help?",
+    "rating": "4.0",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Seven Days to Live",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1ODM0NjUwOF5BMl5BanBnXkFtZTcwOTMyMTcyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0221928",
+    "description": "A grieving woman suffers terrifying visions of her own demise after she and her husband move into a country mansion.",
+    "rating": "5.1",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "The Calling",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMzNTY1MDMxMF5BMl5BanBnXkFtZTgwMTExNTgwMzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0218067",
+    "description": "A woman is used as a pawn to bring to fruition the rule of the Antichrist.",
+    "rating": "4.3",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Subconscious Cruelty",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExZjczZTctODc5Yy00NjgzLWFmYTAtMjFlZmU2ZjAyOGZkXkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0166370",
+    "description": "An anthology of horror, consisting of four segments all themed around gory subjects.",
+    "rating": "4.8",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "The American Nightmare",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWY5YTIwZmItOTVmZi00OWVmLTlkMmMtYmM1MWMxODU5YTEyXkEyXkFqcGc@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+    "imdbId": "tt0259182",
+    "description": "An examination into the nature of 1960s-'70s horror films, the artists involved, and how they reflected contemporary society.",
+    "rating": "7.2",
+    "movieLength": "1h 13m"
+  },
+  {
+    "title": "House on Terror Tract",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4OTM3NDg3MF5BMl5BanBnXkFtZTcwMjc1NjMyMQ@@._V1_QL75_UX140_CR0,15,140,207_.jpg",
+    "imdbId": "tt0211661",
+    "description": "A real estate agent terrifies a couple with the grim fates of the previous owners of a house they're looking at.",
+    "rating": "6.0",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "The St. Francisville Experiment",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWNkNDVlNzctYWY0YS00OTY0LTliNDAtYjc3OGZlNDg3ZjBjXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0218625",
+    "description": "Four young people spend a night in a haunted mansion.",
+    "rating": "3.9",
+    "movieLength": "1h 19m"
+  },
+  {
+    "title": "Sanctimony",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWZkNjcxYTktODg0NC00NzIwLTg2ZmEtMmQwYzJkN2I1NGE5XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0234652",
+    "description": "A handsome, brilliant stock trader, bored with his existence, becomes a serial killer.",
+    "rating": "2.9",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Devil in the Flesh 2",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWMxZDM4ZDEtZTU5NS00ZDE3LWI2YzgtMjdkNTc3ZTIwNzdmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0217086",
+    "description": "After escaping a mental institution, Debbie Strong steals the car, money and identity of a college co-ed and heads off to college where she becomes obsessed with Sam, a handsome writing teacher.",
+    "rating": "4.7",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "The Irrefutable Truth About Demons",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTgyNzQwOV5BMl5BanBnXkFtZTgwMzE1OTk1MDE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0267601",
+    "description": "An Anthropologist's life and reality are ripped apart by a Satanic cult.",
+    "rating": "5.4",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Lovers Lane",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTA4M2U3YjAtZGFlZS00NTg0LTllMjUtYjJlYTliNTRiNzM3XkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0187251",
+    "description": "A man who committed a series of murders thirteen years ago begins to hunt down his victims' children.",
+    "rating": "4.2",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Bram Stoker's Legend of the Mummy 2",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Y1YmU2Y2ItZTM5YS00MzMyLTk3ZTItYTNhZmNhNDA1MTU2XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0231138",
+    "description": "Six young archaeology students discover the remains of an ancient Aztec mummy and accidentally unleash the fury of an evil god.",
+    "rating": "2.1",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Junk: Shiryô-gari",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGZjMzFkN2QtNGJjMC00OTEzLWFiYWQtOGJiYWE2YTA0NDIzXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0273302",
+    "description": "A team of jewel thieves are caught between a yakuza gang and a mass of zombies when they enter an abandoned factory once used as a site for secret experiments by the U.S. military.",
+    "rating": "5.5",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "The Bare Wench Project",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MDc3Mzg4Nl5BMl5BanBnXkFtZTcwNzU0Nzg0MQ@@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0233289",
+    "description": "Four sorority girls with large breasts hike into the wood with their guide Lunk to find out the true story behind the Bare Wench. Then they show off their chests following a mangled version of the Blair Witch storyline.",
+    "rating": "3.4",
+    "movieLength": "1h 16m"
+  },
+  {
+    "title": "Island of the Dead",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3OTc0OTI3NF5BMl5BanBnXkFtZTcwMDQ3NzYxMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0157836",
+    "description": "Stranded on a deserted island, a group of people struggles to survive against a swarm of supernatural flies.",
+    "rating": "2.8",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Believe",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0OTE3NTY2M15BMl5BanBnXkFtZTcwODMxMzUxMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0207333",
+    "description": "After being kicked out of boarding school after boarding school, Ben is sent to live with his stern grandfather in a small town where nobody is interested in him except a girl named Katherine. The two become fast friends despite unexplained protests from Ben's grandfather and Katherine's uncle. Almost as soon as he arrives, Ben starts to see the ghost of a woman around his grandfather's house. He and Katherine want to help the ghost, who holds a connection to both of their families. As they research the past, Ben and Katherine find out that sometimes all you need to do to help someone is to believe.",
+    "rating": "5.1",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Big Monster on Campus",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQzYmE3NDctNTAzNC00ODVkLTgzODMtYWY4NGVkYWFiN2I5XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0164192",
+    "description": "A student receives a serial killer's brain in a transplant after being thrown into a pool with no water in it.",
+    "rating": "4.8",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Merlin: The Return",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhhYmZlY2UtMzM1MS00MWY3LWIwMTMtY2YxOGU1OTBiZDA0XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0193318",
+    "description": "A scientist awakens King Arthur and his knights, and the forces of good and evil do battle once more.",
+    "rating": "3.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Sideshow",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIwYjk2MWMtMWRjOC00MGM2LWExNDAtMTllZjY2YTQ0YTQ3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0253700",
+    "description": "While visiting a traveling carnival full of human freaks, high school students nearly join as permanent members.",
+    "rating": "4.9",
+    "movieLength": "1h 14m"
+  },
+  {
+    "title": "Ricky 6",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NTcwNTg2MF5BMl5BanBnXkFtZTYwMzkzMDg5._V1_QL75_UY207_CR9,0,140,207_.jpg",
+    "imdbId": "tt0156020",
+    "description": "Based on the true story of drugs, satanism, and murder in the upper class town of Northport, Long Island in 1984.",
+    "rating": "6.0",
+    "movieLength": "1h 51m"
+  },
+  {
+    "title": "Carnivore",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTYxYjhlODUtNjhjZC00OWFlLWEwYjUtMTEzMGQ2MzVhNzdkXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0251005",
+    "description": "A government experiment goes totally wrong as a creature confined in a hidden lab inside an abandoned house escapes. Afterwards, some teens show up to have a little fun in the house, not knowing that the beast is loose and watching them.",
+    "rating": "2.3",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "BigBrother.com the Movie",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MjM1Mjg3MV5BMl5BanBnXkFtZTcwMTYxNTAzMQ@@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt0243650",
+    "description": "Two young entrepreneurs open up a voyeuristic Internet site.",
+    "rating": "2.1",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Nutbag",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc3MjgyNzQ0NV5BMl5BanBnXkFtZTYwMDA5OTY3._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt0320187",
+    "description": "A serial killer stalks prostitutes on the mean streets of Las Vegas.",
+    "rating": "2.8",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Sacred Flesh",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMzIxNDIyNl5BMl5BanBnXkFtZTcwODQ0ODUyMQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0237680",
+    "description": "Taunted by visions of Mary Magdalene, who reveals the confessions of the younger nuns at the convent, the Mother Superior's mind is filled with the violent, sexual acts of her fellow sisters.",
+    "rating": "3.3",
+    "movieLength": "1h 15m"
+  },
+  {
+    "title": "The Spreading Ground",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDgzMWY4MDMtZjRiOC00MDlhLWFjYTYtNTE1MzcwYjc1NzYxXkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0228891",
+    "description": "When five bodies turn up in the waters of Burman City, its illusion of safety is shattered, and Mayer Hackett will stop at nothing to see the peace returned.",
+    "rating": "4.8",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Sleepy Hollow High",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg3MTAwMjg5OF5BMl5BanBnXkFtZTcwODcxMDcxMQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0232657",
+    "description": "5 teenagers are forced to clean up the woods of Sleepy Hollow, but one by one they are decapitated by a man with a jack-o-lantern mask and a sword, but who could it be?",
+    "rating": "2.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "The Doorway",
+    "year": "2000",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTc0NzViYmUtMzE5Yy00Njg1LTk3ODgtOGU4OTRjOWRjNDA4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0235353",
+    "description": "An easy paying job turns into a fight to the death, when college students realize that the house they're cleaning is a portal to Hell.",
+    "rating": "4.0",
+    "movieLength": "1h 31m"
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "title": "28 Days Later",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0289043",
+    "description": "Four weeks after a mysterious, incurable virus spreads throughout the United Kingdom, a handful of survivors try to find sanctuary.",
+    "rating": "7.5",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "The Ring",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0298130",
+    "description": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.",
+    "rating": "7.1",
+    "movieLength": "1h 55m"
+  },
+  {
+    "title": "Resident Evil",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI3YjJkN2ItY2ZmYS00Y2JhLTk2YTQtYzE5YWU5ODI1MzJmXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0120804",
+    "description": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+    "rating": "6.6",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Blade II",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGE5ZmY2NzEtZTEyMi00MWIyLThmOWYtYzJkOTQ0Y2U3ZWU1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0187738",
+    "description": "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+    "rating": "6.7",
+    "movieLength": "1h 57m"
+  },
+  {
+    "title": "Ghost Ship",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTA4NDIwMF5BMl5BanBnXkFtZTYwNTc4NDE3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0288477",
+    "description": "A salvage crew discovers a long-lost 1962 passenger ship floating lifeless in a remote region of the Bering Sea, and soon notices that its long-dead inhabitants may still be on board.",
+    "rating": "5.6",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "The Mothman Prophecies",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E2NGNhMzItZmQ5MC00NGM0LWE4MzYtODNjYmZkMDkyNDE4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0265349",
+    "description": "A reporter is drawn to a small West Virginia town to investigate a series of strange events, including psychic visions and the appearance of bizarre entities.",
+    "rating": "6.4",
+    "movieLength": "1h 59m"
+  },
+  {
+    "title": "Cabin Fever",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNTU3NzM2NDJeQTJeQWpwZ15BbWU2MDY2ODcyNw@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0303816",
+    "description": "Five college graduates rent a cabin in the woods and begin to fall victim to a horrifying flesh-eating virus, which attracts the unwanted attention of the homicidal locals.",
+    "rating": "5.6",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Cube 2: Hypercube",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg1Yzk1MzYtZWQ5OC00YWYyLWI2NjgtMzM1NzI3MjQyZDRkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0285492",
+    "description": "Eight strangers awaken with no memory, in a puzzling cube-shaped room where the laws of physics do not always apply.",
+    "rating": "5.5",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Dog Soldiers",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDI3ZTk0ZjItOTMwMi00NWM1LTk4YmItMjY3NDYyZWI4ZjYxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0280609",
+    "description": "A routine military exercise turns into a nightmare in the Scottish wilderness.",
+    "rating": "6.8",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Queen of the Damned",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDEyMzEzMV5BMl5BanBnXkFtZTYwMDM1NjA3._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0238546",
+    "description": "In this loose sequel to Interview with the Vampire: The Vampire Chronicles (1994), the vampire Lestat becomes a rock star whose music wakes up the equally beautiful and monstrous queen of all vampires.",
+    "rating": "5.3",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Eight Legged Freaks",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMzODg5MDk4OV5BMl5BanBnXkFtZTYwNTM0Nzc3._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0271367",
+    "description": "Venomous spiders get exposed to a noxious chemical that causes them to grow to monumental proportions.",
+    "rating": "5.5",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Bubba Ho-Tep",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWZiYTA4NTctMGQ5OC00MWMzLWE0YTUtZTllZTdjOTY0ZjNmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0281686",
+    "description": "When residents of their nursing home start dying of dubious causes, an aged Elvis and an African-American senior who claims to be President John F. Kennedy discover that the perpetrator is an Egyptian mummy with murderous intentions.",
+    "rating": "6.9",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Halloween: Resurrection",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTlhMTRiNDYtZjc3My00MDZmLWE4N2YtMGQ3YzE5ZTFiYTY2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0220506",
+    "description": "Three years after he last terrorized his sister, Michael Myers confronts her again, before traveling to Haddonfield to deal with the cast and crew of a reality show which is being broadcast from his old home.",
+    "rating": "3.9",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "May",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVlZWE4OWQtOGUyYS00MGFiLThhMjMtYTJlOWZkNGUwMDZhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0303361",
+    "description": "A socially awkward veterinary assistant with a lazy eye and obsession with perfection descends into depravity after developing a crush on a boy with perfect hands.",
+    "rating": "6.6",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "The Eye",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE3YmU1NTktMjEwZC00ZjY5LTk5N2MtNWM5YjY4NmQxNmJjXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0325655",
+    "description": "A blind girl gets a cornea transplant so that she will be able to see again. She gets more than she bargained for upon realizing she can also see ghosts.",
+    "rating": "6.6",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Below",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg2YzUzOTAtMjNjZi00MzY1LTk1NTgtZTQ2NjJiYzM4YzgzXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0276816",
+    "description": "The crew of a U.S. Navy submarine in World War II rescues survivors from a sunken ship, only to face a series of mysterious deaths and supernatural occurrences.",
+    "rating": "6.1",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Feardotcom",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyOTkwNzI4OV5BMl5BanBnXkFtZTYwNzk0MDg5._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0295254",
+    "description": "A New York City detective investigates mysterious deaths occurring 48 hours after users log onto a site named feardotcom.",
+    "rating": "3.4",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Darkness",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODc3ODdlMWMtY2M4OS00YWY1LTg1M2ItZWZiYmQ4YjE5YmJmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0273517",
+    "description": "There's something in this house - Something ancient and dark that remains still, hidden and silent. It can only wait, having been concealed in the shadows for years. In fact, its milieu is darkness.",
+    "rating": "5.4",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "They",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRkOWUyN2ItZjhmMC00YTUyLTliMzQtN2EwY2IyNDQzYjViXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0283632",
+    "description": "A psychology student and her friends start to have nightmares, resulting in strange marks appearing on their bodies.",
+    "rating": "4.8",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Deathwatch",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMwYTg3NDEtYmIyOS00NjIwLWExZWYtMTMzZDg1ZTA3NjQ2XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0286306",
+    "description": "In the middle of World War I, nine British soldiers caught behind enemy lines seek refuge in a complex network of German trenches. What they soon discover is that they aren't alone - and it isn't a German soldier that's hunting them down.",
+    "rating": "5.9",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "My Little Eye",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzEyZWE0ZGUtNjZkZi00YzBkLTk0MDctMjQ2OGU1ZTQ2ZmUwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0280969",
+    "description": "Five people are offered one million dollars to spend six months together in an isolated mansion, with cameras watching their every move.",
+    "rating": "5.5",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Dahmer",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRiMDc0ZTktODY2NC00NGM1LWI2ZGUtNDFmODQ3MTAyNWNiXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0285728",
+    "description": "Biopic about notorious American serial killer Jeffrey Dahmer, taking place in both the past and the present.",
+    "rating": "5.6",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Bundy",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM4NmQ1ZTMtODU5YS00NzYxLWE4ZjYtNTdkMjA2ZDFhZWVlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0284929",
+    "description": "The story of serial killer Ted Bundy.",
+    "rating": "5.8",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Vampires: Los Muertos",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FlMTI1YTYtY2E1Yy00ZmZlLTljMTAtMWUwZGZjNTU1OGU0XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0272147",
+    "description": "A vampire hunter and a priest fight a band of the walking dead in Mexico.",
+    "rating": "4.5",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Long Time Dead",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzA0MTQwOTdeQTJeQWpwZ15BbWU2MDc5MTg1Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0251806",
+    "description": "A young college student and his friends use an Ouija board to hold a seance, triggering a chain of mysterious deaths that may be caused by an otherworldly force.",
+    "rating": "4.7",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Survival Island",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwNDk5MjA2OF5BMl5BanBnXkFtZTcwNjU0NjIyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0201844",
+    "description": "A group of teens trapped on an island, and are haunted by a demon hidden inside a pinata.",
+    "rating": "2.5",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Sam gang",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjFhNTM5NWUtNzA2ZS00YjI4LTk0OTMtMWRjMWNjNzg3OWI4XkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0324242",
+    "description": "An anthology consisting of three horror shorts from different Asian directors: Memories by Kim Jee-woon, The Wheel by Nonzee Nimibutr, and Going Home by Peter Chan.",
+    "rating": "6.1",
+    "movieLength": "2h 20m"
+  },
+  {
+    "title": "Tattoo",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2QzMDZlM2MtOTVmMi00MzIwLWI1YTQtNmMyNTNmMGFhZjMxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0286204",
+    "description": "Two police detectives, a grizzled veteran and one fresh-faced rookie, hunt a ritualistic serial killer murdering people with tattoos and skinning them.",
+    "rating": "6.3",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Close Your Eyes",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDk5NDYyM15BMl5BanBnXkFtZTgwMjA0NDE2MTI@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0286594",
+    "description": "A hypnotherapist is caught up in the pursuit of a serial killer.",
+    "rating": "6.1",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Shuang tong",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTM0NTM3Njc4Nl5BMl5BanBnXkFtZTcwMzY4MjAwMQ@@._V1_QL75_UX140_CR0,22,140,207_.jpg",
+    "imdbId": "tt0284066",
+    "description": "An FBI Agent pairs with a troubled Taiwan cop to hunt for a serial killer who's embedding a mysterious fungus in the brains of victims.",
+    "rating": "6.4",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "The Collingswood Story",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGJkYWQxNTUtNzQ3Yi00MzhkLTg2Y2ItMmE3OTMwZGU2ZWUyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0328720",
+    "description": "A separated couple attempts to keep their friendship alive by video chatting. But a chance encounter with an online psychic initiates a disturbing reign of terror.",
+    "rating": "5.2",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Crocodile 2: Death Swamp",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDk5Njk5OV5BMl5BanBnXkFtZTcwODU3MjkyMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0257510",
+    "description": "A criminal carrying stolen money and gold hijacks a plane that crashes in a Mexican swamp, where the survivors are terrorized by a giant crocodile.",
+    "rating": "3.8",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Dracula: Pages from a Virgin's Diary",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjg4MmM1YmYtYzhkOS00NTllLWE0YjUtZjE3NDFiOTQwZWIzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0293113",
+    "description": "A ballet rendition of Bram Stoker's \"Dracula\", stylized as an Expressionistic silent film.",
+    "rating": "6.8",
+    "movieLength": "1h 13m"
+  },
+  {
+    "title": "Ritual",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODEzODY1YWEtN2Q3YS00ZThkLTljNmEtYTNjNTNlMThjZTA5XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0250698",
+    "description": "An American nurse living in Jamaica grows suspicious of the nearby group of Voodoo practitioners.",
+    "rating": "4.8",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Wishcraft",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzUyNDJiN2MtY2FhOS00YWRhLTk0MTctMDM0NTk3NDE4ZjQzXkEyXkFqcGc@._V1_QL75_UX140_CR0,10,140,207_.jpg",
+    "imdbId": "tt0255702",
+    "description": "Bret, a smart but unsociable high school kid, receives a strange box in the mail. A note tells him it will give him three wishes, but just as his new life is beginning, someone is murdering the popular kids in strange, inventive ways.",
+    "rating": "5.2",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "The Untold",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4MjgwMTU3Ml5BMl5BanBnXkFtZTYwMjYzMDk2._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0265944",
+    "description": "Harlan Knowles, billionaire and President of Bio-Comp Industries, heads up a team of experts in a quest to locate a company plane that disappeared over the remote forests of the Pacific Northwest.",
+    "rating": "3.5",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Taboo",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ3MDg4NzMyMF5BMl5BanBnXkFtZTgwMzQ1NjgwMzE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0288243",
+    "description": "While staying at a secluded mansion, six young adults reveal their personal demons during an innocent game called Taboo. They reunite a year later, only to realize that one of them wants them dead for their moral transgressions.",
+    "rating": "3.5",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "The Wisher",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0N2MzMjYtOWIwNy00ZjRmLTg3MzAtZTc4NDY0Y2VmNGM5XkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+    "imdbId": "tt0354216",
+    "description": "A high school girl gets nightmares and sleepwalks from watching horror movies. Her dad bans them but she's addicted and sneaks out to watch The Wisher. The horror becomes real.",
+    "rating": "4.4",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Slash",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjlmODJjYzQtMjY1MC00Mjk1LWI3MDQtYjhiOWM1NGQ5YzA3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0301848",
+    "description": "A rock band gets stuck on a haunted farm while visiting their lead singer's family.",
+    "rating": "4.3",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Unspeakable",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4ODcxNjkzMl5BMl5BanBnXkFtZTcwMTI0MTUyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0277412",
+    "description": "A woman battles an unspeakable terror.",
+    "rating": "3.6",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Blood Feast 2: All U Can Eat",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NDEwMzQ0NV5BMl5BanBnXkFtZTcwNDIyNTcxMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0282386",
+    "description": "A cannibal caterer kills various young women in preparation for a ritual feast for a long-dormant Egyptian goddess that has him under its control.",
+    "rating": "5.5",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Second Name",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NDg4Njc1N15BMl5BanBnXkFtZTcwMjQ0NDMzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0303021",
+    "description": "After the suicide of her beloved father, the biologist Daniella Logan visits her catatonic mother in a mental institution to tell the tragic event and her mother calls her \"Josephine\". Daniella goes to the cemetery and finds that her father's grave had been opened and his corpse was profaned. She decides to investigate, and receives a message of a diabetic priest, Father Elias, who tells her about an ancient fanatic religious sect of followers of Abraham that kills the first child. Later, she meets a weird man, Toby Harris, who claims to be his legitimate father. Daniella continues seeking the truth about her origins and discloses very dark secrets about her family and friends.",
+    "rating": "5.4",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Infested",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmUwNzdkOGEtODk1My00OTgzLWI3NTUtODIwZTMwNWVlNDllXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0287497",
+    "description": "A funeral for one becomes a deathtrap for many when five old friend are held hostage at a remote summer home infested with killer flies.",
+    "rating": "2.9",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "The Barber",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmFlOGYzZWEtNGU5Zi00OWRmLWE3ZTAtNmJiMTQ5MWI3ZWNkXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0280462",
+    "description": "Town barber Dexter Miles is surprised to overhear, while cutting the hair of police chief Vance Corgan, that the body of a woman he murdered a few days before has been recovered. He had hope that the body would not be found until spring.",
+    "rating": "5.7",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Nightstalker",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU5M2UxZjgtY2NiOS00MThjLWEzZGUtY2MwNDI0ZDQ4MDcxXkEyXkFqcGc@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt0342835",
+    "description": "Richard Ramirez, aka the Nightstalker, who terrorized people in Los Angeles during the 1980s, and the police had no clue with him.",
+    "rating": "3.4",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "The Greenskeeper",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5ZWRmNzUtYmJhMi00Zjg1LThkZjctMjRjZWQ0MWFhZDM3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0311231",
+    "description": "Assistant greenskeeper invites friends for a country club birthday party. A killer dressed as a greenskeeper crashes the party and kills people with golf tools.",
+    "rating": "3.5",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "A New Life",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMmEwNDAtMmViNy00Y2M3LWE5YzItM2M2N2IzMzhlMmQ0XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0310313",
+    "description": "The story involves a young American who falls obsessively in love with a mysterious courtesan named Melania against the backdrop of a dilapidated Eastern European landscape.",
+    "rating": "6.3",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Curse of the Forty-Niner",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2UwNTU3YTctMDUwYS00ZGZjLTlkOGItNDJkYjU3NDQzMGU2XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0325214",
+    "description": "A group of friends discover gold deep inside an old mine. But by taking the gold and think they've hit it big, they awaken a long dead miner who's Hell Bent on protecting his treasure.",
+    "rating": "3.6",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Vampire Clan",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNTQ1NTg1OF5BMl5BanBnXkFtZTYwMDMyMDg5._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0310298",
+    "description": "Based on the true story of the murder of a girl's parents in Eustis, FL (USA), five teens in a vampire cult on the run are captured by police in New Orleans, LA and tell their tale of how they got there.",
+    "rating": "4.1",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Snake Island",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDQzODU2NV5BMl5BanBnXkFtZTgwMzcyNzgwMzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0320483",
+    "description": "Tourists become endangered species while stranded on an island.",
+    "rating": "3.4",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "13th Child",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwOTY0MTM4MF5BMl5BanBnXkFtZTcwOTkxNTAzMQ@@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt0273041",
+    "description": "People are being killed by someone or something using superhuman strength. A clever DA Assistant is sent to investigate. Is this just a way to commit the perfect murder or will the legend of the Jersey Devil prove to be true?",
+    "rating": "2.9",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Fangs",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1ZWQyYTEtOWMxZi00MWQyLWFhMWYtMTRlYmNiYmY1OGM0XkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0282483",
+    "description": "It's the attack of the genetically-altered killer bats.",
+    "rating": "3.4",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Groom Lake",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NTM3NDkxMV5BMl5BanBnXkFtZTcwNjg4MDYxMQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0270393",
+    "description": "no description",
+    "rating": "2.8",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Wolves of Wall Street",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTY3NjM3NV5BMl5BanBnXkFtZTgwOTIwNzgwMzE@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0339918",
+    "description": "Jeff is ecstatic when he lands a job with one of New York's wealthiest financial firms. But the real secret to their success is an animal instinct that turns them into werewolves.",
+    "rating": "3.0",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Reflections of Evil",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxOTc4NzY1NV5BMl5BanBnXkFtZTcwNzgxNjM3MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0350044",
+    "description": "Julie, who died of a PCP overdose as a teen in the early '70s, searches from beyond the ethers for her little brother, Bob, an obese watch-seller, who is dying of sucrose intolerance, in the early '90s.",
+    "rating": "6.2",
+    "movieLength": "2h 18m"
+  },
+  {
+    "title": "The Frightening",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNzY4ODU0OV5BMl5BanBnXkFtZTcwNDY5NzIyMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0299905",
+    "description": "On his first day at Hallow End High School, Corey Peterson discovers that a rash of murders is occurring on campus. Soon, a battle emerges between jocks and geeks, and Corey must choose a side.",
+    "rating": "3.5",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Alone",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M4ZmY0N2MtZmY4Yi00NGMwLWJiNDQtMDVhNmI4NzdkNTg2XkEyXkFqcGc@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+    "imdbId": "tt0263053",
+    "description": "Experience the fear as you're sucked into the disturbed mind of Alex. Tormented by harrowing voices of the past Alex searches for the one girl who can silence the horror of a tortured soul. As the quest becomes darker and more sinister Alex's fear filled stalking leaves behind a trail of dead bodies. Inspector Hannah is the detective who makes a desperate attempt to piece together the mystery as he is drawn into this terrifying journey.",
+    "rating": "4.2",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "GhostWatcher",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1MjU0MDQ1OF5BMl5BanBnXkFtZTcwMjM5MzM2MQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0365262",
+    "description": "After a traumatizing attack on Halloween night forces Laura to become a shut-in. Her world turns further upside down as she begins to experience increasingly bizarre and frightening occurrences within her home. It is this intense situation which encourages her to seek help in the form of Elizabeth Dean, the webmaster for a popular ghost-hunting site. Dean does not believe in the existence of ghosts herself, but as the mystery surrounding Laura's nightmare unfolds, she soon becomes a true believer.",
+    "rating": "4.1",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Endangered Species",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ5ZTdhYTktMGZkNi00YzRkLTkwYjUtNWJhNWJhN2ExMTEzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0302531",
+    "description": "A killing machine from another world comes to Earth to kill humans.",
+    "rating": "4.2",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Killer Barbys vs. Dracula",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwODU0NzA1NF5BMl5BanBnXkFtZTcwMzUwNDAwMQ@@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0327001",
+    "description": "At one of their Gigs The Killer Barbys have to fight Dracula after he is awakened by their music.",
+    "rating": "3.0",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "The Nature of Nicholas",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2QwOTgwM2QtYWEyZC00MmJhLTg4ZDMtNDQxY2Y3MzA0NjlmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0305882",
+    "description": "After discovering that he is attracted to a classmate, an adolescent boy begins seeing and experiencing strange things.",
+    "rating": "6.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Ascension",
+    "year": "2002",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE2YzE3NzktZDY2Yy00ZTBlLThhOTctYTQ3NjRiYjI1MTUzXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0297745",
+    "description": "An unknown creature has murdered the Creator of Universe and unleashed the ability to produce miracles. This ability is now in the hands of human beings who have driven themselves into destructive envy and the horrible chaos of suddenly becoming Gods themselves.",
+    "rating": "4.7",
+    "movieLength": "1h 48m"
+  }
+]
