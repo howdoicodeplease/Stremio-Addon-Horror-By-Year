@@ -23,7 +23,7 @@ function loadMoviesFromFile(year) {
   
   year = year || 2024
   const filePath = path.join(`movies_${year}.json`);
-  // console.log(filePath);
+   console.log(filePath);
   
     try {
       const data = fs.readFileSync(filePath, "utf8");
