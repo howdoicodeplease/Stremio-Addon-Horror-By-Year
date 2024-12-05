@@ -44,8 +44,8 @@ const manifest = {
   catalogs: [
     {
       type: "movie",
-      id: "horror_movies",
-      name: "Horror Movies",
+      id: "horror_movies_by_year",
+      name: "Horror Movies By Year",
       extra: 
         [{
           name: "genre",
