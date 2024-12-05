@@ -71,7 +71,7 @@ builder.defineCatalogHandler(async ({ type, id, extra }) => {
   // console.log('Received extra parameters:', extra);
   // console.log(type, id);
   
-  if (type === "movie" && id === "horror_movies") {
+  if (type === "movie" && id === "horror_movies_by_year") {
     let movies = await loadMoviesFromFile(extra.genre);
     // console.log(movies);
     
