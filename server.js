@@ -5,7 +5,7 @@ console.log("Stremio Addon is starting");
 const addonInterface = require("./addon");
 
 // Serve the add-on on port 7000
-const port = process.env.PORT || 7000;
+const port = process.env.PORT
 
 serveHTTP(addonInterface, { port });
 
