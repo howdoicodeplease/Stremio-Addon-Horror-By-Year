@@ -1,0 +1,1604 @@
+[
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0468569",
+    "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "rating": "9.0",
+    "movieLength": "2h 32m"
+  },
+  {
+    "title": "Iron Man",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0371746",
+    "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "rating": "7.9",
+    "movieLength": "2h 6m"
+  },
+  {
+    "title": "Taken",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTAxNTY2NjMtYjk5Yy00Nzg4LTkyMmItYmMzMDM2OWQ1ZGQ3XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0936501",
+    "description": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
+    "rating": "7.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Kung Fu Panda",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDU5MDNiMGItYjVmZi00NDUxLTg2OTktNGE0NzNlNzM4NzgyXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0441773",
+    "description": "To everyone's surprise, including his own, Po, an overweight, clumsy panda, is chosen as protector of the Valley of Peace. His suitability will soon be tested as the valley's arch-enemy is on his way.",
+    "rating": "7.6",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "The Incredible Hulk",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0800080",
+    "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+    "rating": "6.6",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "Hancock",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0448157",
+    "description": "Hancock is a superhero whose ill-considered behavior regularly causes damage in the millions. He changes when the person he saves helps him improve his public image.",
+    "rating": "6.4",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFiMDk2NzItZDU5Ni00ZjBjLTkzYWQtYzcwZDIwMWZjMmZiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0367882",
+    "description": "Set in 1957, it pits Indiana Jones against Soviet KGB agents led by Irina Spalko searching for a telepathic crystal skull located in Peru.",
+    "rating": "6.2",
+    "movieLength": "2h 2m"
+  },
+  {
+    "title": "Quantum of Solace",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmMwZTA3MTAtNWU0Yy00NGZmLTg0YmItZTVkZGFjZTI1ZWJiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0830515",
+    "description": "James Bond tries to stop an organisation from eliminating a country's most valuable resource.",
+    "rating": "6.5",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Tropic Thunder",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE5NjQzMDkzOF5BMl5BanBnXkFtZTcwODI3ODI3MQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0942385",
+    "description": "Through a series of freak occurrences, a group of actors shooting a big-budget war movie are forced to become the soldiers they are portraying.",
+    "rating": "7.1",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Cloverfield",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWM3NmYyMjAtMjU3YS00MDJjLThmNDItNWUzZmFmMzk5NTEyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt1060277",
+    "description": "A group of friends venture deep into the streets of New York on a rescue mission during a rampaging monster attack.",
+    "rating": "7.0",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Wanted",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjQxMTE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0493464",
+    "description": "A frustrated office worker discovers that he is the son of a professional assassin, and that he shares his father's superhuman killing abilities.",
+    "rating": "6.7",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Pineapple Express",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1MTE4NzAwM15BMl5BanBnXkFtZTcwNzg3Mjg2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0910936",
+    "description": "A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him.",
+    "rating": "6.9",
+    "movieLength": "1h 51m"
+  },
+  {
+    "title": "Jumper",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ3NjA3NTYtNDJiYi00ZTE0LWFmNzMtZjc0NTUxNjk2YTFkXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0489099",
+    "description": "A young man with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.",
+    "rating": "6.1",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Hellboy II: The Golden Army",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzgyMjc2Nl5BMl5BanBnXkFtZTcwOTU3MDI3MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0411477",
+    "description": "A prince of the mythical world starts a rebellion against humanity in order to rule the Earth. Hellboy and his team must fight to stop him from locating the all-powerful Golden Army.",
+    "rating": "7.0",
+    "movieLength": "2h"
+  },
+  {
+    "title": "RocknRolla",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NTk5Mzk2OV5BMl5BanBnXkFtZTcwMDE3NTE4MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1032755",
+    "description": "When a Russian mobster orchestrates a crooked land deal, millions of dollars are up for grabs, drawing in the entire London underworld into a feeding frenzy at a time when the old criminal regime is losing turf to a wealthy foreign mob.",
+    "rating": "7.2",
+    "movieLength": "1h 54m"
+  },
+  {
+    "title": "Rambo",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5Mjg1MzM4NF5BMl5BanBnXkFtZTcwNTAyNzUzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0462499",
+    "description": "In Thailand, John Rambo joins a group of mercenaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit.",
+    "rating": "7.0",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Body of Lies",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzOTY3MTM0OV5BMl5BanBnXkFtZTcwNjc5MTI5MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0758774",
+    "description": "A CIA agent on the ground in Jordan hunts down a powerful terrorist leader while being caught between the unclear intentions of his American supervisors and Jordan Intelligence.",
+    "rating": "7.0",
+    "movieLength": "2h 8m"
+  },
+  {
+    "title": "Ip Man",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmJjZDE0MmYtNzgwYy00NTg2LWE0NDYtNzA0YTA4MjA0NmYxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt1220719",
+    "description": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to survive.",
+    "rating": "8.0",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Get Smart",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NzQ4MDU0NV5BMl5BanBnXkFtZTcwMzA2NzQ2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0425061",
+    "description": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, is tasked with preventing a terrorist attack from rival spy agency KAOS.",
+    "rating": "6.5",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTBiYzYyYWYtYTZlMC00OGYyLTg1ZTYtYWU4OGY4NTRhMzg4XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0499448",
+    "description": "The Pevensie siblings return to Narnia, where they are enlisted to once again help ward off an evil king and restore the rightful heir to the land's throne, Prince Caspian.",
+    "rating": "6.5",
+    "movieLength": "2h 30m"
+  },
+  {
+    "title": "Death Race",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdlNmJjM2ItYjkwOS00NDMxLWFjM2QtNzcyZjJkYzEzYzQ5XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0452608",
+    "description": "Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in our post-industrial world's most popular sport: a car race in which inmates must brutalize and kill one another on the road to victory.",
+    "rating": "6.4",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "You Don't Mess with the Zohan",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0960144",
+    "description": "An Israeli Special Forces Soldier fakes his death so he can re-emerge in New York City as a hair stylist.",
+    "rating": "5.6",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "Eagle Eye",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MTMzMDMzNl5BMl5BanBnXkFtZTcwMzUwNDUzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1059786",
+    "description": "Jerry and Rachel are two strangers thrown together by a mysterious phone call from a woman they have never met. Threatening their lives and family, she pushes Jerry and Rachel into a series of increasingly dangerous situations, using the technology of everyday life to track and control their every move.",
+    "rating": "6.6",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "Transporter 3",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzg1OTU4M15BMl5BanBnXkFtZTcwMjcyMjI5MQ@@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt1129442",
+    "description": "Frank Martin is forced to deliver Valentina, the kidnapped daughter of a Ukrainian government official, from Marseilles to Odessa on the Black Sea. En route, he has to contend with thugs who want to intercept Valentina's safe delivery.",
+    "rating": "6.1",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "The Mummy: Tomb of the Dragon Emperor",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NDIzMDY1OV5BMl5BanBnXkFtZTcwNjQxMzk3MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0859163",
+    "description": "In the Far East, Alex O'Connell, the son of famed mummy fighters Rick and Evy O'Connell, unearths the mummy of the first Emperor of Qin -- a shape-shifting entity cursed by a witch centuries ago.",
+    "rating": "5.2",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "Defiance",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2YzY2UzMDUtODM1NS00MmNlLTg0Y2EtYjhiODczMmExMGFlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1034303",
+    "description": "Jewish brothers in German-occupied Eastern Europe escape into a Belorussian forest, where they join Russian resistance fighters, and endeavor to build a village, in order to protect themselves and about one thousand Jewish non-combatants.",
+    "rating": "7.1",
+    "movieLength": "2h 17m"
+  },
+  {
+    "title": "Vantage Point",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MjI1NjMzNV5BMl5BanBnXkFtZTYwNDc4Njk3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0443274",
+    "description": "The attempted assassination of the American President is told and re-told from several different perspectives.",
+    "rating": "6.6",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Bronson",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTkyNTRkNWUtN2Q3MC00Mzg4LThlZTUtYzEyZjlkYjc1NDA3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt1172570",
+    "description": "A young man who was sentenced to seven years in prison for robbing a post office ends up spending three decades in solitary confinement. During this time, his own personality is supplanted by his alter-ego, Charles Bronson.",
+    "rating": "7.0",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "10,000 BC",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWZmYzI5OWMtZDg4Ny00ZThiLWFjYjQtNjQ1NzA1MWY1OTJiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0443649",
+    "description": "In the prehistoric past, D'Leh is a mammoth hunter who bonds with the beautiful Evolet. When warriors on horseback capture Evolet and the tribesmen, D'Leh must embark on an odyssey to save his true love.",
+    "rating": "5.1",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "Journey to the Center of the Earth",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk1MzY1MzU1MF5BMl5BanBnXkFtZTcwOTQ2NjM3MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0373051",
+    "description": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
+    "rating": "5.8",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Max Payne",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGY5NzEyZmEtMDUyYS00YTRmLWE0MjAtYTllM2YwMTg3OWUwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0467197",
+    "description": "Coming together to solve a series of murders in New York City are a police detective and an assassin, who will be hunted by the police, the mob, and a ruthless corporation.",
+    "rating": "5.3",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Street Kings",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjFiYzYyYWYtNTE2Mi00M2QyLWE3ODYtNDBiZGZiMDY0ZTdkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0421073",
+    "description": "An undercover cop, disillusioned by the death of his wife, is implicated in the murder of an officer and must struggle to clear himself.",
+    "rating": "6.8",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "The Forbidden Kingdom",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNTExMTg3NF5BMl5BanBnXkFtZTcwNDYyMTM2MQ@@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt0865556",
+    "description": "A discovery made by a kung fu obsessed American teen sends him on an adventure to ancient China, where he joins up with a band of martial arts warriors in order to free the imprisoned Monkey King.",
+    "rating": "6.5",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "Never Back Down",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNDg3MTIyMF5BMl5BanBnXkFtZTcwOTAwNDc1MQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt1023111",
+    "description": "A frustrated and conflicted teenager arrives at a new high school to discover an underground fight club, and meets a classmate who begins to coerce him into fighting.",
+    "rating": "6.5",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "The Spiderwick Chronicles",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWRiMmUzZTctYWUxNy00ZjkyLWE4NTctMzFlMTFkYmI5NmFkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0416236",
+    "description": "Upon moving into the run-down Spiderwick Estate with their mother, twin brothers Jared and Simon Grace, along with their sister Mallory, find themselves pulled into an alternate world full of faeries and other creatures.",
+    "rating": "6.5",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Babylon A.D.",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDcxODQ3ZWEtNWYxYS00OGI5LWIyM2QtNmJhMGM2MmJkNWNjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0364970",
+    "description": "Veteran-turned-mercenary Toorop takes the high-risk job of escorting a woman from Russia to America. Little does he know that she is host to an organism that a cult wants to harvest in order to produce a genetically modified Messiah.",
+    "rating": "5.5",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Fool's Gold",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3MTYxMDU5Ml5BMl5BanBnXkFtZTYwNTgwNzc4._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0770752",
+    "description": "A new clue to the whereabouts of a lost treasure rekindles a married couple's sense of adventure -- and their estranged romance.",
+    "rating": "5.7",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "Felon",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY3ZjgxZTgtN2E5Zi00ZDU3LTg0ZTQtYWIxNDM5OWVhYzVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt1117385",
+    "description": "Locked up for killing an intruder in self-defense, a family man must cope with life in the violent penal system.",
+    "rating": "7.4",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "Doomsday",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwODU2NzE2OF5BMl5BanBnXkFtZTcwMTAwMDA2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0483607",
+    "description": "A futuristic action thriller where a team of people work to prevent a disaster threatening the future of the human race.",
+    "rating": "5.9",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Speed Racer",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzE3MWIxNzktYzQyMy00NGQ5LThmZTktM2ZkZjc0NWEzZTg5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0811080",
+    "description": "Young driver, Speed Racer, aspires to be champion of the racing world with the help of his family and his high-tech Mach 5 automobile.",
+    "rating": "6.1",
+    "movieLength": "2h 15m"
+  },
+  {
+    "title": "Outlander",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmJjMDczZDktM2NhYS00NTgxLWE5MDctN2JlOGM0NzI1MDU1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0462465",
+    "description": "During the reign of the Vikings, Kainan, a man from a far-off world, crash lands on Earth, bringing with him an alien predator known as the Moorwen. Though both man and monster are seeking revenge for violence committed against them, Kainan leads the alliance to kill the Moorwen by fusing his advanced technology with the Viking's Iron Age weaponry.",
+    "rating": "6.2",
+    "movieLength": "1h 55m"
+  },
+  {
+    "title": "Superhero Movie",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0Njc1MTU5Nl5BMl5BanBnXkFtZTcwMjA4NDE2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0426592",
+    "description": "Orphaned high school student Rick Riker is bitten by a radioactive dragonfly, develops super powers (except for the ability to fly), and becomes a hero.",
+    "rating": "4.7",
+    "movieLength": "1h 15m"
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjExN2YwZmYtODlkNy00MTMzLWIwOTMtNDZlYWEzNjMxODBmXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt1185834",
+    "description": "As the Clone Wars sweep the galaxy, Anakin Skywalker and his new Padawan, Ahsoka Tano, embark on a mission to rescue the kidnapped son of Jabba the Hutt. The renegade Count Dooku, however, is determined to ensure that they fail.",
+    "rating": "5.9",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Ghajini",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjk3ZmQyYjAtZTgwZS00YjliLTljZmEtMDU1Nzk1Y2NhYmRlXkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt1166100",
+    "description": "A short-term memory loss patient goes on a killing spree in order to avenge the death of his ladylove.",
+    "rating": "7.3",
+    "movieLength": "3h 6m"
+  },
+  {
+    "title": "Punisher: War Zone",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTdlOTkyZjUtODE4NC00ODZmLTg5OGYtMjkwZDY0MTZhMTQ0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0450314",
+    "description": "Frank Castle, known as the Punisher, ruthlessly demolishes organized crime, but it starts an even bigger war.",
+    "rating": "5.9",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "The Spirit",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDcyMTc1NzgwNF5BMl5BanBnXkFtZTcwNzUyMDUwMg@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0831887",
+    "description": "Rookie cop Denny Colt returns from the beyond as The Spirit, a hero whose mission is to fight against the bad forces in Central City.",
+    "rating": "4.7",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Drillbit Taylor",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzkwOTc3OF5BMl5BanBnXkFtZTcwMTc1MzU1MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0817538",
+    "description": "Three kids hire a low-budget bodyguard to protect them from the playground bully.",
+    "rating": "5.7",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Traitor",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg3MzI3NDY5Nl5BMl5BanBnXkFtZTcwMzI0NDY3MQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0988047",
+    "description": "When straight arrow FBI agent Roy Clayton heads up the investigation into a dangerous international conspiracy, all clues seem to lead back to former U.S. Special Operations officer, Samir Horn.",
+    "rating": "6.9",
+    "movieLength": "1h 54m"
+  },
+  {
+    "title": "Bangkok Dangerous",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDVjMWEzNjQtOWM3My00NzQzLTk0YmItMjBmY2I0YzRmMjhlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0814022",
+    "description": "A hitman who's in Bangkok to pull off a series of jobs violates his personal code when he falls for a local woman and bonds with his errand boy.",
+    "rating": "5.3",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "The Brothers Bloom",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzE4OGExZGYtMGZkMS00MzMzLTk2MWQtMGY5MzY3MTRmNTAzXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0844286",
+    "description": "The Brothers Bloom are the best con men in the world, swindling millionaires with complex scenarios of lust and intrigue. Now they've decided to take on one last job - showing a beautiful and eccentric heiress the time of her life with a romantic adventure that takes them around the world.",
+    "rating": "6.7",
+    "movieLength": "1h 54m"
+  },
+  {
+    "title": "The Baader Meinhof Complex",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyM2ZlYjUtZDRhYi00YjY5LWJiZWItMTM0OTdmMGE3MTk3XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0765432",
+    "description": "A look at Germany's terrorist group, The Red Army Faction (RAF), which organized bombings, robberies, kidnappings, and assassinations in the late 1960s and '70s.",
+    "rating": "7.3",
+    "movieLength": "2h 30m"
+  },
+  {
+    "title": "Mesrine Part 1: Killer Instinct",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTViNzBmN2YtODUzOS00NGM1LTgyZDgtYWFmMzdmZjYzNTcxXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt1259014",
+    "description": "The story of the notorious French gangster Jacques Mesrine, with the focus on his life before the early 1970s and the events that led to him being declared Public Enemy No. 1 in France.",
+    "rating": "7.5",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "Resident Evil: Degeneration",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQxNDBhOTgtMTk5OS00NWM5LTk0MmYtOGQ5NTU2OTBiYzM0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt1174954",
+    "description": "Leon S. Kennedy and Claire Redfield must battle a rogue warrior seeking revenge after unleashing the deadly G-Virus, whilst a mutated monster goes on a rampage.",
+    "rating": "6.4",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Mesrine Part 2: Public Enemy Number 1",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2VmZmJjMzAtMjA3Yy00ZDQ3LWIwMjctMGM4ZDIyZjljYTMyXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt0411272",
+    "description": "The story of the notorious French gangster Jacques Mesrine, with the focus on his life and death as France's Public Enemy No. 1 in the 1970s.",
+    "rating": "7.4",
+    "movieLength": "2h 13m"
+  },
+  {
+    "title": "Max Manus: Man of War",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NDg0NDk0NF5BMl5BanBnXkFtZTcwNjYxMTQyMg@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1029235",
+    "description": "The true story about one of the most brilliant saboteurs during World War II and his battle to overcome his inner demons.",
+    "rating": "7.3",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "Mutant Chronicles",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEzMTQ4MjQ1ODFeQTJeQWpwZ15BbWU4MDU4MTUyNTEx._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0490181",
+    "description": "28th century soldier Mitch Hunter leads a fight against an army of underworld Mutants.",
+    "rating": "5.2",
+    "movieLength": "1h 51m"
+  },
+  {
+    "title": "War, Inc.",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk3NzkxMzE2Nl5BMl5BanBnXkFtZTcwMTIzMzQ2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0884224",
+    "description": "A corporation hires a professional assassin to pose as its trade show representative who must organize the wedding of a Middle Eastern pop star, which will allow him the opportunity to kill a Middle Eastern politician.",
+    "rating": "5.5",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Killshot",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5NDMxMDAxM15BMl5BanBnXkFtZTcwMjgxMjQyMg@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0443559",
+    "description": "Beautiful Carmen Colson and her ironworker husband Wayne are placed in the Federal Witness Protection program after witnessing an \"incident\". Thinking they are at last safe, they are targeted by an experienced hit man and a psychopathic young upstart killer. The ensuing struggle will test Carmen to the limit.",
+    "rating": "6.0",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Miracle at St. Anna",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIyNjIwOTI1MF5BMl5BanBnXkFtZTcwMTQ1NTU3MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1046997",
+    "description": "Set in 1944 Italy, the story of four black American soldiers who get trapped in a Tuscan village during WWII.",
+    "rating": "6.1",
+    "movieLength": "2h 40m"
+  },
+  {
+    "title": "Chocolate",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwOTlkYjQtMWJhOC00OGIxLTg5MDAtYjc5MjM3ZDQyYTkwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1183252",
+    "description": "An autistic girl with powerful martial art skills looks to settle her ailing mother's debts by seeking out the ruthless gangs that owe her family money.",
+    "rating": "6.9",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Outpost",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NiYmZiMzMtNTllZC00MTRmLTgxZmMtMzliZGNmOTBhY2I0XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0892899",
+    "description": "In war-torn Eastern Europe, a mysterious businessman hires a group of mercenaries on a routine mission to protect him not knowing of the long-hidden secret that lies there.",
+    "rating": "5.8",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Hell Ride",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MTMwODkwN15BMl5BanBnXkFtZTcwMzE1OTc1MQ@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0411475",
+    "description": "Two rival bikers gangs, the Victors and the Six-Six-Six's, refuel their decades-old rivalry.",
+    "rating": "5.0",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "Ghost in the Shell 2.0",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzVjMmZhMGEtNWEzNS00ZTNlLWI4ZDAtZDI0NDI4YjJlMmYzXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1260502",
+    "description": "A hacker known as the Puppet Master is hunted by a female cyborg cop and her partner. This film is a revised version of Ghost in the Shell (1995).",
+    "rating": "7.8",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Far Cry",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWQ3NTM5NjMtODFjNS00MWUwLWE0YTItNjVjYTlmZDU0NGU3XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0400426",
+    "description": "An ex-special forces soldier turned boatman is hired by a journalist to investigate a top-secret military base on a nearby island.",
+    "rating": "3.2",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Largo Winch",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI2MTY4OTkwOV5BMl5BanBnXkFtZTcwNzg2NjM5Ng@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0808339",
+    "description": "After a powerful billionaire is murdered, his secret adoptive son must race to prove his legitimacy, find his father's killers, and stop them from taking over his financial empire.",
+    "rating": "6.4",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Dragon Hunters",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM3NzliOTItMjAwMi00YTExLWJmZmMtMDdhYzdhNDJkNmYzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0944834",
+    "description": "A fantastic tale telling the adventures of two dragon hunters!",
+    "rating": "6.5",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "The Red Baron",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NjE3NTc0OV5BMl5BanBnXkFtZTcwNzkzNjUxMw@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0365675",
+    "description": "German biopic loosely based on the World War I fighter ace Manfred Von Richthofen, nicknamed the Red Baron by friend and foe alike.",
+    "rating": "6.3",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Dance of the Dead",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ0MGVkZTMtYTBlZS00MTc3LWEzZWItODU0ODA5MTc2NmRjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0926063",
+    "description": "On the night of the big High-School Prom, the dead rise to eat the living, and the only people who can stop them are the losers who couldn't get dates to the dance.",
+    "rating": "5.8",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Gangster's Paradise: Jerusalema",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTkyMzMzNl5BMl5BanBnXkFtZTcwNzczNDk0Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0783532",
+    "description": "A young hoodlum's rise from a small-time criminal to a powerful crime entrepreneur during the turbulent years before and after the fall of apartheid.",
+    "rating": "7.3",
+    "movieLength": "1h 59m"
+  },
+  {
+    "title": "Alien Raiders",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTI0OTRhNTYtNzVhOC00MTZiLTgxYjYtYjQyMTBkNTcwZTJjXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt0996979",
+    "description": "A group enters a supermarket at closing time, shoots around and takes hostages. They believe aliens have arrived there then. Cops arrive outside.",
+    "rating": "5.6",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Arn: The Kingdom at the End of the Road",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI0YWI0YzMtMjVjZS00MWViLWE2NzktMTJlODY1ODhhYzRmXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0950739",
+    "description": "The Knight Arn is sent on a last mission against Saladin. He has to win this battle, before he can go home to Sweden, and finally marry his Cecilia and start a family. But the peace back home is threatened by the Danes.",
+    "rating": "6.6",
+    "movieLength": "2h 8m"
+  },
+  {
+    "title": "Hero Wanted",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNTQyNzQ1N15BMl5BanBnXkFtZTcwMzczMzczMg@@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0977214",
+    "description": "A man seeks revenge after he and a bank teller are shot and left for dead during a robbery.",
+    "rating": "5.5",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Dark Floors",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmViZDRmMmYtNzhhOS00NTlmLTgyNjQtZDQ3NWMzNjZlYWY0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0985025",
+    "description": "A man emerges with his autistic daughter and three others from a hospital elevator to find themselves trapped in the building with devilish monsters.",
+    "rating": "4.4",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "The Horseman",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDk1ODY0M15BMl5BanBnXkFtZTcwMTczNjg1Mw@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt1060255",
+    "description": "When Christian finds out his runaway teenage daughter, Jesse has been sexually attacked, the suburban father loses it. Setting out to find Jesse's attacker, Christian goes on a violent rampage.",
+    "rating": "6.5",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Tunnel Rats",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2I4M2U5NGYtYWZkNS00MGE4LTk0YTAtZmQwMGE4YTQ0OGY3XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0970462",
+    "description": "Halfway into the Vietnam War (1959-1975), a special US combat unit is sent to hunt and kill the Viet Cong soldiers in man-to-man combat in the endless tunnels underneath the jungle of Vietnam.",
+    "rating": "4.8",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Killer Bean Forever",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAzYTZlNTAtOWNkYi00NTY5LWFkZTAtZjhiM2JhMWFlODZkXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt1340108",
+    "description": "Killer Bean is sent on a mission in Beantown, but when he attacks one of the warehouses owned by the mafia boss, Cappuccino, he gets the attention of Detective Cromwell, a bean who's trying to put Cappuccino, and possibly Killer Bean, behind bars.",
+    "rating": "6.6",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Clubbed",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxODY2NDEyNl5BMl5BanBnXkFtZTcwNDQxOTQ5MQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0856778",
+    "description": "An underworld drama set in the early 1980s, about a lonely factory worker whose life is transformed when he becomes a nightclub doorman.",
+    "rating": "6.7",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Sky Kids",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDU1MTE5MzAyNF5BMl5BanBnXkFtZTcwMTMxODM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0357668",
+    "description": "Two boys from a small town find their courage tested when they accidentally stow away aboard an airplane owned by the mob.",
+    "rating": "6.8",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "The Gamers: Dorkness Rising",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDg3ODM3Ml5BMl5BanBnXkFtZTcwNDk1NTY4MQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0447166",
+    "description": "Lodge, a gaming geek, takes his playing very seriously, unlike his babyish friends who'd rather be immature. He decides to shake things up by introducing two unconventional people to their group.",
+    "rating": "7.3",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Rejsen til Saturn",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjAzMWM4OTQtNmJlNy00MzkzLWEzMTUtNmNkZWI3YTI2NzgxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt1095423",
+    "description": "A privately funded Danish mission to find resources on Saturn replaces navigator last minute with incompetent Per. His ex tries to warn them. Unfortunately, there are aliens on Saturn who are interested in Earth's water.",
+    "rating": "5.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Loaded",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3NjIxNDgzOV5BMl5BanBnXkFtZTcwMDE0NjQ2MQ@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0893406",
+    "description": "A young, wealthy club kid's life spirals downward into an out-of-control world of drugs, sex and violence.",
+    "rating": "4.5",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "The Crew",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjU1NjYyOTQ2NF5BMl5BanBnXkFtZTcwNDIzMTkyMg@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1071880",
+    "description": "As a major heist approaches and with betrayal all around him, a respected crime boss has to summon all his street nous and killer instinct as he fights for survival.",
+    "rating": "5.9",
+    "movieLength": "2h 3m"
+  },
+  {
+    "title": "Stiletto",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDljNDMzM2ItOGQzNi00MTQzLWE1OGQtOTZiYmVhNTczZGE2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1027747",
+    "description": "The seemingly random killings of an assassin puzzle her former lover, a wealthy Greek crime boss whose organization is jeopardized by his love for her, and the detective following her rising body count.",
+    "rating": "4.8",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Pig Hunt",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWZhNDFhYzAtNzBhNC00MTRjLWE5NGQtMjIyYzRhMWUxMmU2XkEyXkFqcGc@._V1_QL75_UY207_CR22,0,140,207_.jpg",
+    "imdbId": "tt1022883",
+    "description": "When John takes his friends to his deceased uncle's remote ranch to hunt wild pigs, it seems like a typical guys weekend. But as John and his crew trek deeper into the forest, they begin tracking the awful truth about his uncle's demise.",
+    "rating": "4.7",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Connected",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGE0ZDJmZTctMzZiNy00NmZiLTk5ODYtZDg3ZTlhMzIyZThkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1156506",
+    "description": "A man receives a distressing phone call from a woman who has been kidnapped.",
+    "rating": "6.6",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Fast Track: No Limits",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmEyYmRjOWItNjIwNS00ZTEwLTk1MjMtMjk5YWU3ZjQ3OTJlXkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt1043635",
+    "description": "An action movie centered around a group of street racers.",
+    "rating": "5.0",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Shark in Venice",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk4ODc3OTUtNWIwYi00YWJiLWE1YjEtMzJmOTFjNjdjM2JmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1087474",
+    "description": "Traveling to Venice to investigate his father's mysterious death, famous archaeologist and diver David (Stephen Baldwin) unearths a killer secret that lies beneath the Venetian waters.",
+    "rating": "2.5",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Terra Nova",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzMTI2NzIxMl5BMl5BanBnXkFtZTcwODQ2Njk3MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1234435",
+    "description": "This dystopia takes place in the near future. The death penalty has been abolished throughout the world. The prisons are overcrowded. International organizations decide to conduct an experiment.",
+    "rating": "6.6",
+    "movieLength": "1h 59m"
+  },
+  {
+    "title": "Legendary Assassin",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MTEyMjQxMl5BMl5BanBnXkFtZTgwNzEyODg0MDE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1236370",
+    "description": "A female cop befriends a mysterious martial arts drifter, who turns out to be a deadly assassin.",
+    "rating": "6.1",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Go Fast",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZThiYzk3MzEtNjQwNS00MWI3LWE5YmQtZWViMzhkZWUwYTk2XkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt1179855",
+    "description": "Marek, a crime squad officer, sets out to avenge the death of his partner and best friend, who was killed by drug traffickers. He asks for a posting to a new undercover unit created to infiltrate a drug gang that imports hashish from Morocco using the \"Go Fast\" method. A fleet of high-powered speedboats and cars races across the Mediterranean to Spain and then France, loaded with drugs.",
+    "rating": "5.8",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Beer for My Horses",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NzI3OTEwNl5BMl5BanBnXkFtZTcwNDA1OTg3MQ@@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt1178640",
+    "description": "Two best friends work together as deputies in a small town. The two defy the Sheriff and head off on an outrageous road trip to save the protagonist's girlfriend from drug lord kidnappers.",
+    "rating": "4.8",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "New Town Killers",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWU1MWZhOTMtNzdhYy00OGQyLThmMmItMTI3YTRiODNmNmNiXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt1183908",
+    "description": "Alice owes the wrong kind of people GBP12000. Her brother Sean's concerned. So when he's offered 12000 by a rich man for a 12 hour game of \"hide and seek\", he accepts it.",
+    "rating": "5.6",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Ninja Cheerleaders",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc1OTc3NDIxMV5BMl5BanBnXkFtZTgwOTgxNjUyNjE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0972857",
+    "description": "Three college cheerleaders (and after-school go-go dancers) use their martial arts skills to save their Sensei from mafia kidnappers, but must keep their extracurricular activities a secret to realize their Ivy League dreams at Brown.",
+    "rating": "3.4",
+    "movieLength": "1h 21m"
+  },
+  {
+    "title": "Fading of the Cries",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVlZjdhNDAtNDRlOS00NDA2LWJjYTctY2ExN2RkYmY2ZWE1XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt1262406",
+    "description": "Evil is resurrected in a small town threatening to destroy mankind, and the only force that can stop it is a young man wielding a powerful sword.",
+    "rating": "3.0",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Rigged",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwOTg2OTk0NF5BMl5BanBnXkFtZTcwMzMwOTA1MQ@@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt0756707",
+    "description": "In the seedy underground of illegal prizefighting, a corrupt boxing promoter is embroiled in a dangerous fight-fixing scheme with his female prizefighter.",
+    "rating": "5.6",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "Colin",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTg0OTgxOV5BMl5BanBnXkFtZTcwNDIyMzQ5Mw@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt1278322",
+    "description": "Our hero Colin is bitten by a Zombie; he dies and returns from the dead. We follow him as he wanders through suburbia during the throes of a cadaverous apocalypse.",
+    "rating": "4.7",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "The Vanguard",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwMTEyNDkzMl5BMl5BanBnXkFtZTcwMjMyMjU1MQ@@._V1_QL75_UY207_CR60,0,140,207_.jpg",
+    "imdbId": "tt0977669",
+    "description": "The year is 2015 and overpopulation and famine have plunged our planet into chaos and one desperate survivor finds himself being hunted and pursued by hordes of rage-crazed zombies.",
+    "rating": "3.2",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Sucker Punch",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyODQzMjcwOF5BMl5BanBnXkFtZTgwMDEyODg0MDE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0762137",
+    "description": "After a lost fight, a fighter wants back in the ring, seeking revenge on the fighter who knocked him out. When he comes toe to toe with him, he'll make sure his fists do the talking.",
+    "rating": "4.8",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Suspension",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzODIzOTQ2OF5BMl5BanBnXkFtZTcwNzY3NTQ5OQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0989760",
+    "description": "Daniel loses his wife and son in a car accident. While slowly recovering from his injuries, he rebuilds his son's video camera that was destroyed in the crash. Infused with power from the moment of the crash, the camera develops the ability to stop time when Daniel presses the pause button. This discovery restores Daniel's purpose, and he fills the vacuum in his life by taking responsibility for another victim, Sarah, a newlywed who lost her husband in the same accident. At first Daniel only watches her, then tries to improve her life in small ways. But using his power to \"help\" becomes an addiction, and the vastness of Daniel's power can do only one thing...corrupt him.",
+    "rating": "5.2",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "The Fifth Commandment",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZjYTRlYTktMjAyMy00MjE5LWJkMzMtZTE3Y2JhYTUyNjQzXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0492881",
+    "description": "In Bangkok, an assassin who turns down a job that hits too close to home finds himself targeted by the elite members of his profession.",
+    "rating": "4.5",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Contract Killers",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTIyOGU3NzgtZmY4ZC00MmIwLTllOGMtMzhiZTZlYjI4M2E4XkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt1001548",
+    "description": "A CIA assassin attempts to break out of the contract killing business to try to lead a normal life.",
+    "rating": "4.6",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "The Missing Lynx",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjI2OGIwMjYtNjQ0My00MzU0LWFmNmYtYmZlNDQzZGRjYTY3XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0951333",
+    "description": "A group of animals look for a way off of an eccentric billionaire's own personal Noah's Ark.",
+    "rating": "5.2",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Hide",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwNDQwNzQzOF5BMl5BanBnXkFtZTcwMzUxMTY0MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0827181",
+    "description": "A modern day Bonnie and Clyde - with a twist - that follows two lovers down a path of destruction, mayhem, and murder as they live in a world where it is acceptable to take whatever they want with murderous consequences.",
+    "rating": "5.1",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Mission Istaanbul: Darr Ke Aagey Jeet Hai!",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUxNTk4MjctYTc5OC00MjBhLTg3OGUtOWY0MDlmOWIyMWUwXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt1179781",
+    "description": "A news reporter must uncover the secret on the 13th floor of a News Station.",
+    "rating": "3.5",
+    "movieLength": "2h 10m"
+  },
+  {
+    "title": "Perfect Hideout",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI2NDk3MzE1MV5BMl5BanBnXkFtZTcwNDU5Mjc1MQ@@._V1_QL75_UX140_CR0,10,140,207_.jpg",
+    "imdbId": "tt1082064",
+    "description": "A young couple on the run takes the owner of a posh villa hostage after being surrounded by police, only to find that their ace in the hole is a dangerous serial killer.",
+    "rating": "3.8",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Super Capers: The Origins of Ed and the Missing Bullion",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY4NzIyODE4M15BMl5BanBnXkFtZTcwMzkyMzY3MQ@@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt1161064",
+    "description": "A good guy with no powers joins a superhero team with no clue against a bad guy with no shame.",
+    "rating": "3.2",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Duo shuai",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWYxZDhlNGQtYWM3OS00MDU1LWEzNzItODcxZDExM2UyMzRmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1156444",
+    "description": "In the mist of a violent gang war, a series of unfortunate events threatens the fate of a powerful triad leader and his empire.",
+    "rating": "5.7",
+    "movieLength": "1h 57m"
+  },
+  {
+    "title": "80 Minutes",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg0NzE0MDY4MF5BMl5BanBnXkFtZTcwMzQ5Mjc1MQ@@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "imdbId": "tt1119178",
+    "description": "80 minutes to live or die. Alex got injected with a high tech poison by his creditor and put on a time clock to pay his debt back in 1 hour and 20 minutes. Will he make it or even further will he stay loyal to his friends and relatives under a pressure like running out of time?",
+    "rating": "4.1",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Arte de Roubar",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NzY2NDkxMl5BMl5BanBnXkFtZTcwOTA3ODEwMg@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0977637",
+    "description": "Two amateur thieves are hired to steal an extremely valuable Van Gogh painting from the abandoned farm of an Argentinian countess.",
+    "rating": "6.2",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Pirates of Langkasuka",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NTU3MjE0NV5BMl5BanBnXkFtZTcwODc5NTczMw@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1262945",
+    "description": "As sea pirates threaten to invade their kingdoms, three queens of Langkasuka must band together to defend their lands and peoples.",
+    "rating": "5.6",
+    "movieLength": "2h 34m"
+  },
+  {
+    "title": "Animal 2",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NDgwOTI0NF5BMl5BanBnXkFtZTcwNDY3OTI1MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0985047",
+    "description": "James \"Animal\" Allen (Ving Rhames) took the fall for the crimes of his older son (Vicellous Shannon) and is now serving a life term at Folsom Prison.",
+    "rating": "5.0",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Swamp Devil",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyOTg4OTQxOV5BMl5BanBnXkFtZTcwMDgxMzQ5MQ@@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt1105742",
+    "description": "A young girl finds out some disturbing supernatural truths about her father, who has been a suspect to multiple murder cases.",
+    "rating": "4.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Le nouveau protocole",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTUxZTNhZjYtYzZhMy00YmUyLWE0Y2EtMmExN2Y1NTI1NGEwXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt0926763",
+    "description": "A man investigating his son's death learns some horrific truths about the pharmaceutical industry.",
+    "rating": "6.1",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Lady Magdalene's",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDIyMjk1Ml5BMl5BanBnXkFtZTcwNDY5MzkzMQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0783538",
+    "description": "In this action comedy, Jack Goldwater, an IRS agent on loan to the Federal Air Marshal Service, is relieved of field duty after insulting a powerful U.S. Senator, and finds himself exiled to a humiliating desk job in Nevada as the federal receiver managing a legal brothel in tax default, where -- with the help of the brothel Madam, Lady Magdalene -- he uncovers an Al Qaeda plot to unload a nuclear-bomb-sized crate at Hoover Dam.",
+    "rating": "2.2",
+    "movieLength": "1h 56m"
+  },
+  {
+    "title": "Road to Hell",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMjc0Mjg5N15BMl5BanBnXkFtZTcwNzQyNDk2OA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1253859",
+    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, believing she will rescue him from his demons. On the road to Edge City he encounters two seductive spree killers who oppose his efforts to find his love and the redemption he desperately seeks.",
+    "rating": "5.0",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "The Man Who Came Back",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5ODk2MTQ4Ml5BMl5BanBnXkFtZTgwODMzOTg0MDE@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1013651",
+    "description": "A dozen years after the Civil War, former slaves go on strike at a powerful judge's plantation.",
+    "rating": "4.9",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "The Eleventh Hour",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTA0ODIyODQ1M15BMl5BanBnXkFtZTcwNzEzMjU1MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1129420",
+    "description": "Action film about a N.Korean general's vendetta against a U.S. team of special ops soldiers who are on a mission to free Japanese political prisoners.",
+    "rating": "4.4",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Talento de barrio",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTY1Nzk4NzczNF5BMl5BanBnXkFtZTcwODYyNzQ5MQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0467017",
+    "description": "A young drug dealer falls in love while facing disruption among the men in his gang, and being offered a career as a Reggaetón singer.",
+    "rating": "5.2",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Heatstroke",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM4MTBlYzUtNWE5NS00YjVkLWE1NWUtZjlhNjAyMmJiZjY0XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0925245",
+    "description": "Gradually people notice the heat index is rising, and that all life on Earth is at risk, for a hoard of alien dinosaurs want to take over; until a soldier and a ex-model step in to take back planet Earth.",
+    "rating": "3.0",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "The Lost Samaritan",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3MTI0MzA1N15BMl5BanBnXkFtZTcwMTU5Mjc1MQ@@._V1_QL75_UX140_CR0,10,140,207_.jpg",
+    "imdbId": "tt1118519",
+    "description": "After a long night at the office, an accountant stops to help an injured motorist and ends up becoming the target of two dangerous assassins.",
+    "rating": "4.2",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "At the Edge of the World",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTEwOTcwNTkxNF5BMl5BanBnXkFtZTcwNDg1NDIzMg@@._V1_QL75_UY207_CR9,0,140,207_.jpg",
+    "imdbId": "tt1286499",
+    "description": "At the Edge of the World chronicles the controversial Sea Shepherd Antarctic Campaign against a Japanese whaling fleet. The international volunteer crew, under-trained and under-equipped, develop a combination of bizarre and brilliant tactics with which to stop the whalers. But first they must find the Japanese ships, a far more difficult challenge than ever imagined - long-time activist Paul Watson and first-time captain Alex Cornelissen employ an array of strategies in the hopes of finding an elusive adversary in the vast expanse of the Ross Sea. With one ship (the Farley Mowat) too slow to chase down the whaling fleet, with their second ship (the Robert Hunter) unsuited for Antarctic ice conditions and with no country supporting their efforts to enforce international law, the situation becomes increasingly desperate. Against all odds, however, a real-life pirate tale unfolds - a modern-day \"David vs. Goliath\" adventure.",
+    "rating": "7.3",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Last Hour",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDU3M2E5NTctMjk4Ni00ZGNhLThkNGEtZDdlNDczNjZhMGI2XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0494249",
+    "description": "How would you react if three years after the death of your father, you receive a letter signed by him inviting you to visit an abandoned house in the middle of nowhere in China? Curious in nature, you decide to set off on this adventure. Here's the snag, when you arrive in front of the house (which looks more like a bunker), you realize that there are other visitors summoned as well. Four guys show up with the same letter you have! All five characters, Monk, Casino, Black Jack, Shang and Poker have something in common. All carry guns, have dangerous reputations and are wanted by the police. Unexpectedly the door to the house is opened by a mysterious woman and shortly after entering they notice that they are all locked inside. The house is surrounded by police and they can not escape the psychotic killer that wants to wipe them out. After shocking plot twists and with a growing suspicion of each other, they come to realize that they have only one hour to live.",
+    "rating": "2.9",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Nepobedimyy",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTM1MzU0MF5BMl5BanBnXkFtZTgwMzEwOTUwMjE@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1091989",
+    "description": "Yegor Kremnyov, a Russian special intelligence agent, is tasked with bringing in Mikhail Shering, the secretary of a mobster, to testify.",
+    "rating": "6.0",
+    "movieLength": "2h 1m"
+  },
+  {
+    "title": "Odysseus & the Isle of Mists",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2MwNTI2OWEtOGIzNC00YzM0LTgzOTAtOGMyNjhlMmMwYTgzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0945580",
+    "description": "ODYSSEUS, The Warrior King, has been away from Ithaca for twenty years. The first ten he spent fighting the Trojan War; the last ten he spent fighting to get home. Among his adventures is the tale Homer felt was too horrific to tell; the missing book of The Odyssey known as... THE ISLE OF THE MISTS.",
+    "rating": "4.2",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Red Canyon",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MjNlMWItZTE4OC00MmQ1LWJhOGYtODk5ZmQ5NjRiZTc4XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt1064801",
+    "description": "In the isolated desert town of Caineville nothing and no one and nothing can be trusted, not even memories. Going home can be murder.",
+    "rating": "3.4",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Ten Dead Men",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMjU0NDM2NF5BMl5BanBnXkFtZTcwMTQ3ODIwMg@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0854679",
+    "description": "Ten men took away his life. Now ten men will pay with their's. Ryan is left for dead, but returns to his old ways for one last revenge trip. And it's going to be bloody!",
+    "rating": "3.4",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Deep Winter",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5ODY1NTUwNV5BMl5BanBnXkFtZTcwNDc2NTUxMg@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0780500",
+    "description": "Best friends set out to be the first people to ski a dangerous Alaskan peak.",
+    "rating": "4.5",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Player 5150",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWI5ODM0ZWEtYzA5NS00YWRhLTkzODktMmY5MzkxMGUzMTk5XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0906773",
+    "description": "A day trader (Embry) and his fiancée (Robertson) get caught up in high stakes gambling.",
+    "rating": "5.1",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Lords of the Street",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc1NmVhOTUtZjI5MS00Zjc2LTk4MmItMWZlOGQ5OGQzZTkxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1084697",
+    "description": "Set in post hurricane New Orleans. A brutal Mexican drug lord busts out of jail to retrieve the $15 million that his girlfriend is hiding. Can he find the girl and the cash before the cops track him down?",
+    "rating": "2.5",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "December Heat",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDhmZTFhOTUtMjI2Mi00NWE2LTkwZWItMDljMjk0MWZmZTk2XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1198339",
+    "description": "The young country of Estonia is dancing to the jazzy tune of the 1920s when, on December 1 1924, the capital Tallinn is overrun by members of the Comintern in an attempt to stage a Communist coup. The film follows the fates of a young soldier called Tanel and his wife, a telephone operator named Anna, amidst the ensuing chaos which determines whether the country remains independent or becomes a minor province in the Communist Empire.",
+    "rating": "6.6",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Mutants",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE5OTkwMDg5OV5BMl5BanBnXkFtZTcwNTUyMDEzMg@@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt1131742",
+    "description": "A mad scientist inadvertently unleashes the apocalypse while attempting to create an addictive additive for a greedy manufacturer.",
+    "rating": "2.4",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Reflections",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzRhYTJhYmQtYzlkOS00NTg3LWIwYmUtZjgzMjk1ZWM4M2Y5XkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt1071203",
+    "description": "Europol Agent Tom Brindle (Timothy Hutton) is called to Barcelona, Spain, to track down the notorious serial killer known as Pygmalion.",
+    "rating": "4.7",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Solar Destruction",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmMyYmQ1NTUtMTJhZi00M2YwLWE0MzAtOTk3MGZkMGIxODIxXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt1130091",
+    "description": "A young math genius discovers a huge solar storm on the verge of destroying the Earth's power grid and he must alert the world before a powerful businessman stops him.",
+    "rating": "3.3",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Tu£sday",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjE2NTQ1MF5BMl5BanBnXkFtZTcwNjUzODEyMg@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1042570",
+    "description": "What happens when 3 groups of people decide to rob the same bank on the same day?",
+    "rating": "5.1",
+    "movieLength": "1h 19m"
+  },
+  {
+    "title": "Muay Thai Giant",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NjU2MTEyNV5BMl5BanBnXkFtZTcwNjQwMzU5NA@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1251761",
+    "description": "An action movie about a 7-foot-tall docile man who learns Muy Thai and then uses his new skills to help solve a case of stolen diamonds.",
+    "rating": "5.6",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Fortified",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzkyNjQzNF5BMl5BanBnXkFtZTcwOTgzMDE0NA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1486683",
+    "description": "Plot centers on a pair of college-age students fleeing from an unidentified enemy force. The duo takes refuge in what appears to be an abandoned building, but they quickly discover the building they thought was empty is anything but.",
+    "rating": "7.1",
+    "movieLength": "1h 7m"
+  },
+  {
+    "title": "SEAL Team VI",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODg3MTc2NDMtZTY4Yy00ZWZmLTljZTItMzgyNjBkOTA5NTEyXkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt1281966",
+    "description": "Inspired by actual events: This heroic saga depicts an elite counter-terrorism team's black ops incursion into Iraq four days prior to Operation: Desert Shield and the harrowing consequences its members faced when their covert mission was compromised.",
+    "rating": "2.5",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Beyond the Ring",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTI2NzMwMl5BMl5BanBnXkFtZTcwNzYyMTU3MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0910993",
+    "description": "Martial arts champion Andre Lima's fighting days ended with his wife's death. The past nine years Andre has struggled to rebuild his world around his two children. When his daughter's health suddenly fails, his finances collapse.",
+    "rating": "3.1",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Vigilante",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU4M2E4ZmMtZTU2Zi00NWU2LWE3NzEtMWYzMjEyMDYzMDA1XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt1489264",
+    "description": "When Luke is viciously attacked and his fiancée is raped and murdered, he pledges to train himself in deadly hand-to-hand combat and use it against any wrongdoers who dare cross his path.",
+    "rating": "2.6",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Descendents",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjliNjkwMjAtMzg2MS00ZDkxLTkzMjUtMDMyNTgzY2JkNjU4XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt1361838",
+    "description": "In an unknown future, the earth has been destroyed by man and the air is polluted with a mysterious virus that turns humans into zombies.",
+    "rating": "2.7",
+    "movieLength": "1h 14m"
+  },
+  {
+    "title": "Journal of a Contract Killer",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MTIzNTc2OF5BMl5BanBnXkFtZTcwNTg1MzE1Mg@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1043695",
+    "description": "Stephanie Komack was a high-class hooker and assassin for the Italian Mob. Now working in London as a waitress, and a single mother to her seven year old daughter, the Mob track Stephanie down and persuade her to do one last job. The hit goes wrong and Stephanie soon realises the stark reality of her failure. They snatch her daughter as punishment, but didn't figure on Stephanie's capacity for revenge! Inspired by true events, JOURNAL OF A CONTRACT KILLER is the gripping story of a woman driven to turn on her paymasters with devastating consequences.",
+    "rating": "4.9",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Death Toll",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNTEwNzIxN15BMl5BanBnXkFtZTcwODUyMDEzMg@@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt0822802",
+    "description": "New Orleans has the No. 1 per capita murder rating in the nation. A decade earlier the city was dubbed the \"Murder Capital of the Country.\" Drugs and violence controlled the streets, taking a toll on the city's law enforcement, neighborhoods and its people. Illustrating this dark chapter in the city's history is \"Death Toll\".",
+    "rating": "2.4",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Nun of That",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2JjYzMwYjYtYjZiOS00NmEyLWExOGItNDNhMzkzMTQ2Yzc4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt1385949",
+    "description": "Nun of That follows Sister Kelly Wrath as she transforms from a nun with a simple temper problem to a vengeful killer.",
+    "rating": "4.9",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "The Sensei",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmIwM2E0NjEtMmZkOS00ZGMxLWE1NzItMTdiMzEyZmZiMGYwXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0454941",
+    "description": "In 1985 Colorado, a long-absent woman, proficient as a black belt in martial arts, returns home where she agrees, secretly, to train a bullied gay teen.",
+    "rating": "6.5",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Freezer Burn: The Invasion of Laxdale",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDBmMDBmMmUtNjUyZC00YmFjLTliN2MtYzFjZTdkNGMzNjM1XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1105727",
+    "description": "FREEZER BURN is an action comedy - aimed at a young male audience. Disguised as executives from a Dutch Oil Company, Aliens from outer space buy a local farming company and promise to create jobs for the failing farming town. Their goal is to use crop circles to heat up the temperature of the earth and eventually turn the entire planet into a Club-Med for extra-terrestrials. Green plays the reluctant town hero and Glover will play the villain and leader of the Aliens.",
+    "rating": "4.3",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Bonnie & Clyde vs. Dracula",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM1NDEyNTQ4NV5BMl5BanBnXkFtZTcwOTQ1OTY2NA@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1117379",
+    "description": "After a heist goes wrong, outlaw couple Bonnie and Clyde crash a mansion inhabited by the recently revived Dracula. When gangsters meet vampires, there's bloody hell to pay.",
+    "rating": "4.4",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Mutant Vampire Zombies from the 'Hood!",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwODcwNDE1N15BMl5BanBnXkFtZTcwMDc0NzgxOA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0970520",
+    "description": "In the wake of a solar flare of unusual properties, a mismatched group of inner-city survivors must put aside their animosity to escape a Los Angeles now free of gang-bangers, but infested instead with blood-sucking zombies.",
+    "rating": "3.9",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Banshee!!!",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NzAyNTEzMF5BMl5BanBnXkFtZTcwMzI5Mzg5MQ@@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt1073482",
+    "description": "A group of college friends on a spring break camping trip are stalked and slashed by an unknown creature with the ability to make them hallucinate through sound waves.",
+    "rating": "3.4",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Break",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTIyODU2Nl5BMl5BanBnXkFtZTcwODIzOTk0Mg@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1157601",
+    "description": "A terminally-ill crime boss known only as The Man hires a hit man named Frank to carry out his own assassination, as well as the assassination of The Woman he loves. When The Woman turns out to be Frank's long-lost lover, he turns against The Man and becomes the target himself.",
+    "rating": "3.6",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Capers",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzODUyMDk3Ml5BMl5BanBnXkFtZTcwODM4NTk5Mw@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0826523",
+    "description": "Three teams of criminals share the same Brooklyn block, but each exists in a separate genre of film. The Amateurs are trapped in a 1970's anti-hero movie. The Sputniks live in black and white. The Moolies can't escape their rap video life.",
+    "rating": "5.1",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Playboy Cops",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMDQ4MjgtYmQ5MC00MjBiLTllN2ItZTAzYzdlNzg4Y2I1XkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt1194582",
+    "description": "Two off-the-wall detectives go in search for a killer, while vying for the affections of a young woman.",
+    "rating": "5.0",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Shoot First and Pray You Live (Because Luck Has Nothing to Do with It)",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ2NDUyMzU2NV5BMl5BanBnXkFtZTcwNTA2MTYyMg@@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0818226",
+    "description": "Tale of vengeance -- outlaw style -- as Red Pierre hunts down legendary gunman Bob McGurk to avenge the murder of his Mother and Father.",
+    "rating": "5.1",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Crazy Girls Undercover",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmExOTAyNDgtYjJmNC00YTU0LWIyZDItNDFlYjJiYzNjY2Q3XkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt1350917",
+    "description": "Upon discovering the terrorist who murdered his family is building a massive bomb, Las Vegas gentlemen's club owner and former CIA agent Damon Archer enlists his glamorous showgirls to help stop the madman.",
+    "rating": "3.1",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "The Thirst: Blood War",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE5NzQ1ODEwMF5BMl5BanBnXkFtZTcwNzU0MTUwMg@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0485782",
+    "description": "Will is a hippie college student who finds himself in the middle of a battle between vampires and a group of warlocks called Sentries; but when he's bitten by a seductive vampire he's forced to come to terms with his new state of being...",
+    "rating": "2.6",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "The Local",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5OTQ4NjgzOF5BMl5BanBnXkFtZTcwMjQ5MDA4Mg@@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt1024219",
+    "description": "A wealthy out-of-towner hires an indigent man to abduct an estranged family member.",
+    "rating": "5.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Reel Zombies",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzAxMzE2M15BMl5BanBnXkFtZTcwMzI2Mjg5MQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt1275956",
+    "description": "Independent Zombie Film makers, Producer Mike Masters and Director David J. Francis, the team behind the commercially unsuccessful Zombie Night 1 and 2, have found the climate for Zombie movies has changed significantly after the \"real\" zombie invasion begins. Hedging on the fact that the Zombie mayhem that has taken a grip on the nation is only a temporary problem, the film makers realize that once normalcy has returned, demand for Zombie product (now outlawed) will be at an all time high. The filmmakers seize an opportunity to do something they were never able to before on their meager budgets, make a memorable zombie film. This time, however, through using real zombies, the film will have an authenticity and production value previously unattainable. They set about \"bringing the gang back together\" and assemble several key cast and crew members from their past productions (the ones that aren't already dead). With a full crew and a documentarian following them all the way, Masters and Francis embark on the production of their masterpiece. Film production at the best of time is wrought with peril, and for these intrepid film makers, it is no different this time around. From the challenges of safely shooting with and wrangling the hoards of untrained zombies to creative differences over what the film is ultimately to be about - the filmmakers face new challenges and production gets more precarious at every step. The entire process is documented, complete with interviews, behind the scenes footage of production meetings and shooting challenges, as the filmmakers struggle with cast and crew being eaten by their hungry zombie extras. A lack of resources to finish the film, and an increasingly high level of zombie activity cause them to reconsider their previous notion that \"things will soon be back to normal.\" Despite it all, the filmmakers' resolve to finish the film at all costs leads them down some dangerous paths, and forcing them to make some difficult creative choices to keep the cameras rolling at all times. It's all the challenges of shooting a low budget zombie film, mixed with the perils of surviving in a Zombie infested world. Will they finish the film and get their long deserved accolades as pioneers in the Zombie film industry, or will the making of documentary be all that's left of their attempts to bring something innovative, fresh and devastatingly real to the screen?",
+    "rating": "5.1",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Nite Tales: The Movie",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNzcyMDMxMV5BMl5BanBnXkFtZTcwMjk0NTEwMg@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0902312",
+    "description": "\"Nite Tales: The Movie\" is a 2008 anthology hosted horror movie, hosted by Flavor Flav.",
+    "rating": "4.0",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Bodyguard: A New Beginning",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDkxNTU4MzY2N15BMl5BanBnXkFtZTcwNDU3NTU2Mg@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1081942",
+    "description": "It Is A 2008 Hong Kong British Action Martial Arts Film.",
+    "rating": "4.5",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Forecast",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZhZWI3ZTItYjFlOC00OThiLWE2ZGUtMDlhZTUxY2I3YzNlXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt1340775",
+    "description": "Romance and political drama tight in an adventure, the \"Forecast\" tells a story of a Balkan conflict with a happy ending. Yes, there is one.",
+    "rating": "6.5",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Big Game",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNjcyMTEwOF5BMl5BanBnXkFtZTcwNDUyMDEzMg@@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt1047445",
+    "description": "A stranded man loses his mind as his senses come to a turning point.",
+    "rating": "4.1",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Hotel California",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MzQ1ODA2OF5BMl5BanBnXkFtZTcwMjc5OTQ0MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0866435",
+    "description": "When Troy turned on crime boss Dmitri Debartolla he was forced to leave Los Angeles and lay low in Miami. After two years, and the loss of his leg in a shootout with a Cuban crime syndicate, Troy returns to LA to reclaim what is rightfully his. A reunion with his former partners in a rundown hotel sets the stage for an explosive encounter where past and present collide.",
+    "rating": "5.6",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "The Grift",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU5YjY3ODEtNWJlMC00ZDA1LWJlYjgtM2Y2YzIzMjEyZjJjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0489048",
+    "description": "A 1940's period drama about a small-town family of grifters including a beautiful daughter haunted by childhood trauma.",
+    "rating": "4.6",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "No Bad Days",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA0MjE1ODc4Nl5BMl5BanBnXkFtZTcwODQzMjY2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1152277",
+    "description": "Set in the exotic terrain of the Yucatan Peninsula, NO BAD DAYS is an action/adventure film that manifests all the qualities that make for an entertaining and captivating film. The fast-pace style makes for a surprise at every turn, while the charisma and chemistry of the main characters create a romantic subplot. The story begins when evil tomb-raiders rob precious Mayan artifacts and soon face their most difficult opponent an unpredictable, rugged, ex-military operative who discovers his true self after ending 5 years in hiding. Our hero finds himself being chased through jungles, spying in underground waterways, and falling in love with an attractive, yet stubborn American woman searching for her missing mother, an archeologist who was in the wrong place at the wrong time. This gripping, action-packed, humorous tale peaks in one of the most unique and alluring tropical locations in the world, leading the two heroes on a crusade against evil forces even greater than they anticipated.",
+    "rating": "3.4",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Psycho Sleepover",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg1OTk0ODAyNV5BMl5BanBnXkFtZTcwMjkzMTgwOA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1297456",
+    "description": "After accidentally murdering her boyfriend, Debbie Dicky moves to a new town and meets three girls who invite her to a sleepover. The very same night there is a breakout at the local insane asylum where forty serial killers escape and head over to crash the party. However, the girls at the slumber party might not be as helpless as the killers think.",
+    "rating": "3.9",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Border Lost",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3ODE4ODI5M15BMl5BanBnXkFtZTcwMjE5MjI0MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0892041",
+    "description": "Over five thousand people illegally cross the border each day. There are areas where crime is at its highest, where criminals prey upon these defenseless groups. An elite task force is put together with high expectations of solving this problem that is plaguing our border. After only a few short years, the operation is shut down due to the weight of overwhelming politics and red tape. With one of their own killed, and another missing, three agents decide to take the law into their own hands. Doing what was necessary from the beginning, but was always off limits, they decide to cross into Mexico. They find themselves up against more than they bargained for.",
+    "rating": "4.1",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Duo biao",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0MzQxMDk3MF5BMl5BanBnXkFtZTgwODg1NTk1MDE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1296068",
+    "description": "Inspired by real events. When China announces that it will field its very first Olympics team, which will include a handful of martial artists to demonstrate Wushu to the world for the very first time, millions across the country compete for the honor of representing their country in its national sport. With so many diverse styles and so many skilled, determined fighters the elimination bouts are grueling. A selected few are chosen, amongst them, street hawker and scallywag Zhang Feng, and earnest patriot Bao who's dreamed of going to the Olympic Games. However, the road to the games is fraught with hardship and heartbreak, and in getting there Zhang Feng and Bao embark on a journey that will test their strength, skill and spirit to the limit, and their willingness to sacrifice in ways they could never have imagined.",
+    "rating": "5.1",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "Two Fists, One Heart",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Y3OWU2NjYtZDg4Zi00NzAxLTk3MTMtNWM4NjY2ODIyNzRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1082881",
+    "description": "This is a contemporary story set in Perth, Western Australia. Anthony Argo is a young Italian/Australian boxer, being pushed to the limit by his Sicilian father-trainer, Joe. Joe wants Anthony to achieve the success in the ring that he was denied as a young man. When Anthony meets Kate, he begins to see his life - and the role violence - in a different light. He loses focus on boxing and, in a confrontation with his father, learns about Joe's painful past. Joe turns his back on his son. Anthony leaves the ring, spending time with Kate in their blossoming romance. He earns his living as a nightclub bouncer. When Anthony becomes involved in a street fight at a public event, Kate dumps him. Anthony reflects on who he is and all that he has recently lost. Tom, Kate's comedian brother helps Anthony see the world and his life from a different perspective. Joe is betrayed by Nico, another boxer of Sicilian decent. Anthony, now mature enough to make his own decisions, decides to honour his father and his family and re enters the ring to fight his nemesis, Nico.",
+    "rating": "5.8",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Zombie Contagion",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNzcxMDU5ODReQTJeQWpwZ15BbWU3MDMxMTEwNjM@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+    "imdbId": "tt1290099",
+    "description": "Seven friends, struggling with late 20s, early 30's life, find themselves in terrifying danger when a long-dead loved one is magically resurrected and starts devouring souls. To make matters worse, three of them have been granted the power of the Ninja, and now must lead the fight against a power they cannot hope to vanquish. If they fail, the un-dead will overrun their little town, and quite possibly the world.",
+    "rating": "3.0",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Contract",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDM1NWM5ODAtNGNlZC00ZDMzLTliM2QtMTRmZTlhODJiMzRmXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt1242843",
+    "description": "After witnessing the brutal death of his family, an embittered ex-army officer agrees to infiltrate a gang of terrorists.",
+    "rating": "4.1",
+    "movieLength": "1h 57m"
+  },
+  {
+    "title": "The Controller",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NTg0NjUxMl5BMl5BanBnXkFtZTcwMTUxNTU3Mg@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0481494",
+    "description": "A billionaire has 8 hours to get his wife back, with help from armchair combat professionals.",
+    "rating": "3.0",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Broken Fist",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5OTE3MjI1Nl5BMl5BanBnXkFtZTcwOTkwNjg1Mw@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1189432",
+    "description": "On an isolated ranch in the desert, one man must protect his wife from a secret past that he is now forced to confront. With the sun towering in the sky overhead, the ranch sits beneath the vast blue, isolated amidst the arid terrain, Though life is certainly evident as a house warming party ensues.",
+    "rating": "5.2",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Dead Fury",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDE0ZmI4NGUtNWZhOS00NDNjLThmOTMtZjY1ZWQyMDJjOGFlXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1282036",
+    "description": "Animated parody of such horror classics as \"Evil Dead\" and \"The Hills Have Eyes\".",
+    "rating": "4.2",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "The Korean",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMxMTY4NDI3M15BMl5BanBnXkFtZTcwMjk1NjIyMw@@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbId": "tt1261889",
+    "description": "A big city crime lord has been betrayed by four associates. With only hours until his immanent arrest, he calls in his deadliest cleaner to track down those responsible and get revenge. Will these four criminals, with interwoven pasts, be able to survive with their money and their lives as they are hunted down by.. the Korean",
+    "rating": "3.2",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Anton",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NDQ4MDQzMV5BMl5BanBnXkFtZTcwMTk1MzU1MQ@@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0929730",
+    "description": "When Anton O'Neill returns home after five years at sea, he finds that 1970s Ireland is a radically different place from the one he left behind. Northern Ireland is in flames, and civil unrest has spilled south of the border to his beloved home in County Cavan. Blinded by hatred and misguided patriotism, Anton is led into an illicit world of violence and forced to choose between his family and his country. Hunted and on the run, Anton is drawn into a battle of wills with the law and his former accomplices, ending in a showdown in which he must risk everything to protect the woman he loves.",
+    "rating": "5.0",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Bad Guys",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NDQ2NzIyMF5BMl5BanBnXkFtZTcwNTQxMzAwMw@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0454402",
+    "description": "Would-be drug dealers are caught between the police and the Mafia.",
+    "rating": "4.1",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Hot Rod Horror",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmNjOWQ3NmItYzUxYS00ZjkzLTg3NzgtNjBmZTE3MzJmM2EyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0955392",
+    "description": "While trying to find where her younger brother wandered off to, Jenny and David, must search an abandoned wrecking yard with a horrifying history.",
+    "rating": "2.6",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Agent Crush",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1MTA5NjI2OTZeQTJeQWpwZ15BbWU3MDI5MzM3NDE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0815096",
+    "description": "To fight crime, a new hero is created, but there are a few small glitches to iron out.",
+    "rating": "5.8",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Chinaman's Chance: America's Other Slaves",
+    "year": "2008",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDkwODUxM2UtZDM5MS00MDQzLWE5YmEtODcyYzljZDY4OTIwXkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "imdbId": "tt0493406",
+    "description": "1870's America. A Chinese immigrant falsely accused of murdering a white woman is viciously hunted down; he'll have to prove his innocence in a time when people of color had \"no legal rights\" and could be bought and sold for a profit.",
+    "rating": "6.0",
+    "movieLength": "1h 30m"
+  }
+]

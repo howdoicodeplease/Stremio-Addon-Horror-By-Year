@@ -1,0 +1,1541 @@
+[
+  {
+    "title": "Tenet",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0ZjZlYTUtYzIwMC00ZmQzLWEwZTAtZWFhMWIwYjMxY2I3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt6723592",
+    "description": "Armed with only the word \"Tenet,\" and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.",
+    "rating": "7.3",
+    "movieLength": "2h 30m"
+  },
+  {
+    "title": "Wonder Woman 1984",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTEyOWIxNGYtNDYxZC00ZWExLTkwM2MtMGI1NDgzMTk5MmE5XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt7126948",
+    "description": "Wonder Woman finds herself battling two opponents, Maxwell Lord, a shrewd entrepreneur, and Barbara Minerva, a friend-turned-foe. Meanwhile, she also ends up crossing paths with her love interest.",
+    "rating": "5.4",
+    "movieLength": "2h 31m"
+  },
+  {
+    "title": "Extraction",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDBhMmI3OWYtZTA2Ny00Y2RjLTliMWQtYWY5MGIwN2RlZGFjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8936646",
+    "description": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+    "rating": "6.8",
+    "movieLength": "1h 56m"
+  },
+  {
+    "title": "Birds of Prey",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTgwNWEwOWMtNGIxMy00YzU5LTk2MzgtMjAzMmM1MjZiY2RiXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt7713068",
+    "description": "After splitting with the Joker, Harley Quinn joins superheroines Black Canary, Huntress, and Renee Montoya to save a young girl from an evil crime lord.",
+    "rating": "6.1",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "The Old Guard",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzMwNjVjNTEtZDVhOC00NzQzLTg0MGYtMGI1Yzc0Nzg2MjNmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt7556122",
+    "description": "A covert group of tight-knit mercenaries with an inability to die have fought to protect the world for centuries. But when their abilities are suddenly exposed, they need to eliminate the threat of those who seek to replicate their power.",
+    "rating": "6.7",
+    "movieLength": "2h 5m"
+  },
+  {
+    "title": "Bad Boys for Life",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzM3ZTFmMTUtODAxNy00N2IxLWI2MGMtYTdmMDFhNmZkMDI3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1502397",
+    "description": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
+    "rating": "6.5",
+    "movieLength": "2h 4m"
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzdhNTU5YWEtNDM3NC00MzQ5LThjNDgtY2Y3NTZlZDRiODk1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3794354",
+    "description": "Taking refuge on Earth, when Sonic uses his incredible speed and accidentally knock out the power in part of the United States, he catches the attention of Dr. Robotnik and must stop him from using his unique power for world domination.",
+    "rating": "6.5",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Mulan",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWJiZDg3ZWEtYWZkMC00Zjc1LTkzYTctZWFkODk2MDlmOGNiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4566758",
+    "description": "To keep her ailing father from serving in the Imperial Army, a fearless young woman disguises herself as a man and battles northern invaders in China.",
+    "rating": "5.8",
+    "movieLength": "1h 55m"
+  },
+  {
+    "title": "Love and Monsters",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2I1MGNiOWMtYmFlNC00MDYxLTkzODEtZDhiMTg5MjYzNTQxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt2222042",
+    "description": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his high school sweetheart.",
+    "rating": "6.9",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "Greenland",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWZjZGMwNmUtYmRiMS00ODEwLTgyYjQtOGUzMDNhOGU3OGQ0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt7737786",
+    "description": "A family struggles for survival in the face of a cataclysmic natural disaster.",
+    "rating": "6.4",
+    "movieLength": "1h 59m"
+  },
+  {
+    "title": "The Hunt",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjVmMDY4NGMtZTk3Yi00Zjg1LTkxOWYtNGFmNTdjNzYzNDkwXkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "imdbId": "tt8244784",
+    "description": "Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
+    "rating": "6.6",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Underwater",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODljZWI2NTAtNzIxOC00NjM3LWI0NWEtMDA0YjcwYTEyNDM4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5774060",
+    "description": "A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility located at the bottom of the Mariana Trench.",
+    "rating": "5.9",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Spenser Confidential",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFiNmViNGUtMWI2NC00OTI0LTg5NjMtZGYwOTlkM2JlZGRmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8629748",
+    "description": "When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate Hawk to take down criminals.",
+    "rating": "6.2",
+    "movieLength": "1h 51m"
+  },
+  {
+    "title": "Project Power",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2QxNjM4YTAtMjY1Yi00YjMwLTlkOWUtZmIzYmZmNzUwNDU1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt7550000",
+    "description": "When a pill that gives its users unpredictable superpowers for five minutes hits the streets of New Orleans, a teenage dealer and a local cop must team with an ex-soldier to take down the group responsible for its creation.",
+    "rating": "6.0",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "News of the World",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTExOGFiOTMtYjM3Mi00NDBjLTgxMWUtMzExM2Q2OGY2ODMxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt6878306",
+    "description": "A Civil War veteran agrees to deliver a girl taken by the Kiowa people years ago to her aunt and uncle against her will. They travel hundreds of miles and face grave dangers as they search for a place that either can call home.",
+    "rating": "6.8",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "The New Mutants",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2VjZmFlZjYtYTkyNS00N2EzLTlkNGUtZGJjZDhkMGUyNDYyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4682266",
+    "description": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+    "rating": "5.3",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Bloodshot",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTVkMGNkMzUtNWQ4NC00NDMwLWJjYmQtZWRlNzZiYTEzZmU5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1634106",
+    "description": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
+    "rating": "5.7",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "Boss Level",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNThlODU1ZjAtMWZkOS00NDc4LWE5ZjYtZTk1NzYwZTdjMmJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt7638348",
+    "description": "Trapped in a time loop that constantly repeats the day of his murder, a former special forces agent must unlock the mystery behind his untimely demise.",
+    "rating": "6.8",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Unhinged",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2OTZiNmUtZDc4MS00ODY2LTg2MzEtYzE1ZDFiMDRmNTM2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt10059518",
+    "description": "After a confrontation with an unstable man at an intersection, a woman becomes the target of his rage.",
+    "rating": "6.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Monster Hunter",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTIyNzBjYzQtMGZjNi00MmQ0LTlhYmMtMDYzZGVkMjU5MDllXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt6475714",
+    "description": "When Cpt. Artemis and her loyal soldiers are transported to a new world, they engage in a desperate battle for survival against enormous enemies with incredible powers. Feature film based on the video game by Capcom.",
+    "rating": "5.2",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Ava",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjgxYjI0NzUtYTUzOC00ZDQwLThhMzItZThjMjU1YTBjM2MxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8784956",
+    "description": "Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival.",
+    "rating": "5.5",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Honest Thief",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY3Y2E0MzYtY2JjNy00MTNkLTllODYtZDIxY2ZkNWQ5MTRlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1838556",
+    "description": "Wanting to lead an honest life, a notorious bank robber turns himself in, only to be double-crossed by two ruthless FBI agents.",
+    "rating": "6.0",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Laxmii",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVlMjEwOWItY2RlMS00NTk5LTllMDEtYjdkZTJmZGViNjhhXkEyXkFqcGc@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+    "imdbId": "tt10350922",
+    "description": "Aasif visits his wife's parents' house and happens to go to a ground that is supposedly haunted. However, he is soon possessed by the spirit of a transgender who is out for revenge.",
+    "rating": "2.5",
+    "movieLength": "2h 21m"
+  },
+  {
+    "title": "Escape from Pretoria",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFmODhiMzMtYjM3MC00MzNjLWEzYjctNzIxZjk2M2JiMDA4XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt5797184",
+    "description": "Based on the real-life prison break of two political captives, Escape From Pretoria is a race-against-time thriller set in the tumultuous apartheid days of South Africa.",
+    "rating": "6.8",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Wolfwalkers",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzg3MjBkYmYtZjZkZS00YWVkLTk3YjMtNDBlMTVmNDZkZDJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5198068",
+    "description": "A young apprentice hunter and her father journey to Ireland to help wipe out the last wolf pack. But everything changes when she befriends a free-spirited girl from a mysterious tribe rumored to transform into wolves by night.",
+    "rating": "8.0",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Train to Busan Presents: Peninsula",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQzODQyM2UtZjQyYy00ZTQ2LWExZDItYWU2ZGEwM2NjMmIzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8850222",
+    "description": "A zombie virus has in the last four years spread to all South Korea. Four Koreans in Hong Kong sail through the blockade to Incheon for USD20,000,000 on a truck.",
+    "rating": "5.5",
+    "movieLength": "1h 56m"
+  },
+  {
+    "title": "My Spy",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDQ0Yzg1OWUtNGY0ZS00MGM0LTg5MjgtNmRjZjUyZTZjZmYyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8242084",
+    "description": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+    "rating": "6.4",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "The Forgotten Battle",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWJkYmQ1OTQtODgwYi00OTM3LTkxN2YtZTExNTZmNGM5ZjIxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt10521092",
+    "description": "In WWII's final years, a soldier in the German army, a British glider pilot, and a Dutch resistance fighter's paths intertwine. Their choices shape destinies, impacting not only their freedom but also that of others.",
+    "rating": "7.1",
+    "movieLength": "2h 4m"
+  },
+  {
+    "title": "The Silencing",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDcwYjI0MzAtNTk4NS00NmRjLWEyZjUtOTQyYTk0N2JlNGYwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt7149730",
+    "description": "A reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
+    "rating": "6.3",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Shadow in the Cloud",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYyMzM4ODQtNTc3NS00ODllLWIzMDMtYjBmM2UyZTBlODJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9691136",
+    "description": "A female WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.",
+    "rating": "5.0",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Fatman",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTBhNzM3ZDgtMThmMC00Yzc2LTkxYTAtOWE2OTQxNmI4YTg0XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt10310140",
+    "description": "A rowdy, unorthodox Santa Claus is fighting to save his declining business. Meanwhile, Billy, a neglected and precocious 12 year old, hires a hit man to kill Santa after receiving a lump of coal in his stocking.",
+    "rating": "5.9",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Run Hide Fight",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzA4OTNhMzgtN2VkYS00MmUxLWEzOTItOTYzYjc2ZTkzYTI4XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt11456054",
+    "description": "Zoe Hull, 17, uses her wits, survival skills, and compassion to fight for her life, and the lives of her classmates, against a group of live-streaming school shooters.",
+    "rating": "6.3",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "The Lovebirds",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2FlZTJmMDktNGMwYy00NjNiLTg2MTItYmNkODRkNDFhMjA5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8851668",
+    "description": "A couple (Issa Rae and Kumail Nanjiani) experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery.",
+    "rating": "6.1",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Becky",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjllZWQyMGEtYTA2YS00ZTRkLTk5ZDMtYjU3YjI2OWM4ZmU2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt10314450",
+    "description": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+    "rating": "6.0",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Anti-Life",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjdlMmFlZWEtZjFhZC00NmRiLTkzYzYtMmYzYzQzMjRmZWE4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt9820556",
+    "description": "On the cusp of fatherhood, a junior mechanic aboard an interstellar ark to New Earth must outwit a malevolent cosmic terror intent on using the spaceship as a weapon.",
+    "rating": "2.9",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "The Rhythm Section",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmMxMjliODctY2M1Ni00NmFjLThiN2EtOTFhYjVmNmZiMTQxXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt7134096",
+    "description": "A woman seeks revenge against those who orchestrated a plane crash that killed her family.",
+    "rating": "5.4",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk3NTA2MTQtNDAyYS00YTI2LWEwZWItNGJjNjk4MjRlMjhhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9580138",
+    "description": "Hanzo Hasashi loses his family during an attack by a rival clan the Lin Kuei. He is given the chance to compete in an inter-dimensional tournament to save his loved ones while other fighters try to save the Earth realm from annihilation.",
+    "rating": "7.4",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Hard Kill",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDc5OTgwMDAtYjY5Zi00OWQ3LTg4MTgtNjExMGUxZWJkNGZkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt11656172",
+    "description": "The work of billionaire tech CEO Donovan Chalmers (Willis) is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.",
+    "rating": "3.1",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "We Can Be Heroes",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODdkYTdhMGItNTg3Zi00NzczLWI2YjgtZThlNTFjZjBlYzFiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt10600398",
+    "description": "When alien invaders capture the Earth's superheroes, their kids must learn to work together to save their parents and the planet.",
+    "rating": "4.7",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Arkansas",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODBkZTc2MmQtYmY5Ni00ODYwLWExZjItMzViYjdlZmQ0YzA0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9139586",
+    "description": "Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they've never met. But when a deal goes horribly wrong, the consequences are deadly.",
+    "rating": "6.0",
+    "movieLength": "1h 57m"
+  },
+  {
+    "title": "The Tax Collector",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQzZjNmYTAtMjY2Mi00MTgwLTg2MzMtMGNmMDk5ZTJiYzJlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8461224",
+    "description": "A \"tax collector\" working for a local crime lord finds his family's safety compromised when the rival of his boss shows up in L.A. and upends the business.",
+    "rating": "4.8",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Occupation: Rainfall",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzU3ZmM0Y2YtNWYwNy00NWZkLTliMzQtMDM0OWEyYjY4NDJiXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt8615822",
+    "description": "Two years after aliens land on Earth, survivors from Sydney, Australia, fight in a desperate war as the number of casualties continue to grow.",
+    "rating": "4.7",
+    "movieLength": "2h 8m"
+  },
+  {
+    "title": "Coffee & Kareem",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ZDZjY2EtZjlkZi00YmNhLTljOGItYzhlYTliMmIzZDliXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9898858",
+    "description": "Twelve-year-old Kareem Manning hires a criminal to scare his mom's new boyfriend -police officer James Coffee - but it backfires, forcing Coffee and Kareem to team up in order to save themselves from Detroit's most ruthless drug kingpin.",
+    "rating": "5.2",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Lost Bullet",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2M0MDA2MDAtYTUyNC00NGFlLTllYTEtMDE3NTlkMWM4ZTQ0XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt10456740",
+    "description": "A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.",
+    "rating": "6.3",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Force of Nature",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ1MWZmOWUtYmFjYS00OWM3LTkxYzktYWE5MTEyMzUxODc2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt10308928",
+    "description": "A gang of thieves plan a heist during a hurricane and encounter trouble when a cop tries to force everyone in the building to evacuate.",
+    "rating": "4.6",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Superintelligence",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNkOGQ4YmUtZGI1MS00N2EzLTkxMzMtMDk2ZTg0OTkyNWEwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt7178640",
+    "description": "When an all-powerful Superintelligence chooses to study average Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it's up to Carol to prove that people are worth saving.",
+    "rating": "5.4",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "The Last Days of American Crime",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjkxZTFhYWUtMjFlYy00Y2M1LTg4MDUtZTViY2MxMmEwZTg0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1552211",
+    "description": "In the not-too-distant future, as a final response to terrorism and crime, the U.S. government plans to broadcast a signal making it impossible for anyone to knowingly commit unlawful acts.",
+    "rating": "3.8",
+    "movieLength": "2h 28m"
+  },
+  {
+    "title": "The Vanished",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzJjZTFlMGUtMjA5OS00N2M2LTg4NWMtNWYwN2RjYWJmY2M5XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt9794630",
+    "description": "A husband and wife will stop at nothing to find their missing daughter, who disappeared on a family camping trip. When the police don't have any leads, the duo takes over.",
+    "rating": "5.7",
+    "movieLength": "1h 55m"
+  },
+  {
+    "title": "The Sleepover",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdhMWIxOTctYjI2Yi00MzZmLTg4MzAtY2M5MDRkMGE0MmUxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt10888708",
+    "description": "When two siblings discover their seemingly normal mom is a former thief in witness protection who has been forced to pull one last job, they team up to rescue her over the course of an action-packed night.",
+    "rating": "5.7",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Survive the Night",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFiOGI2NjEtMWUyMi00MGZjLWE5N2MtNjc2ODRkZDAxYzA0XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt10303324",
+    "description": "A disgraced doctor and his family are held hostage at their home by criminals on the run, when a robbery-gone-awry requires them to seek immediate medical attention.",
+    "rating": "4.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Mortal",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWMyODdlZTYtNDEyMS00M2NmLTk4ZDAtODc2YWFhZGZmYmJiXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt5715066",
+    "description": "Fantasy adventure origin story about a young man discovering he has god-like powers based on ancient Norse mythology.",
+    "rating": "5.9",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "Jiu Jitsu",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY5MDk2YmEtMWYxYy00Nzc2LTgzZmItMGYxMjk0NTI1MTczXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9624766",
+    "description": "Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.",
+    "rating": "2.9",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Rogue",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmZkZWY5ZjItYjJjYi00MjA3LTk3ZGMtMmFiYzMzYTJlZDNhXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt11576124",
+    "description": "O'Hara is a mercenary leading a squad of soldiers on their mission to rescue hostages in a remote part of Africa. Unfortunately, the mission goes awry and the team is stranded and forced to survive against the local rebels.",
+    "rating": "4.2",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Skylines",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWVmYTAwNzMtN2I0ZS00OTU2LThjMTctOTlkZjYwOTkyZjEyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9387250",
+    "description": "When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.",
+    "rating": "4.8",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "The 2nd",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTY4NTFlMGMtZTQ0Ni00MzdhLWE4OTgtZmVkMmM0NDI4MzhiXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt11697484",
+    "description": "An Army Delta Force officer is late picking up his son at college. His son and a Supreme Court Justice's daughter are the last there. A gang of terrorists are there to abduct her and force her dad's hand on a Second Amendment vote.",
+    "rating": "3.8",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Echo Boomers",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNhZWQ2NTAtN2NjMy00MzIyLWE4MjctY2QxOGIxMWUxNzJmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4353270",
+    "description": "Based on a true story, five college graduates decide the best way to get back at the unfair economy and live the life they've always wanted is to steal from Chicago's richest and give to themselves.",
+    "rating": "5.3",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Triggered",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmMxMmY0ZjctMWZhOS00MDE0LWIyYjEtZjIxZmVmN2Y3ZTc1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9419976",
+    "description": "Nine high school friends have a five-year reunion camping in a forest. They all have secrets. An unknown person straps a time bomb to each of them. Killing another gives one their time. Last one lives.",
+    "rating": "4.8",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "The Doorman",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzBjMDkzMDEtMjQwNy00MjI3LWIyMmEtOGVlYWU0ZjJkNGUxXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbId": "tt6222118",
+    "description": "A woman returns from combat and befriends a family in NYC. A gang of thieves plot to take the family's valuables, and she is all that stands between them and their lives.",
+    "rating": "4.7",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Monsters of Man",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODEwZTRjZWQtMjRhOC00MWU5LThlOTktZjNmNjlhZDVmOTFkXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt6456326",
+    "description": "A US weapons manufacturer tests its 4 killer robots on heroin producers in the Golden Triangle in SEAsia. It goes haywire.",
+    "rating": "5.4",
+    "movieLength": "2h 11m"
+  },
+  {
+    "title": "Vanguard",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ZjQwZmMtZmFhZi00MDY4LThmYzctODc0MGQ2ODhkY2U3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt9695722",
+    "description": "Covert security company Vanguard is the last hope of survival for an accountant after he is targeted by the world's deadliest mercenary organization.",
+    "rating": "4.7",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Army of One",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmNjYjViNjctOTE1NC00NmIwLWJjNDgtYzg3NzEyZTBkMzIwXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt7153488",
+    "description": "Out hiking, Special Forces Brenner Baker stumbles onto a cartel's compound. Her husband's killed and she's left for dead. The cartel made two mistakes - killing her husband and leaving her alive. They won't live to make another.",
+    "rating": "4.5",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Attack of the Unknown",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE4YjIzNjItZTE2YS00NDczLWI0OTctYjAzYmExOWU5ZjU2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt8804580",
+    "description": "A SWAT team transporting a vicious crime syndicate boss must fight their way out of a county detention center during a catastrophic alien invasion.",
+    "rating": "3.2",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Secret Society of Second Born Royals",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MxOGMxZmYtZmQwNS00OTRhLWFkODUtMTQ4MjFlNGJiOTI3XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbId": "tt10324122",
+    "description": "Follows Sam's adventures at a top-secret training program for a new class of second-born royals tasked with saving the world.",
+    "rating": "5.0",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Invasion",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzY4YzgxZTAtMDBiNi00MzQxLWFkN2MtZDc5ZTViYzI0NjU0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt8060328",
+    "description": "With the fall of the alien ship Julia's life changed, now three years later mankind is about to experience new encounter.",
+    "rating": "5.6",
+    "movieLength": "2h 14m"
+  },
+  {
+    "title": "Shooting Heroin",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmUxYWNlMWMtYTllMS00Njk5LTlkMjUtZWI2OWRiNzM3NjE4XkEyXkFqcGc@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+    "imdbId": "tt8332454",
+    "description": "A small town community comes together to eradicate the heroin epidemic from its midst by whatever means necessary.",
+    "rating": "4.8",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Money Plane",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2NmYTVhZTItYzA2Mi00NmE1LTk0MzgtYjg0MzU2MDNhNzFmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt7286966",
+    "description": "A professional thief with $40 million in debt and his family's life on the line must commit one final heist - rob a futuristic airborne casino filled with the world's most dangerous criminals.",
+    "rating": "3.2",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "The Debt Collector 2",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzAxZDIxOTUtNTJlYS00ZWFkLWJlMTQtZDI2OWE4YjZmNTljXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt10933680",
+    "description": "A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin. -Samuel Goldwyn Films-",
+    "rating": "5.8",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "The Intergalactic Adventures of Max Cloud",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDM2MTU3NzAtNDk1ZC00MTJiLThjNmUtMTg4Y2ZkNjJhNzk3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9472532",
+    "description": "A space cruiser crashes on a planet that is home to an intergalactic prison.",
+    "rating": "4.7",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "The Paper Tigers",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODllYmQxMTMtY2MyYS00ZWM5LWE3M2UtYjE4M2NjODM2NzQwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt6060444",
+    "description": "Three Kung Fu prodigies have grown into washed-up, middle-aged men, now one kick away from pulling their hamstrings. But when their master is murdered, they must juggle their dead-end jobs, dad duties, and old grudges to avenge his death.",
+    "rating": "6.3",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Chick Fight",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWFmM2ZjZTUtN2RiMi00MGUyLWJmMjAtOTk0NDUzNWQzZTRlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt10944486",
+    "description": "When Anna Wyncomb is introduced to an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.",
+    "rating": "4.8",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Villain",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmE3NzRlZTktNGVjNC00MzY3LTk1OGMtNDZjNzQ5NzBmZGZhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9820352",
+    "description": "Eddie Franks is a former criminal who attempts to help his family by reconnecting with his daughter and clearing his brother's debt. Despite his efforts, he is drawn back into a criminal way of life, with devastating consequences.",
+    "rating": "5.9",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Deathstroke Knights & Dragons: The Movie",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ZTgyYjMtZTVkMi00NDUxLWIzOGYtN2QxMzk1NGQ1NDRlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt12876132",
+    "description": "Assassin Slade Wilson leads two lives: a relentless killer known as Deathstroke and a family man. Can he atone for the sins of the past-or will his family pay the ultimate price?",
+    "rating": "6.3",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Tribal Get Out Alive",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTg1N2NjZWUtNjk3OS00MWU0LTg1ZWEtOTBiMjZhMzgyMjQzXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt10126136",
+    "description": "Elite military personnel Caitlin Ross retires from service after suffering from PTSD. Along with former team member and close friend Brad Johnson, they opted for the 'easy life' and now lead a small security firm. The company are hired by young, troublesome millionaire Richard Kenning to clear and secure the land and property he has recently inherited. Rumours and stories surrounding the land and buildings are dismissed until people start disappearing and the team end up locked in with no escape. It soon becomes apparent they are being hunted and the race is on to get out alive.",
+    "rating": "3.9",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Embattled",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTlhODU1N2YtYjBmZS00ZjhmLTg2MzUtMzEwZThkMDU2ZThjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt6539992",
+    "description": "A son aspires to follow in his famous MMA father's footsteps, but along his journey must figure out how to break the abusive cycle, if possible, that his father has continued.",
+    "rating": "6.5",
+    "movieLength": "1h 57m"
+  },
+  {
+    "title": "Disturbing the Peace",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTc4ZGNmYmMtODE3NC00ZTUyLWIyYzctMDcwZGQ2NWIwYTE5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5717194",
+    "description": "A small-town marshal who hasn't carried a gun since he left the Texas Rangers after a tragic shooting, must pick up his gun again to battle with a gang of outlaw bikers that has invaded the town to pull off a brazen and violent heist.",
+    "rating": "3.4",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Archenemy",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDQ2ZDQtZjI5YS00Yzk1LWJiMDItOTUzNmY2ZjE1ZmM5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt11274100",
+    "description": "Max Fist claims to be a hero from another dimension who fell through time and space to earth, where he has no powers. No one believes his stories except for a local teen named Hamster.",
+    "rating": "5.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "The Serpent",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNGFlMmItNGRiNC00OWE5LTk1N2ItNjMzOGNmNzk5ZDkxXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt6984230",
+    "description": "Top special agent Lucinda Kavsky works for a secret part of the CIA. She's given a special assignment but then set up by her own agency.",
+    "rating": "2.9",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Behind the Line: Escape to Dunkirk",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNmM1MmQtZjE4OS00NjgzLWFmMWUtZDU5ZTAwNTNiMzZhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt10148118",
+    "description": "A group of British soldiers retreating from the Germans toward Dunkirk during World War II are captured. A renowned British boxer among them is forced into the ring to fight an equally talented German boxer as the Brits plan to escape.",
+    "rating": "4.7",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Cut Throat City",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODBkZWE0ZjUtNjZkOS00ZDc5LWJjNzctYmU5M2ZjNDRiNjM4XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt3547306",
+    "description": "Set after Hurricane Katrina, four boyhood friends out of options reluctantly accept an offer to pull off a dangerous heist in the heart of New Orleans.",
+    "rating": "4.9",
+    "movieLength": "2h 3m"
+  },
+  {
+    "title": "Seized",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzRhYTgwMGQtMmExNi00YmY4LWE1ZTYtNTNlYTQyMzlkNWVlXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt7221772",
+    "description": "After a former special forces agent's son is kidnapped, he must wipe out three dangerous crime syndicates, if he wants to see his son alive again.",
+    "rating": "5.3",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Shock Wave 2",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI5N2FmYmQtZWQ3MS00YTY4LWFlOWMtNzIxMTBiMDI4NGZiXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt9597838",
+    "description": "A terrorist expert in explosives, whose gang has been dismantled, seeks revenge. He threatens to blow up a Hong Kong tunnel with hundreds of hostages. The policeman who has already beaten him once must stop him again.",
+    "rating": "6.6",
+    "movieLength": "2h"
+  },
+  {
+    "title": "One Night in Bangkok",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzkwYmUwNDYtMDA1ZS00M2M1LWFkM2UtNTJmMjM2MzJjNGI3XkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt12192190",
+    "description": "A hitman named Kai flies to Bangkok, grabs a gun and hails a taxi.",
+    "rating": "5.2",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Asphalt Burning",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmNkZTdmNWYtZjI3Mi00NjJlLWExMzUtZTkzNDBkYzRlM2UyXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt6527456",
+    "description": "The third and final installment in the Burnout trilogy. This time, the road leads through Norway, to Sweden, Denmark and finally Germany to race on the famous racing track, Nürburgring.",
+    "rating": "5.2",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "English Dogs in Bangkok",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzEzZWFhMTUtM2NmOC00ZGE4LTlmNDQtN2JmN2I0YjkyZTlhXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt7265634",
+    "description": "In the streets of Thailand, a trail of destruction and mayhem ensues when a notorious soldier (Byron Gibson) and criminal kickboxer (Ron Smoorenburg) join forces to become the biggest illegal steroid supplier in Asia.",
+    "rating": "3.6",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "The Main Event",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTYxYmFhMWQtMmM0NS00MmEwLWE5MWEtNWQ0MTIxZWIxMjQwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt10540242",
+    "description": "After discovering a magical mask, an 11-year-old aspiring wrestler enters a competition to become the next WWE superstar.",
+    "rating": "4.8",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "High Ground",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQxODJhZTItMTMyYS00YWYxLWJlZmUtYTMyYjM4YmI3NmZmXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt9286908",
+    "description": "In a bid to save the last of his family, Gutjuk, a young Aboriginal man, teams up with ex-soldier Travis to track down Baywara, the most dangerous warrior in the Territory, his uncle.",
+    "rating": "6.5",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "Hunted",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ExMmY0N2EtYmY1Mi00ZTkzLThhZGMtMThjZDQ1YTkxMThkXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt10011228",
+    "description": "\"The company of wolves is better than that of man.\" Once upon a frenzied time, Woman meets Man. Woman dances with Man. Man kisses Woman. Man grips Woman. Woman escapes Man. Man chases Woman - nothing new. Or is there?",
+    "rating": "5.3",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "The Sound of Philadelphia",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWU1YTA4MzEtMThkNC00Y2I0LWJjMzItZWEwMTQ2ZjdhYWFiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8368294",
+    "description": "A tale of family, friendships and betrayal in the violent world of the Philadelphia mob.",
+    "rating": "5.0",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Transference: Escape the Dark",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWI1ZmM4MDMtOTM3MS00N2JmLWJlZTUtMWE2NjYyNmIxYzNhXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt7159566",
+    "description": "Joshua must protect his twin-sister, Emma, who possesses supernatural abilities and keep her safe from an unstoppable secret agent hunting them for an experiment in a classified government program.",
+    "rating": "4.1",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "The Legend of Deification",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU4NjEyNWItMGYxNi00YzAxLWI1ZGEtMjZmZGE5MDc2YzBjXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt11177804",
+    "description": "Banished to the mortal world, a warrior has to slay a demon to return to the heavenly realm and become a god.",
+    "rating": "6.5",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "I Am Vengeance: Retaliation",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNkMDRlZDktYzc1MC00Yjk4LTk3YzgtZjA2NmM0MzRjYjYyXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt8972556",
+    "description": "Former special-forces soldier John Gold is given the opportunity to bring Sean Teague - the man who betrayed his team on their final mission in Eastern Europe several years ago - to justice. Gold would cheerfully see Teague dead, but he is convinced to help transport him to a military prison to pay for his crimes. Along the way, Gold will have to fight off Teague's team who are attempting to extract him, as well as a sniper seemingly hell-bent on killing Teague before he can be secured.",
+    "rating": "3.5",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Enter the Fat Dragon",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGMwNTFmNzktNjBlNi00MTFiLTlmOGItZjNiOTZkZGMxZTA3XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt7335600",
+    "description": "A cop is assigned to a case of escorting a criminal to Japan while dealing with relationship problems, and his enormous change in appearance as a result of being dumped.",
+    "rating": "5.7",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "My Dad's Christmas Date",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGM3ZTk1MTctNWRkMi00MTE0LWIyNWMtNjZiYmI4MWEwNDU1XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt11457736",
+    "description": "A 16-year-old tries to play matchmaker for her widowed father during Christmastime.",
+    "rating": "5.5",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Spy Intervention",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhNDNiODMtNDEyZS00YTc0LThmODMtMmM2YzVkNjFhMzAwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt7369550",
+    "description": "When the world's greatest spy meets the woman of his dreams, he abandons his adventurous existence and settles into the security of suburbia.",
+    "rating": "3.9",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Enemy Lines",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ2ZDVmMWYtMjNkZi00NDNkLWE3M2UtZjA1YmY2YjM3OWQ0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9904802",
+    "description": "In the frozen, war torn landscape of occupied Poland during World War II, a team of Allied commandos is sent on a deadly mission behind enemy lines to extract a rocket scientist from the hands of the Germans.",
+    "rating": "4.6",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Edge of Extinction",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIyNDI3M2UtNDc0Yy00MjBlLWFiNTQtZjIxY2I5NGVkZWY5XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt6876854",
+    "description": "15 years after World War III, the nuclear winter is over, but mankind is on the verge of extinction. Civilisation no longer exists, food is scarce and most eke out a living by stealing and killing. One boy clings onto life in the desolate countryside of southern Britain, where staying away from other humans has been key to his survival. But this self imposed isolation comes to an abrupt end when he crosses paths with another group of survivors and an enemy far more savage than any of them could imagine.",
+    "rating": "4.9",
+    "movieLength": "2h 21m"
+  },
+  {
+    "title": "Rev",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTkxZmU5MDctYjY5MS00NDY2LWFhNTctY2Y2Y2Q5ODgzNTY4XkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt11056594",
+    "description": "A young thief with a history of grand theft auto becomes an informant and helps police bring down a criminal enterprise involved in the smuggling of hundreds of exotic super cars.",
+    "rating": "5.1",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Spare Parts",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzIyOWNlZDUtMTA3Ny00NTg2LTg3ZGQtZmViY2EzNTcyMmM0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt8493998",
+    "description": "While travelling on their first American tour, Ms. 45, an all-girl punk band, is drugged and kidnapped. They awaken to find their limbs removed and replaced with crude weaponry, and are forced to fight as Gladiators for a sadistic town.",
+    "rating": "4.4",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Dune Drifter",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZkNjFlYzYtMjNkMC00YmJiLWJkZDItZDIxYTU0MWJmNWNkXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt11835714",
+    "description": "After a devastating orbital space battle, the survivor of a crashed star-fighter must navigate the harsh environment of a desolate planet to save herself before her life support expires.",
+    "rating": "3.6",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Walkaway Joe",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmFkMjk1YTYtZGQ1OS00MTczLTg4MmItZWRkODI1MWZlMmZlXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt4427800",
+    "description": "The story of an unlikely friendship between a young boy searching for his father, and a wandering loner hiding from his past.",
+    "rating": "5.6",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "The Protector",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDk1Yzk3NWQtZmMwYi00MzQ4LWI2YzktNDQ4NjZjNDFhNTM1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9347750",
+    "description": "An aging protection specialist takes on one last job before retirement, protecting a couple who stole eight million dollars from a ruthless crime family.",
+    "rating": "4.1",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "No Man's Land",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZkOTkzYmQtODBhYy00OTQ5LTllMzUtMjg2YTg1OTU3MWFmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt10449052",
+    "description": "When a vigilante border patrol turns fatal, a man flees on horseback to Mexico, seeking forgiveness from the victim's father.",
+    "rating": "5.4",
+    "movieLength": "1h 54m"
+  },
+  {
+    "title": "Bank on us 2",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODc5YTdlMDMtZTA3MS00NDBjLWE3MDgtYzIxYzgxZTQ3YWQ3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt12759288",
+    "description": "After pulling off a $4,000,000 heist in New York, the team heist team travel to London, England to steal something worth more than it's weight in gold.",
+    "rating": "4.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Paradise Z",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzliMjk4ZTYtZWNjOS00N2NmLWIxZTItY2I2MDQwYzU5ZDAyXkEyXkFqcGc@._V1_QL75_UX140_CR0,13,140,207_.jpg",
+    "imdbId": "tt6391282",
+    "description": "Two young women's plans to try to live a normal life in isolation after a world ending apocalypse go awry when they are discovered.",
+    "rating": "2.9",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "For the Sake of Vicious",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjAxN2VlNTAtZWEzNy00NGVkLWJkNTYtNGFhOTY4NmJlMTE4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt11014390",
+    "description": "An overworked nurse returns home to find a maniac hiding out with a bruised and beaten hostage. When an unexpected wave of violent intruders descend upon her home, it becomes a fight for survival.",
+    "rating": "5.3",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "The Runners",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDk4YmY0ZDMtMzJlZC00M2NkLTkyNTItOTZiNDk2NzFiOTY4XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt3290322",
+    "description": "When his little sister is abducted from a homecoming after-party in rural East Texas, Ryan is in a race against the clock to save her before she disappears into the underworld of sex trafficking forever.",
+    "rating": "4.5",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Legionnaire's Trail",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE3MjcyNzQtN2VmNS00OGVkLWE4OTMtYWFmMjY5ZGZmOWQ2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8318284",
+    "description": "Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.",
+    "rating": "3.2",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Unbound",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0MTAzOTAtNzU5OS00YmE5LTlkZTQtMjBmOTY0ZjMxYmUwXkEyXkFqcGc@._V1_QL75_UX140_CR0,8,140,207_.jpg",
+    "imdbId": "tt5747714",
+    "description": "Set in a sleepy town in New Orleans, a family grieves for their missing daughter while hiding a secret in the basement.",
+    "rating": "3.3",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Spycies",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWVlMzJhYTItZGI5NC00OWMyLTljYzgtMjQ5NmY1ZDM3ZTk0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt8028842",
+    "description": "Vladimir and Hector, two secret agents opposite in every way, are trying to recover a top secret material stolen by unknown intruders.",
+    "rating": "5.5",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Concrete shark",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDlmOTg1NWItNzU5ZS00NmJiLWJmNDgtMTUyNzM4NzFlMmE3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt11890562",
+    "description": "The director of the concrete plant fell into the concrete mixer. The devil from hell turned him into a concrete shark. Save the world from another monster will locksmiths Michael and Azamat.",
+    "rating": "6.5",
+    "movieLength": "45m"
+  },
+  {
+    "title": "Shark Attack",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGFmZmQ5NzEtN2RkZi00N2U5LTgxMjYtNzc4YTgxZWNlODIzXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt12906784",
+    "description": "Three kayakers fight for their lives when a great white shark traps them on a small, sinking island.",
+    "rating": "2.7",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Break Even",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDlkNjc2Y2EtOWUyOC00ZDEwLWFhODctZDkyZDZhOWY2YWM3XkEyXkFqcGc@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt9707580",
+    "description": "Four adventurous friends find 50M in cash at a remote island only to discover it was left by the DEA for the Cartel in a rogue deal.",
+    "rating": "4.8",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Santana",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFhMTljZjItM2YxNC00YmZjLWEzOGUtZjE0NjAyMjYyNDRmXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt11769162",
+    "description": "Two cops, two brothers. One is out for justice, the other revenge. They may kill each other before capturing the bad guys.",
+    "rating": "3.9",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Blue Ridge",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODhlN2NjOTMtOWFjMi00NDg0LWI5MTItZDM0YjFkNjY3M2E4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt11695190",
+    "description": "A murder in a sleepy town at the heart of the Blue Ridge Mountains shocks the community and refuels a longtime feud between two families.",
+    "rating": "5.6",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "The Warrant",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGJjNjRiOGItZjM3OC00N2JiLTgwOTctOTAzYjM1ODYxYTVjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt10880084",
+    "description": "After fighting in the Civil War, two Union Army buddies find themselves on opposite sides of the law with the post-war peace at risk.",
+    "rating": "4.8",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "The Promised Neverland",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJjMGFmZTEtNmNmMi00NzFiLWI1MTEtNjBiYzk0YzMwMjkwXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt11027510",
+    "description": "A group of the smartest kids at a seemingly perfect orphanage uncover its dark secret, and set in motion a dangerous and desperate escape plan.",
+    "rating": "5.5",
+    "movieLength": "1h 59m"
+  },
+  {
+    "title": "Death in Texas",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRiMTU2MmYtODMxYy00NjQ0LWJlZDktNzA2Nzc5MDY0OWI3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4472508",
+    "description": "Just out of prison, Billy Walker returns to El Paso to find his mom dying of liver failure but low on the transplant list. However, the border offers other, darker options.",
+    "rating": "5.6",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Monster Hunters",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q4MmQyNzktZmI4Ni00NDQzLTlhYzMtNjIyMzUxMjAxOGI4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt12942958",
+    "description": "Alien prisoners escape after their ship crashes in California desert. They overpower local authorities. A secret government branch specialized in alien weaponry is tasked with stopping the extraterrestrial threat.",
+    "rating": "2.3",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Beckman",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTY3YTA5NDEtMTZlYS00NjBjLWJiZWQtYzlmYWRjMjlmZjc2XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt10989808",
+    "description": "A contract killer becomes the reverend of an LA church until a cult leader and his minions kidnap his adopted daughter. Blinded by vengeance, he cuts a bloody path across the city. The only thing that can stop him is his newfound faith.",
+    "rating": "4.3",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Legacy",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzMyZjk0YjYtOTYxZC00ZDc3LTk3YmMtM2MzZjEwZWJkMzc4XkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt6439748",
+    "description": "A war criminal/drug lord is arrested in Beograd by Nolan from MI6 and police. He's flown to The Haag to stand trial. He hires an assassin to take out witnesses, one a teenager in the wilderness with his dad.",
+    "rating": "4.1",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Dave Not Coming Back",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmNkZWZhMDctNDg1NC00N2M1LWFiNWUtYTZiMjllYzQ5MWJkXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt8999972",
+    "description": "Two friends, Don and Dave were diving in the cave of Boesmansgat: 283 meters. Right before surfacing up, Dave - who'd just broken a world record - finds a body. They decide to dive back and retrieve it.",
+    "rating": "7.0",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Knuckledust",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWJlY2ViMzAtMTkyZi00YTI1LWJkNjQtZjI5MDM0YzE1ZDkwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt9109072",
+    "description": "A former marine is trapped in an elite underground fight club. When cops swoop in they discover only one man left alive, him. But all is not as it seems. Is he the sole survivor or a mass murderer?",
+    "rating": "4.8",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Scarlett",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM1OGNkZTMtMTc5NS00MmFhLTg2OTItMGQxNzBjOTFmNmY0XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt12590438",
+    "description": "A college student must draw upon all the skills her spy-father taught her to protect herself and save her father from weapons dealers.",
+    "rating": "5.1",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Meteor Moon",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjQ1ZGM3MjgtOTI5MC00ZmZhLWJlNDQtMjhjZTc5ZTgyOTMzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt13179918",
+    "description": "When a meteor crashes into the moon and shifts its axis, Earth's gravity pulls the moon into the path of the planet. Now, a group of scientists must figure out how to stop the moon from hitting the earth before it's too late.",
+    "rating": "2.3",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Bulletproof 2",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWRjZWZjNTYtYWYyMi00YTAzLWJhMTUtYmVlY2I0MDU0NjM5XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt9887580",
+    "description": "Set 25 years after, Jack is now working as a Special Agent with a mission to take down a powerful South African crime family. The officer begrudgingly goes undercover once again, this time taking the identity of Moses.",
+    "rating": "3.7",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Last Three Days",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2NlNzU3NTItM2I4Yi00ZjRkLWE1MWMtNjI4NGFiNzQwMjMwXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt6794504",
+    "description": "After getting mixed up with a dangerous crime syndicate, an undercover cop wakes up to discover he is missing his partner, his wife, and three days of his life.",
+    "rating": "3.6",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Equal Standard",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA2MmVhYzAtNzNiZC00ZWQ2LWFmZjMtNjFiOGVhOTZkYTNlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt8171000",
+    "description": "The lives of New York City police officers collide with interwoven stories of race, rank, loss and betrayal.",
+    "rating": "5.0",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Cagefighter",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzRjZjFhZTUtNzRjYS00ZjMwLWI4OTktNjNmMjZmY2JlMGJkXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5505992",
+    "description": "Reiss is the greatest champion to ever fight in a LEGENDS cage. But when promoter Max Black pits him against wrestling superstar Randy Stone, Reiss finds himself in the toughest fight of his life.",
+    "rating": "4.5",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Duncan",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTg5YzFjY2MtMTc0Ny00ZGE3LWI5OGEtOGVlZTAxMzEzMTkyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt10725448",
+    "description": "A dark social satire inspired by the real life conspiracy theory known as Pizzagate. An amateur journalist and a far-right militiaman team up to expose the ugly truth behind rumors involving sex cults, a pizza place and the lizard people.",
+    "rating": "5.0",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Top Gunner",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGM2OGE3NWQtYTY5OC00MTlhLThkN2QtZWIzYTAwMzVjYTNmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt12226808",
+    "description": "Recent graduates of a secluded U.S. Air Force base must protect a gene-editing bio-weapon from the Russian military - who are desperate to seize the deadly viral agent at any cost.",
+    "rating": "2.0",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "Fast and Fierce: Death Race",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQxMzk4MzktNjcyNy00YjAwLWI3MmMtMzQxODg5Y2ZhNGFlXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt11765324",
+    "description": "Jack Tyson is a young man partaking in an illegal Mexico-to-California car race when a desperate woman, fleeing from her abusive gangster boyfriend who is financing the race, jumps into his car pleading for his help and who has an incriminating USB drive that could send her boyfriend, among others, to prison.",
+    "rating": "2.4",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Mr. Zoo: The Missing VIP",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU3NzNkNjUtZTVhMi00NjU1LWFjY2QtYzRhN2FjZjYxNzUyXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt11566166",
+    "description": "Top National Security agent and zoophobe Tae-ju suddenly receives an ability to talk to the animals after a freak accident?",
+    "rating": "5.6",
+    "movieLength": "1h 54m"
+  },
+  {
+    "title": "Lost Girls: Angie's Story",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDViMzBhYzYtNTcyMS00N2JmLWE5ODMtM2ZjMzZlNGRkNmQyXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt9242768",
+    "description": "After escaping from a sex trafficking ring, one teenage girl struggles to reconnect with herself and her family. To rescue her helpless friends, she must confront her own fears and help lead the police to her traffickers - at all costs.",
+    "rating": "5.3",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Kill Mode",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjQ5N2YwZDktYjk0NS00MmZkLWI0NGEtZDhiMDA2ODdhNjc1XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt8365426",
+    "description": "In a gritty near future, an ex-freedom fighter reluctantly jumps back into the fold after discovering a disturbing secret that could bring down the company that owns the world.",
+    "rating": "3.0",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Space Dog: Return to Earth",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzJkZjc0MzAtNDU4Ny00ZTM1LTg2NzgtZDQyYWFjMjFmY2U4XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt13033280",
+    "description": "When a mysterious and dangerous whirlpool appears in the tropics of the Atlantic Ocean, astronauts Belka and Strelka are sent to investigate. With the help of their good friends, Belka and Strelka must once again act heroically and complete a daring mission to save the planet along with the distant home of their new alien friends.",
+    "rating": "4.4",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Disrupted",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZjNzJmNTMtNTZjOS00OWJiLWFiYzAtNGFkZWE5NTY1YmNjXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt6829882",
+    "description": "An Oakland widower's thirst for justice is rekindled when a local killing is oddly similar to his wife's unsolved murder from decades ago.",
+    "rating": "5.2",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "The Misadventures of Mistress Maneater",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjcxODk5M2EtMzczMS00MGZlLWEyODctNGY3MDExZGFiY2QzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt9763402",
+    "description": "With only 30 days to repay a massive loan, a disgraced art historian is forced into a scandalous scheme: win the heart of, and then extort, the Episcopal priest avoiding her like loose glitter. When she discovers him hiding the world's greatest lost masterpiece, will she betray the heroic man who believes in her genius, or fall for him and doom herself to a custom pair of concrete stilettos?",
+    "rating": "5.2",
+    "movieLength": "1h 51m"
+  },
+  {
+    "title": "Search and Destroy",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ0NTE4MzUtYzVjMC00MjQwLTk3NDktYmNhZWM4OTBlNmIyXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt11791146",
+    "description": "When American Ranger John Cutter fails to save a family being held hostage and loses his entire team in a battle with infamous Ukrainian Arms Dealer Igor Rodin, John is discharged from the army. Three years later he is approached by his old General to go on a private contract mission when Igor resurfaces.",
+    "rating": "2.7",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Pistolera",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdhZWZjMWYtYWE3NC00NjgwLTlmNjctZmE5OWM0Y2QxYjM4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt9037864",
+    "description": "When a ruthless drug lord murders the family of a little girl in Spain, he makes a fatal mistake: letting her live, setting in motion a bloody chain of events in this tale of revenge and its cost.",
+    "rating": "2.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Rogue Warfare: Death of a Nation",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdiZmY1OTMtMTBmOC00NzFhLWEzY2YtOWJlOWEyYTU0OTJmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt7983744",
+    "description": "The Black Mask Organization coordinates a twisted plot which will devastate the world within the next 36 hours.",
+    "rating": "3.3",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Asteroid-a-Geddon",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZjNWQ4YTctOGQxYS00NjA3LWIyYzAtYjUzMDhlZmI1MjUxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt13298656",
+    "description": "A global scientific summit fails on a plan to stop an asteroid heading for Earth - all countries are blaming each other. With communications tense, the daughter of a tech billionaire assembles her own team of specialists.",
+    "rating": "2.4",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Robot Riot",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWM2YWJmMTgtNzExZi00YmMwLTgzNGYtOGUwODFlN2I5YWNjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt12416066",
+    "description": "Unconscious soldiers are dropped into a testing site and discover their memories have been wiped. Once docile machines are the new intelligence.",
+    "rating": "3.3",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "A Perfect Plan",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmFiYTIxNjUtNDNiMi00NzUwLWEzZWUtYjM5YzZjZDhlMDA4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt9261042",
+    "description": "Four notorious thieves wake up in a fortified warehouse and are forced by a cunning master thief to plan and commit an extraordinary diamond heist.",
+    "rating": "4.4",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Shinchan: Crash! Scribble Kingdom and Almost Four Heroes",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzBhMjg3OTUtOWEyMi00MjM2LThjODMtMWQyNDYyOGZkNDU4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt12850062",
+    "description": "The Scribble Kingdom in the sky which charges it's life energy with scribbling is endangered when the people in the world lessen their scribbling. The military is send in to enforce more scribbling.",
+    "rating": "6.5",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "The Legend of Baron To'a",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc4M2U5YzQtOWE2OS00MTA4LThhOGYtMDUwNWFkMzQ3NWYwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt11690838",
+    "description": "Fritz, a young Tongan man grappling with his wrestling superstar father Baron To'a's legacy, both metaphorically and literally following in his deceased father's footsteps by fighting for the return of his dad's stolen championship belt.",
+    "rating": "6.4",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Airliner Sky Battle",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmJiNTg5MjktMWE5NC00OGFjLWEyN2YtMTdlMjZkMGNlNmQwXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt13437998",
+    "description": "Russian operatives hijack a commercial American jet, planning to crash it into a nuclear power plant near Washington, D.C. resulting in fallout that will devastate the Eastern seaboard. With little time for Air Force fighters to shoot it down, the passengers and crew aboard the aircraft must rely on their own military and civilian training to stop the terrorists before it's too late.",
+    "rating": "3.3",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Amityville Island",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZkZWMzZGQtNzFiZS00NDUxLTg3MGUtM2JkNDc1MWJiZjVlXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt12057580",
+    "description": "A cursed survivor of killings at the Amityville House brings evil to a small island where bizarre genetic experiments are carried out on humans and animals in a secret women's prison.",
+    "rating": "1.9",
+    "movieLength": "1h 10m"
+  },
+  {
+    "title": "Cry Havoc",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTBmZTFmZWUtOTZmMC00MjY3LWE1YzktNjg3MGVmMDExY2E1XkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt12158538",
+    "description": "A law enforcement officer is forced to go rogue when an unthinkably cruel and dangerous maniac murders innocent victims in gruesome ways.",
+    "rating": "3.4",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Battlefield 2025",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWNlNjU5OWUtOWRhYi00OTU0LWI2ODMtOTYyMzhhNGI2M2I3XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt8134980",
+    "description": "Weekend campers, an escaped convict, young lovers and a police officer experience a night of terror when a hostile visitor from another world descends on a small Arizona town.",
+    "rating": "2.2",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "Dragon Soldiers",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDJlNjljNjAtNWYxOS00NmFlLWE0OWYtNWZmNDYwMjc5ZDI2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt12038670",
+    "description": "A lethal creature hides in the woods that surround a suburban area killing anyone who gets near. An elite group of soldiers comes into action.",
+    "rating": "3.2",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Heavenquest: A Pilgrim's Progress",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NlYTczMTEtMTg4OS00NDg0LThkNTctYmJiYmJlMDJhMzdjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5167200",
+    "description": "A regal man named Vangel is thrust on a journey against his will when he is mysteriously arrested and begins to have strange visions of a woman in white. Armed with an ancient book that he receives from a wise sage, his adventure begins.",
+    "rating": "3.5",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Devil's Night: Dawn of the Nain Rouge",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE4ZWViZTctZDgzNS00ZTkwLWE3MGItYzM0MDFhNmY5MGM0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt7086730",
+    "description": "A military veteran who returns home, works in law enforcement and she's assigned to a supernatural case that's surrounded by urban myth and legend.",
+    "rating": "3.3",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Agent Jade Black",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGU5OTRmY2MtN2RiOC00ODQ3LWFhMGItY2IyY2I4YzJiZjczXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt10275080",
+    "description": "A skilled young female agent is tasked with capturing a rogue former agent before she can unleash a biological weapon starting with the wealthy and powerful purveyors of the international sex trade.",
+    "rating": "2.0",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Dog Fight: Battle for the Skies",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwYWMzNmYtODIzYy00YWQ1LThkYzgtMGRiNzVmZmQ0M2JlXkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt11316764",
+    "description": "In one of the most dangerous missions of the war, an American B-17 pilot volunteers to fly a surrendered Messerschmidt 109 on a daring flight through the heart of Germany to try to prevent the people of London from being terrorized by the V-2 rockets. \"Rocket Hunter\" tells the story of an amazing pilot and his bombardier brother from the time they are teenagers dreaming of taking to the skies to the dark days of January 1945.",
+    "rating": "1.4",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Escape 2120",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM1YWFjNjgtMDliZi00ODZkLWJiOWQtNTcxMGIyMTNhZDI0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8633542",
+    "description": "A detached orphan teen escapes to the future, but when he arrives at a natural utopia, he must evade a lynch mob convinced that he's the prophesied Devil's Child.",
+    "rating": "3.5",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Ancestral World",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYxZDJiOTktZTk4NS00M2ZmLThiOTItZTY5ZGE3NDgwMzU0XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt5791256",
+    "description": "A prince must learn to be a hero. In a time of demons and Gods warring for domination, a prince is sent on a mission to rescue his brother and recover a magical armor stolen by the God of Destruction.",
+    "rating": "2.5",
+    "movieLength": "1h 17m"
+  },
+  {
+    "title": "Lost Treasure of Jesse James",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTQxZWM2MDEtOTViZi00NTRkLThlMWMtM2Y2NDllOThlODE3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt8042080",
+    "description": "A backwoods team of Missouri kids race to solve a 100 year old mystery and save their friends in this family friendly action adventure. Chased deep into ancient caves they must escape treasure hunters hot on their trail or be lost forever.",
+    "rating": "3.4",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "The Good Things Devils Do",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTY0ZjIwOGEtZTk3MC00NWNlLThkM2ItZjA2Zjk4ZDgxMTA4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt8740332",
+    "description": "Richard, a small-time gangster is retiring. Before he can, he must take one last job: to steal money from a rival gangster's house. Miles apart, Melvin is a reluctant family man who has dreams of becoming a famous curator for his Museum of the Macabre. His newest acquisition? The remains of the notorious Masquerade, a vampire born from the embers of hell, slain centuries ago. On Halloween Night, their paths will collide and they'll be forced to work together to fight centuries-old evil with everything on the line.",
+    "rating": "3.5",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Safeguard",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2UwNDNjNDktN2I5Zi00YWVmLTgzZmUtZGRjNjM2ZTQwNTkyXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt9916190",
+    "description": "When a Japanese restaurant is extorted by the Russian Mafia in London, a father takes matters into his own hands to protect his family and save their business at all costs.",
+    "rating": "3.6",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "The Insurrection",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI5MmE1YjQtNTNlYy00YTljLWI5M2MtM2RkZWY4NmQyYWQ3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt11718728",
+    "description": "The director of the largest media company wants to expose how left-wing powers use film to control populations.",
+    "rating": "2.5",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Cabal",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2U4YTVlYmYtOTExOS00NDNkLWEzY2QtNmRhYmM5ZWYyNjBmXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt10850450",
+    "description": "A military assassin is hired to hunt down and eliminate a bloodthirsty serial killer who is committing murders in a forbidden forest.",
+    "rating": "2.3",
+    "movieLength": "1h 18m"
+  },
+  {
+    "title": "A World of Worlds",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTEzNjIxMTMtY2UxYS00MDhkLWJlZmUtMjE0YzJiNmZhZWZkXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt13148870",
+    "description": "An evil warlock now rules the magical planet Ressear. To conquer her fallen empire Sofia Hayden must find the legendary Royal 4 reincarnated bodies.",
+    "rating": "3.0",
+    "movieLength": "1h 16m"
+  },
+  {
+    "title": "Respite",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjk4MGIxODQtMTE0NS00YzgzLTljNGItM2I0ZDAyM2VlMDk2XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt7218244",
+    "description": "Down and out private-eye Jimmy Baz reluctantly takes on a case to find a missing college student when dead bodies of Muslim men start turning up leading him to believe he is now searching for a serial killer.",
+    "rating": "4.5",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Invincible",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZmNjRhN2QtMDQwOS00NjYwLWIwNzItN2Q5OGJkMjlhNTZjXkEyXkFqcGc@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt9134678",
+    "description": "Colonel John Taylor enlists billionaire inventor Leor Teska to fund a secret black site, testing Teska's new nano technology for military applications, developed by scientists. When one of the test subjects, Brock Cortez, escapes, Teska's head of security, Cam Devore is given the dangerous task of tracking him down.",
+    "rating": "3.8",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Konga TNT",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmJkMzQzZmYtNDAwZS00Njg3LWIyOWUtYzUwYTZlNTU1ODc2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt12637626",
+    "description": "After becoming injected with a formula derived from an alien spaceship, a laboratory gorilla escapes from his containment and befriends two young boys. The alien formula causes the gorilla to grow to gargantuan size and rampage throughout the city and the boys must find a way to save their simian friend before the Army takes him down.",
+    "rating": "1.8",
+    "movieLength": "1h 12m"
+  },
+  {
+    "title": "Octonauts & the Great Barrier Reef",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ3Mjc5NmItN2VhMy00YTQzLWFhN2ItYjNjNjc3OGZjNDY1XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt13150606",
+    "description": "Octonauts must find a way to hold back hungry swarms of coral eating starfish to save a new friend's fragile reef home.",
+    "rating": "6.7",
+    "movieLength": "47m"
+  },
+  {
+    "title": "Soldiers of Embers",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTcwOWViMTEtOGUzMC00Y2RmLTlkNWItMTdiMTFlYWMwZTFkXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5167972",
+    "description": "Ex Para Trooper Jack Bishop is adjusting back to civilian family life whilst trying to reconnect with his teenage daughter. Whilst Jack was away fighting he felt guilty for not being around for his little girl whilst she was growing up. Soldiers of Embers follows Jack into an exciting dramatic story of brotherhood and vengeance.",
+    "rating": "2.9",
+    "movieLength": null
+  },
+  {
+    "title": "The Coming",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTU1ZDRhMWMtMzhhNy00OGFlLWE5OTYtZThlOTg4MjUyM2I0XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt10926356",
+    "description": "A group of young friends must use The Book as a guide to navigate though the chaos and destruction that is being unveiled right before their eyes for survival.",
+    "rating": "1.6",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Model Citizen",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWVjNDI5YjUtMTE4Yi00ODA3LThjNDUtY2RlYWU4ZTE5YmU5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5446820",
+    "description": "Amanda, a fashion model, and a single mother is kidnapped by two brothers with plans to sell her on the dark web. Held hostage in a remote cabin, Amanda must do whatever it takes to escape her captors and get back to her daughter.",
+    "rating": "5.6",
+    "movieLength": "TV-14"
+  },
+  {
+    "title": "The Last Hope",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzFmMjRjYmYtY2RjNC00Y2Q3LTkwODMtZDBhY2JlZmIxMThlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5470742",
+    "description": "A deadly virus reanimates the dead worldwide, except Australia due to strict border policies. When an uprising occurs at an internment facility, the arrival of a girl may signal the country's eventual downfall as the last safe haven.",
+    "rating": "2.6",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Unit Eleven",
+    "year": "2020",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjEzOGQ2ZjgtMDMwNC00ZmQ0LTlkMDgtMzU4M2NlYTNlOWQ0XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt6458744",
+    "description": "'In the year 2035, survivors of a now almost completely evacuated post-apocalyptic Britain compete for a government bounty to retrieve a mysterious bio weapon known only as Unit Eleven...'",
+    "rating": "2.3",
+    "movieLength": "1h 58m"
+  }
+]

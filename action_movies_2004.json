@@ -1,0 +1,1127 @@
+[
+  {
+    "title": "The Incredibles",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0317705",
+    "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+    "rating": "8.0",
+    "movieLength": "1h 55m"
+  },
+  {
+    "title": "Kill Bill: Vol. 2",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FiNzhiZTctNzU1Mi00NDkwLWExNDMtZTg0MjYyNzhkNWNkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0378194",
+    "description": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.",
+    "rating": "8.0",
+    "movieLength": "2h 17m"
+  },
+  {
+    "title": "Spider-Man 2",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt0316654",
+    "description": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+    "rating": "7.5",
+    "movieLength": "2h 7m"
+  },
+  {
+    "title": "I, Robot",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdhNTY3YTgtYmQwMC00MjM1LTgzYzMtMGM1N2E0NWM1NDlkXkEyXkFqcGc@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+    "imdbId": "tt0343818",
+    "description": "In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.",
+    "rating": "7.1",
+    "movieLength": "1h 55m"
+  },
+  {
+    "title": "The Bourne Supremacy",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTU4ZDgyYjgtODA0Mi00MmE3LTgzYWQtZjc1YTFiMTczZTQ3XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0372183",
+    "description": "When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.",
+    "rating": "7.7",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "The Day After Tomorrow",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZmNDYyNmMtNDQyNy00OTkzLTg1OGUtYWJiNmQ5Y2Q5ZGU3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0319262",
+    "description": "Jack Hall, paleoclimatologist, must make a daring trek from Washington, D.C. to New York City to reach his son, trapped in the cross-hairs of a sudden international storm which plunges the planet into a new Ice Age.",
+    "rating": "6.5",
+    "movieLength": "2h 4m"
+  },
+  {
+    "title": "Collateral",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0369339",
+    "description": "A cab driver finds himself the hostage of an engaging contract killer as he makes his rounds from hit to hit during one night in Los Angeles.",
+    "rating": "7.5",
+    "movieLength": "2h"
+  },
+  {
+    "title": "National Treasure",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTc4OTYxMF5BMl5BanBnXkFtZTcwMjk5NzUyMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0368891",
+    "description": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
+    "rating": "6.9",
+    "movieLength": "2h 11m"
+  },
+  {
+    "title": "Hellboy",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWZhODhmZjktNmIzNC00NGRmLTkyMDEtODVmMzVmNGQwYWU0XkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt0167190",
+    "description": "A demon raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.",
+    "rating": "6.9",
+    "movieLength": "2h 2m"
+  },
+  {
+    "title": "Van Helsing",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDk3NTdlYzQtMjhiMy00MWJkLWFjNDctMzE4ZGEwZWExNGViXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0338526",
+    "description": "The famed monster hunter is sent to Transylvania to stop Count Dracula, who is using Dr. Frankenstein's research and a werewolf for nefarious purposes.",
+    "rating": "6.1",
+    "movieLength": "2h 11m"
+  },
+  {
+    "title": "The Chronicles of Riddick",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJkZGI1MTktNmNiMS00NTE5LTkyY2EtZjkyMDZjMzdhZTJjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0296572",
+    "description": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+    "rating": "6.6",
+    "movieLength": "1h 59m"
+  },
+  {
+    "title": "AVP: Alien vs. Predator",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0370263",
+    "description": "During an archaeological expedition on Bouvetøya Island in Antarctica, a team of archaeologists and other scientists find themselves caught up in a battle between the two legends. Soon, the team realize that only one species can win.",
+    "rating": "5.7",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "The Life Aquatic with Steve Zissou",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0362270",
+    "description": "With a plan to exact revenge on a legendary shark that killed his partner, oceanographer Steve Zissou (Bill Murray) rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.",
+    "rating": "7.2",
+    "movieLength": "1h 59m"
+  },
+  {
+    "title": "Resident Evil: Apocalypse",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0318627",
+    "description": "Alice wakes up in the Raccoon City hospital after the area has been overrun by zombies, and must now make it out of the city before a nuclear bomb is dropped.",
+    "rating": "6.1",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Blade: Trinity",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Nzg2MzI3MF5BMl5BanBnXkFtZTYwMjExODQ3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0359013",
+    "description": "Blade, now a wanted man by the FBI, must join forces with the Nightstalkers to face his most challenging enemy yet: Dracula.",
+    "rating": "5.8",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "Team America: World Police",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM2Nzc4NjYxMV5BMl5BanBnXkFtZTcwNTM1MTcyMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0372588",
+    "description": "Popular Broadway actor Gary Johnston is recruited by the elite counter-terrorism organization Team America: World Police. As the world begins to crumble around him, he must battle with terrorists, celebrities and falling in love.",
+    "rating": "7.2",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Alexander",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3OTY2NDVeQTJeQWpwZ15BbWU3MDI5MDc0MzM@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0346491",
+    "description": "Alexander, the King of Macedonia and one of the greatest army leaders in the history of warfare, conquers much of the known world.",
+    "rating": "5.6",
+    "movieLength": "2h 55m"
+  },
+  {
+    "title": "King Arthur",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTk1NjI0OV5BMl5BanBnXkFtZTcwNDQxOTUyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0349683",
+    "description": "A demystified take on the tale of King Arthur and the Knights of the Round Table.",
+    "rating": "6.3",
+    "movieLength": "2h 6m"
+  },
+  {
+    "title": "The Punisher",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMTQxMV5BMl5BanBnXkFtZTcwODg5ODkwNQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0330793",
+    "description": "An undercover FBI agent becomes a vigilante and sets out to unleash his wrath upon the corrupt businessman who slaughtered his entire family at a reunion.",
+    "rating": "6.4",
+    "movieLength": "2h 4m"
+  },
+  {
+    "title": "Catwoman",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MzM0NDAzOF5BMl5BanBnXkFtZTcwMDY3MDYyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0327554",
+    "description": "A shy woman, endowed with the speed, reflexes, and senses of a cat, walks a thin line between criminal and hero, even as a detective doggedly pursues her, fascinated by both of her personas.",
+    "rating": "3.4",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "Walking Tall",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MjYzNzM1N15BMl5BanBnXkFtZTcwMDcwNDc3NA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0351977",
+    "description": "A former U.S. soldier returns to his hometown to find it overrun by crime and corruption, which prompts him to clean house.",
+    "rating": "6.3",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Cellular",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWRkOWZiZGMtMmRhNC00Njc1LWJkNDktNDNhMDY3N2NkYjFlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0337921",
+    "description": "A young man receives an emergency phone call on his cell phone from an older woman. The catch? The woman claims to have been kidnapped, and the kidnappers have targeted her husband and child next.",
+    "rating": "6.5",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Around the World in 80 Days",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwNDk0NzUtNTZlOC00OGNiLWI0ODgtYWNhYzU4MzEwMjRiXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0327437",
+    "description": "To win a bet, an eccentric British inventor embarks, with his Chinese valet and an aspiring French artist, on a trip full of adventures and dangers around the world in exactly 80 days.",
+    "rating": "5.9",
+    "movieLength": "2h"
+  },
+  {
+    "title": "Sky Captain and the World of Tomorrow",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0NDQzMDA1NF5BMl5BanBnXkFtZTcwNTU3ODAzMw@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0346156",
+    "description": "After New York City receives a series of attacks from giant flying robots, a reporter teams up with a pilot in search of their origin, as well as the reason for the disappearances of famous scientists around the world.",
+    "rating": "6.1",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Hidalgo",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNjg5MjcxMl5BMl5BanBnXkFtZTcwNDQxMzQyMQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0317648",
+    "description": "In 1890, a down-and-out cowboy and his horse travel to Arabia to compete in a deadly cross desert horse race.",
+    "rating": "6.7",
+    "movieLength": "2h 16m"
+  },
+  {
+    "title": "Friday Night Lights",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxMDI5MTM4Ml5BMl5BanBnXkFtZTcwNjA4MDcyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0390022",
+    "description": "Based on H.G. Bissinger's book, which profiled the economically depressed town of Odessa, Texas and their heroic high school football team, The Permian High Panthers.",
+    "rating": "7.2",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "Ladder 49",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNDQ0NjAzMV5BMl5BanBnXkFtZTcwMjk2OTUyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0349710",
+    "description": "A firefighter, injured and trapped in a burning building, has flashbacks of his life as he drifts in and out of consciousness. Meanwhile, fellow firefighters led by the Chief attempt to rescue him.",
+    "rating": "6.5",
+    "movieLength": "1h 55m"
+  },
+  {
+    "title": "Flight of the Phoenix",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjY4MzcwNF5BMl5BanBnXkFtZTcwNDQ5MzcyMQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0377062",
+    "description": "Survivors of a plane crash in the Mongolian desert work together to build a new plane.",
+    "rating": "6.1",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "After the Sunset",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNjNDk1MmEtMTBiZS00M2EwLTk4YTAtNDVhMjJkNDgxYzU2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0367479",
+    "description": "The story of what happens after a master thief achieves his last big score, when the F.B.I. Agent who promised he'd capture him, is about to do just that.",
+    "rating": "6.2",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Taxi",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjcyYWQzMmUtNThiYi00MDQ5LWIxMGEtMTVmMjM0MjhkMGU2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0316732",
+    "description": "A mouthy and feisty taxicab driver has hot tips for a green and inept cop set on solving a string of New York City bank robberies committed by a quartet of female Brazilian bank robbers.",
+    "rating": "4.6",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Anacondas: The Hunt for the Blood Orchid",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzc5MDg1NTkxNl5BMl5BanBnXkFtZTYwNTcyNjA3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0366174",
+    "description": "A scientific expedition sets out for Borneo to seek a flower called the Blood Orchid, which could grant longer life. Meanwhile, they run afoul of snakes and each other.",
+    "rating": "4.7",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Spartan",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI2NzcyMzIzM15BMl5BanBnXkFtZTYwNDU3NTQ3._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0360009",
+    "description": "The investigation into a kidnapping of the daughter of a high-ranking US government official.",
+    "rating": "6.5",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Torque",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQzNGYzNTYtMDAxOC00ZDU0LWI4YjEtNWU5ZDJkZTliYWRlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0329691",
+    "description": "A biker returns from Thailand to set things straight with his girlfriend. One gang leader wants him for delivery of 2 motorbikes filled with crystal meth and another gang leader wants him for murdering his brother.",
+    "rating": "4.1",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "New Police Story",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjA3MTU3ZmUtZDI0ZS00NTRkLTkyNjUtNWY3NjNjN2ZhNTVhXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0386005",
+    "description": "A hero cop accidentally leads his team into a trap from which he is the only survivor. Drowning his guilt in booze, he is eventually assigned a new younger partner who turns out to have his own secrets.",
+    "rating": "6.9",
+    "movieLength": "2h 3m"
+  },
+  {
+    "title": "Godsend",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNzE3MTg5Ml5BMl5BanBnXkFtZTcwMTIxNDYwNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0335121",
+    "description": "A couple agree to have their deceased son cloned, under the supervision of an enigmatic doctor, but bizarre things start to happen several years after his rebirth.",
+    "rating": "4.8",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Dhoom",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDcyYTI4YTktOTVmYy00ZTQ3LTk2YzEtMmU1Y2IxMGQ1YmJlXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0422091",
+    "description": "Dhoom reinvents the classic cops and robbers tale for the 21st century. Fast bikes, big action, and non-stop fun make for a thrilling story.",
+    "rating": "6.6",
+    "movieLength": "2h 9m"
+  },
+  {
+    "title": "Black Friday",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmUzYmJiMWItYWEyMC00N2VjLWEzNGQtODc4NDdmZDNmYTk0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0400234",
+    "description": "A film about the investigations following the 1993 serial Bombay bomb blasts, told through the different stories of the people involved --police, conspirators, victims, middlemen.",
+    "rating": "8.4",
+    "movieLength": "2h 23m"
+  },
+  {
+    "title": "Steamboy",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJmNDU5ZjYtMDE1MS00NDUwLWEwNTktN2M2ZmNjOGE4MTBjXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0348121",
+    "description": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
+    "rating": "6.8",
+    "movieLength": "2h 6m"
+  },
+  {
+    "title": "D.E.B.S.",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0OTU5ODgyOF5BMl5BanBnXkFtZTcwODczNDgyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0367631",
+    "description": "Plaid-skirted schoolgirls are groomed by a secret government agency to become the newest members of the elite national-defense group, D.E.B.S.",
+    "rating": "5.4",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Agent Cody Banks 2: Destination London",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdlNmI0ZjUtNTBlMi00NjM0LTlkY2EtNGZjYzczYjI4ODA0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0358349",
+    "description": "With all-new gadgets, high-flying action, exciting chases and a wisecracking new handler, Derek (Anthony Anderson), Cody has to retrieve the device before the world's leaders fall under the evil control of a diabolical villain.",
+    "rating": "4.6",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Paparazzi",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDUxMDk5MF5BMl5BanBnXkFtZTcwOTY3NzYyMQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0338325",
+    "description": "A rising Hollywood actor decides to take personal revenge against a group of four persistent photographers to make them pay for almost causing a personal tragedy involving his wife and son.",
+    "rating": "5.7",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "Thunderbirds",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NDA1NTkyN15BMl5BanBnXkFtZTYwNzAzODg2._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0167456",
+    "description": "When The Hood finds and invades International Rescue's secret base and traps most of the Tracy family, only young Alan Tracy and his friends can save the day.",
+    "rating": "4.3",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Wake of Death",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNjQ5YjMtZmQxMS00YTNlLWI4NDgtYzJjZGVmYjAyMjE4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0367478",
+    "description": "After his wife is brutally murdered, club enforcer Ben Archer wages war against the Chinese triads.",
+    "rating": "5.5",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Godzilla: Final Wars",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MTg1MTE5Nl5BMl5BanBnXkFtZTgwMDY4MzU4MzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0399102",
+    "description": "Godzilla's fiftieth Anniversary project, in which Godzilla travels around the world to fight his old foes and his allies plus a new, mysterious monster named Monster X.",
+    "rating": "6.3",
+    "movieLength": "2h 5m"
+  },
+  {
+    "title": "Highwaymen",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI4ODMxNzEwN15BMl5BanBnXkFtZTYwODcxMjM3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0339147",
+    "description": "Rennie Cray (Caviezel) embarks on a bloodthirsty rampage to avenge the death of his wife who was struck down by a serial killer - a man who hunts and kills women using his '72 El Dorado.",
+    "rating": "5.6",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Yu Gi Oh the Movie",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ4NzM0NTAyMF5BMl5BanBnXkFtZTYwOTc2MTg3._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0403703",
+    "description": "Underneath the sands of Egypt, Anubis, an ancient evil spirit, has awakened. It's up to Yugi, who defeated Anubis centuries ago, to use his skill and determination to rid the world of evil once again.",
+    "rating": "5.0",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Control",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDU2NzIwMl5BMl5BanBnXkFtZTgwMTAyOTkwMzE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0374584",
+    "description": "A sociopath on death row is given a chance to live if he agrees to take part in a chemical behavioral modification program.",
+    "rating": "6.2",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "Never Die Alone",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQzMDE4MzM2NF5BMl5BanBnXkFtZTYwMDM1MDA3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0354766",
+    "description": "A drug kingpin's return home touches off a turf war.",
+    "rating": "5.6",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "R-Point",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM5MTExNzE0Ml5BMl5BanBnXkFtZTgwNjM5MDQ2MzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0417072",
+    "description": "During the Vietnam War, a South Korean base receives a radio transmission from a missing squad, presumed dead, and sends a platoon to rescue the lost squad from the R-Point.",
+    "rating": "6.2",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Breaking News",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjczY2Q3YzYtZGEzZC00MWFjLThjMDctY2JkZWI4N2RlZGQwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0414931",
+    "description": "After a disastrous failure to stop a robber gang, the police attempt to redeem themselves through a series of publicity stunts and shootouts.",
+    "rating": "6.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Unstoppable",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjE2Y2E3NGYtOGJhOC00ZmJkLTk1M2QtZWMyMjA0ODVmMjNjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0349889",
+    "description": "Dean has PTSD after a wet-job gone bad in Bosnia. Waiting for his police girlfriend at a diner, some bad guys inject him with a hallucinogen. It sends him back to traumatic experiences in Bosnia and he reacts violently.",
+    "rating": "4.9",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Secret Agents",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MTM2ODQ0Ml5BMl5BanBnXkFtZTgwMzE2Mzk1MTE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0356336",
+    "description": "Moles threaten to foil a team of secret agents' plan.",
+    "rating": "5.4",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "Izo",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyMDY1MzM1M15BMl5BanBnXkFtZTcwMDI3MzEzMQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0377079",
+    "description": "An executed samurai takes an existential journey throughout time, space and eternity in search of bloody vengeance.",
+    "rating": "6.0",
+    "movieLength": "2h 8m"
+  },
+  {
+    "title": "In Enemy Hands",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MzcwMjY5Ml5BMl5BanBnXkFtZTcwMTY0NjYyMQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0316824",
+    "description": "When American submarine Swordfish is torpedoed the survivors are picked up by a passing German U-boat but an outbreak of meningitis threatens all aboard.",
+    "rating": "6.0",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Gekijôban Poketto Monsutâ Adobansu Jenerêshon: Rekkû no hômonsha Deokishisu",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NDc5MDMxNV5BMl5BanBnXkFtZTcwMjM2NjcyMQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0435286",
+    "description": "A comet bearing a deadly Pokemon creature crash-lands onto Earth, terrorising a nearby high-tech city, where Ash, Pikachu and friends are currently visiting...",
+    "rating": "6.1",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "George and the Dragon",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzA2ODc5OF5BMl5BanBnXkFtZTcwMzk4NTU0MQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt0306892",
+    "description": "A knight returning from the Crusades takes on a dragon and becomes a legend.",
+    "rating": "5.6",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Fighter in the Wind",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWZmOWE5ZmYtNDUxZC00OWQwLWE3ZmItNmEwMTJmMTFhNDdjXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0416499",
+    "description": "It is a Korean boy who went to Japan and started to learn Karate from his brother.",
+    "rating": "6.9",
+    "movieLength": "2h"
+  },
+  {
+    "title": "Kerd ma lui",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmQ4NmVlYzMtMDBjZi00YTI5LWI0MzYtNDI0OTRkYTU0OTc3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0428725",
+    "description": "A group of athletes helping a poor village must stop an evil tyrant and his men from terrorizing the village.",
+    "rating": "6.1",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Bullet Boy",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWVhNDAyZjQtOTI1NC00NThlLWE1NmQtMWYzZjgyYTVmZWI4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0385568",
+    "description": "In one of East London's most volatile neighborhoods, pride, rivalry and revenge are the only codes on the street. Touted as a British Boyz in the Hood, Bullet Boy is a gripping and authentic drama that takes an unflinching look at two troubled, street-smart boys. Fresh out of jail, 18-year-old Ricky (Ashley Walters, Get Rich or Die Tryin') and his 12-year-old brother, Curtis, struggle to walk the straight and narrow when a minor street clash escalates into an all-out neighborhood war. For Ricky and Curtis, friendships, family and loyalty will be tested to the extreme in a world where guns are a fact of everyday life and boys try to be men before they're even teenagers. Music by Massive Attack.",
+    "rating": "6.5",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "My Name Is Modesty: A Modesty Blaise Adventure",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM2NDY4MjIzNF5BMl5BanBnXkFtZTcwNTA1MTcyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0347591",
+    "description": "When her surrogate father who owns the casino she works in gets murdered, Modesty Blaise takes on those that killed him and are now at the casino to rob it. It turns out she is more than just a modest worker.",
+    "rating": "4.5",
+    "movieLength": "1h 18m"
+  },
+  {
+    "title": "Pterodactyl",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNTk0ODI0NF5BMl5BanBnXkFtZTcwOTE5MjYzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0452668",
+    "description": "A dormant volcano deep with the Turkish forest holds a deadly secret. Perfectly preserved, a nest of pterodactyl eggs are ready to hatch...",
+    "rating": "3.2",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Les fils du vent",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmI2NGY1MTYtMGVlOS00Yjg0LTliNmUtOWVjYmIzOWRhMTYxXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0345235",
+    "description": "Six parkour adepts open a gym in Bangkok. When the new gym starts to attract the area's kids, a local gang feels challenged. Their Eurasian leader Kien attacks the foreigners while they are training on a scaffold.",
+    "rating": "4.6",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Silver Hawk",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIyZTFjMTItMWE2OS00NjE3LThjODQtMTBjOGJlMjI4MWY3XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt0357894",
+    "description": "Lulu Wong lives a double life - part urban social butterfly, part vigilante superhero. Armed with ancient fighting techniques and high tech hardware, Lulu is a beautiful masked millionaire battling to defeat a greedy tyrant.",
+    "rating": "5.1",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Post Impact",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWU1NTIzNjItNTYxYi00NGE4LWEzMzAtNDc4NzY4ZmQ5MzA3XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0362942",
+    "description": "After a meteor strike starts a new ice age, a group of survivors tries to find a device that could give mankind new hope",
+    "rating": "3.3",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Rottweiler",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTI2NTY4YTMtNWFjZi00MDI0LTgwZDYtOTg5YzhkYzk0NDg2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0371920",
+    "description": "Dante travels across a desolate, futuristic Spain in search of his girlfriend, Ula. He is pursued by a bloodthirsty, cybernetic Rottweiler.",
+    "rating": "3.1",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Moscow Heat",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NzQ2Njk5N15BMl5BanBnXkFtZTcwNjEwOTYyMQ@@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0369738",
+    "description": "A retired diplomat and an LAPD detective seek justice, by pursuing a psychotic killer to Moscow. With the help of a Moscow police, they weave their way through labyrinth of the Russian underworld as time is running out.",
+    "rating": "2.5",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "French Spies",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMDMzMzEwMV5BMl5BanBnXkFtZTcwMTE2OTc3MQ@@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0374627",
+    "description": "Two spies are undercover to track down a nuclear missile while distracting a vilain trying to get world's domination",
+    "rating": "4.1",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Dead Meat",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTJlNGFmNTAtZjU5NC00MjA2LThjZmQtODJjN2ZhMWFmYmJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt0369359",
+    "description": "An infection spreads from slaughtered animals to humans, which causes the dead to rise and feed on the living.",
+    "rating": "4.7",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Den gode strømer",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NDMyNTc0MV5BMl5BanBnXkFtZTcwNTQzNDQzMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0392049",
+    "description": "A gang of small-time crooks screws up. Ripping off a Chinese shipping container, they find heroin belonging to Latvian mafia. A friend of theirs, a nice cop, tries to mediate, acting in good faith.",
+    "rating": "5.8",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Autobahnraser",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM4NzQ2MDUzMF5BMl5BanBnXkFtZTgwMTI2Mzk1MTE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0391774",
+    "description": "The young policeman Karl-Heinz Krause works undercover to insinuate himself into a group of Autobahn racers. While he gets to like the illegal races, besides he has to chase some people dealing stolen cars.",
+    "rating": "4.7",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Dinocroc",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MjAxMzI3MF5BMl5BanBnXkFtZTYwNjkwMTc3._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt0365653",
+    "description": "After an African dinosaur ancestor of the crocodile is found, Dr. Campbell uses its DNA to create prototypes at Paula Kennedy's Gereco lab.",
+    "rating": "3.4",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Vampires: The Turning",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAyMzI4MzIyNl5BMl5BanBnXkFtZTgwMTQyOTkwMzE@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0398378",
+    "description": "An American muay-thai fighter in Thailand must join forces with a group of vampire hunters to track down and kill a vampire lord who has kidnapped his gilfriend.",
+    "rating": "3.6",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "King of the Lost World",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTgyMzQxMF5BMl5BanBnXkFtZTcwNzQ0NDIzMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0478188",
+    "description": "Sir Arthur Conan Doyle's action-adventure classic, four plane crash survivors encounter danger in a world that time forgot.",
+    "rating": "2.4",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Lost",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NTA4NzQ4NF5BMl5BanBnXkFtZTcwMjIwOTEzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0406942",
+    "description": "Jeremy Stanton (Cain), an ordinary man, makes an extraordinary mistake.",
+    "rating": "5.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "The Defender",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGJjMTBhNGQtMjkwMS00YzE4LTgyNTgtNDFhMTA0YzlhZGI3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0402127",
+    "description": "Lance and his team are bodyguards for NSA's head, who is sent by the President to a secret meeting in an empty hotel outside Bucharest. During the meeting, the hotel is attacked. By whom? And why?",
+    "rating": "4.8",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Direct Action",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWFjYzJlMTUtNGU1OC00NzlmLTllODYtODI2MjhkOTIxZjJhXkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0368688",
+    "description": "Frank Gannon, a veteran cop, is being hunted by his fellow police officers after they learned he has betrayed the brotherhood and exposed to the feds wide scale corruption of the LAPD. He has one day left to prove his case and survive.",
+    "rating": "5.0",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Retrograde",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQwZjRjMmQtNDYzOS00YzY3LTg5YWMtZGRiMGNkODAxMGFmXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbId": "tt0385990",
+    "description": "Two time travelers with opposing views are sent back to the present aboard a research ship in the Antarctic to prevent a global biological disaster from occuring.",
+    "rating": "3.1",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Blast",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4ODk1Mzk1OF5BMl5BanBnXkFtZTcwMjY2ODkyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0361399",
+    "description": "A terrorist posing as environmentalist hijacks an oil rig off the coast of California with the intent of detonating an electromagnetic bomb over the US.",
+    "rating": "4.7",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Six: The Mark Unleashed",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2U2MmNmYWYtYzdjNC00ZGMxLWExODEtOGRmMTI3OTM5NjI0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0344777",
+    "description": "In the last days before Armaggeddon, three men must make one eternal choice: receive the mark of the devil or stand for Christ. This movie will make you think about your own life choices.",
+    "rating": "4.1",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Hotet",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNTI2NTkyNl5BMl5BanBnXkFtZTcwODIzNDMzMQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0351078",
+    "description": "A programmer who's working with the secret EWS computer system at a military air force base is threaten by foreign agents, along with his family. His only chance of rescue seems to be the war veteran Haglund who is a leader of a special taskforce.",
+    "rating": "4.9",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "The Freediver",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3OTg4MDgyM15BMl5BanBnXkFtZTcwNTcwMDUyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0379790",
+    "description": "Action Adventure - based on a true story. Freediver Danai Varveri's epic struggle to become champion of the world.",
+    "rating": "4.6",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Straight Into Darkness",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNTIzODgwM15BMl5BanBnXkFtZTcwOTQ0MDA0MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0287733",
+    "description": "When two young American GIs desert their platoon in the final days of World War II, they will find themselves struggling against all odds to stay alive.",
+    "rating": "5.0",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Clementine",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDhmYzJmN2YtOTM5ZS00MzQ5LWIxOWUtZTY0ZDU4ZmE4ZjYwXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0406661",
+    "description": "Taekwondo champion Kim quits fighting to care for his daughter Sa Rang. An evil kingpin kidnaps Sa Rang, forcing Kim into a rigged boxing match against unbeaten Jack Miller to secure her release.",
+    "rating": "3.0",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Rancid",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzI2OTk0Nl5BMl5BanBnXkFtZTYwNDk5Mjc3._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0392690",
+    "description": "Once a promising writer, John Hayson now gets by on the odd writing job. A personal tragedy has left him dispassionate about the world and his work and he lives his life in limbo. In the midst of this existential crisis he attends a high school reunion and meets three old friends; acquaintances he's tried to forget but who now emerge like ominous shadows from his past. Once again face to face with the love of his life, Hayson tries to right old wrongs and get his life back on track. However, life has other plans, and he realizes that the past is best laid to rest or it might haunt him forever. He soon finds himself embroiled in a nightmarish brew of deceit, passion, and murder. Wanted by the police for a heinous killing, he must choose between succumbing to his darkest desires or following the light that will renew his faith in himself and his future.",
+    "rating": "5.4",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Max Havoc: Curse of the Dragon",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNjYzMDQxNV5BMl5BanBnXkFtZTcwMjc1Mjg0MQ@@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0404225",
+    "description": "Max Havoc is a sports photographer. He is in Guam on a job when he meets the beautiful Goody sisters - Jane and Christy. He and Jane hit it off but the pleasantness ends when the sisters become a target for a Yakuza gang after they take their rare, sacred jade dragon. He ends up in the middle of a fight for survival.",
+    "rating": "3.4",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "The Fallen",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5NDgzNDk3Nl5BMl5BanBnXkFtZTcwODk5OTgzMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0382721",
+    "description": "The story of ordinary men during WWII as seen from three different points of View.",
+    "rating": "5.0",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "Art Heist",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5OTY4OTIwMV5BMl5BanBnXkFtZTcwODIwMjUyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0375560",
+    "description": "When a painting owned by one of her clients is stolen from a Barcelona museum, a New York-based artexpert is sent there to help investigate. After more paintings are stolen, she learns that she is being framed for the crimes. With the help of her estranged husband, a New York cop, they must not only solve the crimes but clear her name.",
+    "rating": "4.3",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Starkweather",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzNjUxMzkzMF5BMl5BanBnXkFtZTYwNDAyOTg2._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0404456",
+    "description": "In 1958 Nebraska 19 year old garbageman Charles Starkweather goes on a murder spree with his 14 year old girlfriend Caril Ann Fugate killing 11 people in three months, introducing America to spree killing.",
+    "rating": "4.6",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "San Antonio",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjNmYmE5YTgtN2I1Ni00ZmNmLThjZjktZjlmMTIzNjk0ZjYwXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0375040",
+    "description": "While a terrorist epidemic strikes the world leaders, the commissaire San-Antonio and his partner Lieutenant Bérurier must escort the French ambassador to a British hotel. But after a negligence of Bérurier (one more little sex affair), San-Antonio powerlessly witnesses the ambassador's abduction, organized by a gorgeous Italian girl. Back in Paris, San-Antonio is dismissed by Police Chief Achille Hachille, which is a real godsend to Bérurier, who gets promoted. But the situation soon degenerates when the president of the Republic mysteriously disappears. Immediate reaction from the Police Minister: only San-Antonio can save the day; he has 48 hours and a secret squad to find the president. At the Elysée, San-Antonio finds Bérurier, the official investigator. But now, it's every man for himself: who will be the first to find the President? There are multiple trails: terrorists, unscrupulous banks, international dealers, dishonest politicians, and pretty women with very convincing arguments.",
+    "rating": "3.5",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "El padrino: The Latin Godfather",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI2MjI4NTgyNF5BMl5BanBnXkFtZTcwOTM5NzQ5MQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt0325950",
+    "description": "In the streets of East Los Angeles, Manny is a formidable drug dealer. Impressed by his extravagant lifestyle and prowess, his young son Kilo yearns to follow in his footsteps. Kilo resolves to learn how to prosper in the drug world, and his new life as a dealer begins. Starting off small, dealing to the high school and college market, Kilo discovers that the drug business is very profitable. With a little help from the well-connected, seductive daughter of a Colombian gangster, he becomes a drug kingpin with a nationwide monopoly on drug-running. While conquering the drug world, Kilo falls in love with a local Latina who quickly becomes pregnant. Shortly thereafter, Kilo is involved in a drug deal with a wired frat boy that goes bad, and he is imprisoned. His exciting, stylish life as a drug lord seems to have come to a halt. But prison life does not stop Kilo from running his operation. He enlists the support of other prisoners including Crips, Bloods, and a very powerful Jamaican mobster, and is able to expand his drug empire. Not only is his business booming, he is also hired by the governor to kill another inmate in return for an early release. It seems like a perfect opportunity for Kilo to get back to his family, but this job leads to a world of trouble for him after his release. He is now a free man and a new father with a drug franchise covering both coasts. He is living a life of luxury in a huge mansion with a Mercedes in the driveway. Several years after his release, his drug-using father Manny comes back into his life and Kilo reluctantly welcomes him back with a job overseeing all of his drug-runners. Everything is perfect. Watching his son grow up has a profound effect on him and he limits his dealing to marijuana. This business decision slows down his profits. Also, a conservative judge and the attorney general become suspicious of his early release and its relation to the murdered prisoner. The feds are now determined to bring Kilo's operation down. Arrests of his posse are piling up and, profits are plummeting. Everything is going entirely too wrong, and Kilo can't stop it. In a world where a man wants everything, he could end up with nothing.",
+    "rating": "4.7",
+    "movieLength": "2h 8m"
+  },
+  {
+    "title": "The Purifiers",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMTIxNzQ3N15BMl5BanBnXkFtZTgwMjQwMDA2MDE@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0371902",
+    "description": "The story of martial arts clubs who have created their own city infrastructure after tiring of government initiatives. Responding to the greed and corruption creeping into the other clubs, headed by capitalist-wannabe Moses, The Purifiers battle to maintain the successful system which has rid the city of crime and violence.",
+    "rating": "3.3",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Charlie",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEyOTU0MDAyM15BMl5BanBnXkFtZTcwMDY2MjUyMQ@@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+    "imdbId": "tt0337540",
+    "description": "The story of Charlie Richardson, the man who ran a brutal gang in the 1960s.",
+    "rating": "5.5",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Amazones",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzQwMjE1MV5BMl5BanBnXkFtZTcwOTY5NjY5MQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0390833",
+    "description": "Four women from the North of Dutch town Breda are sick of their poor life. Lot is divorced and has two little kids; her friend Sam has a busy family life and an unemployed husband; Reneetje has a little daughter (and always a sniff of coke in her pocket); teacher Kers has had trouble making ends meet after her husband died. They boldly decide to rob a bank in the neighborhood and to their surprise they get away with it easily. The women are extremely happy with the success of their moves, but life has gotten nowhere near easy! Kers is being harassed by the school principal Zeger who has feelings for her. Sam's husband Najib finds her cash in a kitchen drawer and is getting quite suspicious. Reneetje is spending money like water and, worse of all, Lot falls in love with Achilles, a police officer. Tighter and tighter, the women are getting trapped. They decide to make one last big hit, but that robbery gets terribly out of hand...",
+    "rating": "5.6",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Shut Up and Kiss Me!",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNTg4ODY2M15BMl5BanBnXkFtZTYwMzE5Nzc2._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0358148",
+    "description": "Ryan and Pete are 27-year old best friends in Miami, born on the same day and each searching for the perfect woman. Ryan is a rookie stockbroker living with his psychic Mom. Pete is a slick surfer dude yet to find commitment. Each meets the women of their dreams on the same day. Ryan knocks heads in an elevator with the gorgeous Jessica, passing out before getting her number. Pete falls for the insatiable Tiara, but Tiara's uncle is mob boss Vincent Bublione, charged with her protection. This high-energy romantic comedy asks to what extent will you go for true love?",
+    "rating": "4.3",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Sci-Fighter",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwMzIzNDgwNV5BMl5BanBnXkFtZTYwMDk1MTY2._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0390463",
+    "description": "A computer virus has invaded a virtual reality fighting game leaving a rebellious teen trapped within. Now the boy's father must enter the tainted program and battle his way through a deadly maze of martial arts fighters to save his son.",
+    "rating": "2.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Fury Blade",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY1MzU1ODgxMl5BMl5BanBnXkFtZTgwNDU2Njk2MTE@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt3325588",
+    "description": "The heroic adventures of a blackinese ninja warrior named Rukashi who embarks upon a mission to kill were-demons and nemesis gang members.",
+    "rating": "4.9",
+    "movieLength": "52m"
+  },
+  {
+    "title": "Parasite",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY1NTA4MDQ4Nl5BMl5BanBnXkFtZTcwNzMyMTUxMQ@@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt0352699",
+    "description": "A cleaning fluid experiment on an oil rig turns disastrous when a worker goes missing and eco-activists seize the rig, before a dangerous new creature forces workers and activists to band together.",
+    "rating": "2.8",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "I Accidentally Domed Your Son",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDk1NzcyNTg5MV5BMl5BanBnXkFtZTcwNDg4MDUyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0353545",
+    "description": "This offbeat dark comedy take place when four friends (Brisco, J Rob, Pedro, and Hay Love) have a backyard bar-b-q and decide to come up on some bud. Not knowing where to turn, because the streets have been dry for a few months, they end up scoring from the son of a over protective mob figure by the name of Fredrico, who vows, if anything should happen to his son, their will be hell to pay. After a tragic accident, the four friends are on the run with only one person to turn to, Krego, Brisco's long time friend. Krego confirms to them, Fredrico is a very powerful man, and there is no escaping his fury. Their only option is to change their appearance through underground plastic surgery, which would take them on a five hundred mile road trip. Along the way, they will have to avoid Fredrico's beautiful assassin, Venus, and other unsavory characters, leaving them to ponder the question, was it just dumb luck, or was it the bud?",
+    "rating": "2.1",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Cyber Wars",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWU5NWFjODAtODJhMy00MTM1LWEzZWItNGIwYjc3ZTcxZmY0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0270841",
+    "description": "In a future Singapore, CyberLink is used for communication (sometimes virtual reality), monetary transaction and records of all citizens. Headhunter Dash is commissioned to find Edward Chan. Why are so many interested in him?",
+    "rating": "4.4",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Berserker: Hell's Warrior",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNjMwNjU0OF5BMl5BanBnXkFtZTgwMDA1OTk1MDE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0264410",
+    "description": "A warlord's son is cursed to be reborn lifetime after lifetime and fated to love and lose until the curse is lifted.",
+    "rating": "3.1",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "Target",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzE2ZjRiN2UtNWI0ZC00OGI2LWFlNDEtYzkyZTVhOTJlZGZiXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0367122",
+    "description": "U.S. Army sniper Charlie Snow finds himself at the other end of the crosshairs when the brother of an Eastern European arms dealer whom he killed decides to take vengeance on Charlie and his family in L.A.",
+    "rating": "2.7",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "Lichnyy nomer",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzNlNGY0MWEtYTZlYi00OWYyLTkxODEtZjQ0MTZiNzA1ZGJmXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt0415940",
+    "description": "A terrorist organization know as \"Ansar Allah\" is preparing to turn the city of Rome into a City of Dead. But the heroism of Smolin, professionalism of Catherine Stone, help of Umar (from Chechnya) together with the cooperation of Russian and western special forces will save the world from evil terrorists.",
+    "rating": "5.2",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Freak Out",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIwMjEyNTQxN15BMl5BanBnXkFtZTcwNjgxNjYzMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0329099",
+    "description": "Two best friends, Merv Doody (James Heathcote) and Onkey (Dan Palmer), take a hapless escaped mental patient under their wing and attempt to teach him how to become a real serial killer.",
+    "rating": "5.1",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "I - Proud to Be an Indian",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI0Nzg1OTU5MV5BMl5BanBnXkFtZTcwODE3ODgzMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0379818",
+    "description": "I is an Indian. He travels to London for a family wedding and finds his family live in fear of the terrorism by National Front Skinheads and finds he has to become involved which escalates the situation.",
+    "rating": "6.1",
+    "movieLength": "2h 9m"
+  },
+  {
+    "title": "The Eliminator",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNDc5NTk0N15BMl5BanBnXkFtZTcwNDk5NzQyMQ@@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0374312",
+    "description": "An ex-Navy SEAL faces his riskiest mission yet when he's forced to compete for his life in a survival game. The last man standing will take home a 10 million dollar prize, those who fail will die a lonely death in the jungle.",
+    "rating": "3.5",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Full Clip",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNjM2I3Y2ItYWZhNC00MTFlLWEwYjktOWZjMzdlNDhjOGNhXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0353248",
+    "description": "On returning home to settle his late father's affairs, Joshua Pope finds a different town from the one he left. The once quiet neighborhood is at the mercy of a prejudiced and corrupt police force.",
+    "rating": "3.2",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Mojave",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWFiNjM0N2UtNTYzNi00MjQxLWE3NDYtNDI0NzhiMmIwY2VkXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0397537",
+    "description": "Four friends head to the desert to attend a winter rave. Instead, it turns into the trip to hell when they meet up with a couple of bad locals.",
+    "rating": "5.6",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Kangaroo Jack: G'Day U.S.A.!",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExODEzODM1NF5BMl5BanBnXkFtZTgwNTU1MDA2MDE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0459425",
+    "description": "When poachers kidnap Jackie Legs from the Australian Outback, his friends leap into action! Their attempts to save him route them back to the U.S. into the glitz and glamour of Las Vegas.",
+    "rating": "3.9",
+    "movieLength": "1h 15m"
+  },
+  {
+    "title": "Dead End Road",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQwMjIyMzY0NV5BMl5BanBnXkFtZTgwMzI0MDA2MDE@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+    "imdbId": "tt0439532",
+    "description": "Detective Burt Williams has been on the trail of the infamous \"Poe killer\" for nearly three years.",
+    "rating": "2.7",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Motocross Kids",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFiZTYxNmItYjI4Mi00MTgzLWJhYzktM2EwZGQ0YmZhMmU1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0386649",
+    "description": "Evan Hanson is the best motocross coach in the country. After leading his daughter Callie to the national championships, he decides to set his sights on a more personal challenge - saving a local dirt track from a motorcycle gang.",
+    "rating": "3.6",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Face of Terror",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5NDU5MDY0MV5BMl5BanBnXkFtZTcwNDIwMjUyMQ@@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt0328993",
+    "description": "A police officer searching for his missing sister in Spain uncovers a terrorist cell.",
+    "rating": "4.3",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Blade of the Phantom Master",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQxZTFiZWItZDJjZi00MDMzLWE1OTctYTE2NjgxZmEzZmJjXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt1467299",
+    "description": "A nameless hero in command of a secret human weapon arises from the ashes of the fallen Jushin empire to defend the people from zombies, cannibals and beasts.",
+    "rating": "6.2",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "20 Funerals",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MjEyMzE2Nl5BMl5BanBnXkFtZTcwODYzODgyMQ@@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0411058",
+    "description": "After a fellow Officer's funeral, 4 Cops decide that the only way to get rid of the criminal element is to stop arresting the criminals, and start burying them.",
+    "rating": "4.2",
+    "movieLength": "1h 16m"
+  },
+  {
+    "title": "Latin Dragon",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3ZDgzZTctNzBmMy00NjhhLTg2YTgtMGNjZjQwYzI3ZWUxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0343962",
+    "description": "A decorated war hero and covert agent, Danny Silva returns home to East L.A. and finds his neighborhood has been taken over by violent street gangs headed by the brutally corrupt Bishop Thorn.",
+    "rating": "4.3",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Snowman's Pass",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzEwNGJmNTMtMDJlMC00YWRiLTgxMTgtZjM1M2VkMDM4MDkxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0429106",
+    "description": "Still struggling to accept her fiancé's death in a rock climbing accident, mountain guide DIANA PENNINGTON gratefully accepts industrialist CURT SEAVER's offer to find the body using a new satellite imagery technology his company has developed. But while traversing the legendary \"Snowman's Pass\" with Curt and his companions HUGO and TYLER, Diana is horrified to discover the search for her fiancé is a decoy; they are in fact hunting for a fallen spy satellite, property of an enemy foreign power. Barely escaping with her life, Diana finds herself pursued through the cold and threatening mountains in a deadly cat and mouse game, with only a backpack full of climbing gear and her instincts to defend herself against the dangerous, and increasingly desperate men.",
+    "rating": "4.1",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Aussie Park Boyz",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY2N2ZjNWMtNGMyOS00Zjg1LWJmOWQtYTUzZTU4NDMzZDY3XkEyXkFqcGc@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+    "imdbId": "tt0473443",
+    "description": "Deals with the challenges of ethnic hatred while growing up on the streets of Western Australia's Perth. Cam and best friend Pep organise street fights for money. Local gangsters set them up, with other gangs in the city looking for them.",
+    "rating": "2.6",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Fighting Fish",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwOTgwNDgyNl5BMl5BanBnXkFtZTcwMDk0OTQyMQ@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0365194",
+    "description": "Fighting Fish is the first martial arts film produced and set in the Netherlands, about a young Chinese man from Hong-Kong, who travels to the west when he hears that his brother was killed during fight between two gangs in Rotterdam. When he arrives he immediately puts his raging fists to use when he tries to take revenge on the gang that killed his brother. But soon he realizes that nothing is what is seems, and he tries to find the true story behind his brother's death. But his search for the truth gets an unexpected turn when he falls in love with a Dutch girl, with all kinds of trouble as a result...",
+    "rating": "3.6",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Vendetta: No Conscience, No Mercy",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxOTkwNjMyNV5BMl5BanBnXkFtZTgwNDcwMDEyOTE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt0285624",
+    "description": "\"Irish Eyes\" explores the relationship between two Irish-American brothers in Boston born to immigrant parents and raised in a rough, working class Irish neighborhood. After watching their father being gunned down in front of their eyes as children, Thomas and Sean Phelan grow up building their lives on opposite ends of the law. Thomas, the studious and responsible brother, creates a better life for himself through education and hard, honest work. Eventually, he builds a successful career as a US Attorney. Sean, the more rebellious of the two, gets caught up in a life of crime and rises through the ranks to become the head of the Irish Mob. Spanning from post World War II during the late 1950's through the Irish Mob wars of the 1970's and culminating in their adulthood in the 1990's, the story is set to the backdrop of backroom politics and the realities of the Irish Mob and it's gang wars. The theme of the film simultaneously addresses the similarities between the two factions of law and crime while revealing the similarities between the two brothers.",
+    "rating": "5.0",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "Slammed",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2ODMwNzMyNTdeQTJeQWpwZ15BbWU3MDA1NjM2NDE@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+    "imdbId": "tt0308905",
+    "description": "Best pals enlist the aid of their idol and sexy gals as they pursue their dream of wrestling on the illegal bar circuit.",
+    "rating": "3.9",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Moving Targets",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZkN2M3OGEtMjBiZi00NDk0LTkwZDAtYmI4N2RlM2VkZTAyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt0419983",
+    "description": "Kit comes from a very fortunate family, with an outstanding police officer father When the family starts to break up, Man impulsively shot Kit's mother. After Kit's parents divorced, Kit viewed Man his father as an enemy. As an adult, he vowed to become a police officer, and to join Man's team, hoping that Man will pay for what he has done. Kit's cousin, Chi falls for Kit since childhood, but Fung falls for Chi at first sight... As he realised that Chi is Kit's girlfriend, he won't express his love for her, making the two embarassing in communication.",
+    "rating": "6.1",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Heat Team",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5ODM2NjQtZWNlMy00Zjg2LTk1NTItODFlZjQzN2I5MWVjXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt0373906",
+    "description": "(Cantonese with English subtitles) Hotshot police officers Aaron Kwok and Eason Chan are both full of talent and ego. So when their boss decides to put them both together on a \"special\" project, all they do is bicker. Before long, they're put to the test as a duo when a dangerous jewelry thief manages to disappear with plenty of loot. Will the two keep their egos in check to catch the crook?",
+    "rating": "5.5",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Max Rules",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5MTA4MjQ4N15BMl5BanBnXkFtZTcwNzU5OTE2MQ@@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt0455976",
+    "description": "Three best friends spy on their families, sneak into each other's house, and organize elaborate pranks.",
+    "rating": "4.7",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Invisible Kids",
+    "year": "2004",
+    "poster": "No Poster",
+    "imdbId": "tt0370778",
+    "description": "no description",
+    "rating": "8.1",
+    "movieLength": null
+  },
+  {
+    "title": "The Neighborhood",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzcyNTgzMl5BMl5BanBnXkFtZTcwMDE5NDgyMQ@@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt0400681",
+    "description": "Haunted by his past, a poetic gangster has to survive the hardships getting out of the neighborhood as the barrio drug lord hires a hitman to pit his crew against a rival gang. Choices must be made between his new Familia and his childhood friends.",
+    "rating": "7.9",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Stryker",
+    "year": "2004",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM2ODQxNzQ1NF5BMl5BanBnXkFtZTcwNTkxNzIzMQ@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt0397657",
+    "description": "Killer cop smack-downs, hell-raising hoods, lascivious foster moms and trannies packin'heat come together in this uproarious, unnervingly real landmark film where thug membership comes at mortal costs. Soundtrack feat. Dead Indians, War Party, Rezofficial, Winnipeg's filthiest, Stinkmitt, Hellnback Directed by Noam Gonick",
+    "rating": "5.2",
+    "movieLength": "1h 33m"
+  }
+]

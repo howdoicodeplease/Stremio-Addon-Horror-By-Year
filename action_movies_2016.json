@@ -1,0 +1,2783 @@
+[
+  {
+    "title": "Deadpool",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt1431045",
+    "description": "A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.",
+    "rating": "8.0",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Captain America: Civil War",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3498820",
+    "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+    "rating": "7.8",
+    "movieLength": "2h 27m"
+  },
+  {
+    "title": "Doctor Strange",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1211837",
+    "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+    "rating": "7.5",
+    "movieLength": "1h 55m"
+  },
+  {
+    "title": "Batman v Superman: Dawn of Justice",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2975590",
+    "description": "Batman is manipulated by Lex Luthor to fear Superman. Superman´s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+    "rating": "6.5",
+    "movieLength": "2h 31m"
+  },
+  {
+    "title": "Suicide Squad",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1386697",
+    "description": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.",
+    "rating": "5.9",
+    "movieLength": "2h 3m"
+  },
+  {
+    "title": "Rogue One",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3748528",
+    "description": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction.",
+    "rating": "7.8",
+    "movieLength": "2h 13m"
+  },
+  {
+    "title": "Zootropolis",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2948356",
+    "description": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+    "rating": "8.0",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "X-Men: Apocalypse",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjVhNWY3NjItNmZjOS00NTU3LWFiZTctNzdjNGM5Y2Y0MDUwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3385516",
+    "description": "In the 1980s, the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive by bringing destruction to the world.",
+    "rating": "6.8",
+    "movieLength": "2h 24m"
+  },
+  {
+    "title": "The Nice Guys",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2YwNWZlZGEtYTEyZi00NjdjLWEwM2ItM2Q2MDMwZjkzMjk0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3799694",
+    "description": "In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star.",
+    "rating": "7.4",
+    "movieLength": "1h 56m"
+  },
+  {
+    "title": "The Accountant",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmUyMzdmMWEtYjE4YS00YTNmLTkyMjktNzBmZmY1YTgzNGZkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2140479",
+    "description": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities, and the body count starts to rise.",
+    "rating": "7.3",
+    "movieLength": "2h 8m"
+  },
+  {
+    "title": "Now You See Me 2",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVjNTA0ZWEtNzU2Ny00Njg1LWE1MmEtZTUyZGQzYTVlY2Q5XkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt3110958",
+    "description": "The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.",
+    "rating": "6.4",
+    "movieLength": "2h 9m"
+  },
+  {
+    "title": "The Jungle Book",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3040964",
+    "description": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo.",
+    "rating": "7.3",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Warcraft: The Beginning",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "imdbId": "tt0803096",
+    "description": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.",
+    "rating": "6.7",
+    "movieLength": "2h 3m"
+  },
+  {
+    "title": "Train to Busan",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt5700672",
+    "description": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+    "rating": "7.6",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "Star Trek Beyond",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FhNDI1YTYtNWI0OC00ZjYxLWJlYWEtN2ZiZjRmZDY1MWJjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2660888",
+    "description": "The crew of the USS Enterprise explores the furthest reaches of uncharted space, where they encounter a new ruthless enemy, who puts them, and everything the Federation stands for, to the test.",
+    "rating": "7.0",
+    "movieLength": "2h 2m"
+  },
+  {
+    "title": "Ghostbusters",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjNhMzU5MjgtY2VhMC00NzZmLTk1YTEtMDc5OGU1OWJiMTE4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1289401",
+    "description": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+    "rating": "6.8",
+    "movieLength": "1h 57m"
+  },
+  {
+    "title": "Jason Bourne",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY3Y2Q3MmUtZmU3MC00OWMxLWIwNDMtNDA4MmViMTUxYjYxXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+    "imdbId": "tt4196776",
+    "description": "The CIA's most dangerous former operative is drawn out of hiding to uncover more explosive truths about his past.",
+    "rating": "6.6",
+    "movieLength": "2h 3m"
+  },
+  {
+    "title": "The Magnificent Seven",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2404435",
+    "description": "Seven gunmen from a variety of backgrounds are brought together by a vengeful young widow to protect her town from the private army of a destructive industrialist.",
+    "rating": "6.9",
+    "movieLength": "2h 12m"
+  },
+  {
+    "title": "Central Intelligence",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NzEzNjIwNl5BMl5BanBnXkFtZTgwNzgwMTEzNzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1489889",
+    "description": "After he reconnects with an awkward pal from high school through Facebook, a mild-mannered accountant is lured into the world of international espionage.",
+    "rating": "6.3",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Dangal",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt5074352",
+    "description": "Mahavir Singh Phogat, a former wrestler, decides to fulfill his dream of winning a gold medal for his country by training his daughters for the Commonwealth Games despite the existing social stigmas.",
+    "rating": "8.3",
+    "movieLength": "2h 41m"
+  },
+  {
+    "title": "Assassin's Creed",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2Mjc1ODY2OV5BMl5BanBnXkFtZTgwNTMzMTYzMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2094766",
+    "description": "Callum Lynch explores the memories of his ancestor Aguilar de Nerha and gains the skills of a Master Assassin, before taking on the secret Templar society.",
+    "rating": "5.6",
+    "movieLength": "1h 55m"
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2267968",
+    "description": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to home.",
+    "rating": "7.1",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Inferno",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3062096",
+    "description": "When Robert Langdon wakes up in an Italian hospital with amnesia, he teams up with Dr. Sienna Brooks and they race across Europe together against the clock to foil a deadly global plot.",
+    "rating": "6.2",
+    "movieLength": "2h 1m"
+  },
+  {
+    "title": "Independence Day: Resurgence",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1628841",
+    "description": "Two decades after the first Independence Day invasion, Earth is faced with a new extra-Solar threat. But will mankind's new space defenses be enough?",
+    "rating": "5.2",
+    "movieLength": "2h"
+  },
+  {
+    "title": "The Legend of Tarzan",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY3OTI0OTcyMF5BMl5BanBnXkFtZTgwNjkxNTAwOTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0918940",
+    "description": "Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.",
+    "rating": "6.2",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Deepwater Horizon",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTEzNDU0OTgxM15BMl5BanBnXkFtZTgwNjA0ODM2OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1860357",
+    "description": "A dramatization of the disaster in April 2010, when the offshore drilling rig called the Deepwater Horizon exploded, resulting in the worst oil spill in history.",
+    "rating": "7.1",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Jack Reacher: Never Go Back",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2MDIwNzAyNzReQTJeQWpwZ15BbWU4MDAxNjI5Njkx._V1_QL75_UX140_CR0,6,140,207_.jpg",
+    "imdbId": "tt3393786",
+    "description": "Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name while on the run as a fugitive from the law.",
+    "rating": "6.2",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "The Promise",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzJhYjRiYjYtZGZmZS00MGZmLWI5NWQtZjdlNmEzOGY4YTU2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4776998",
+    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
+    "rating": "6.1",
+    "movieLength": "2h 13m"
+  },
+  {
+    "title": "Allied",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJiOTUzODItNTYzYS00NGY0LWIzZmEtZDA4MGI5ZWMxMjM2XkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+    "imdbId": "tt3640424",
+    "description": "In 1942, a Canadian intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+    "rating": "7.1",
+    "movieLength": "2h 4m"
+  },
+  {
+    "title": "London Has Fallen",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1ODY2MTgwM15BMl5BanBnXkFtZTgwOTY3Nzc3NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3300542",
+    "description": "In London for the Prime Minister's funeral, Mike Banning is caught up in a plot to assassinate all the attending world leaders.",
+    "rating": "5.9",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "13 Hours",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGM1MWUzZjktMWY0MS00N2ZhLWJmZjQtNjIxOGVlNzA1OGI0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4172430",
+    "description": "During an attack on a U.S. compound in Libya, a security team struggles to make sense out of the chaos.",
+    "rating": "7.3",
+    "movieLength": "2h 24m"
+  },
+  {
+    "title": "The Great Wall",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MjAzOTQxNF5BMl5BanBnXkFtZTgwOTc5OTY1OTE@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "imdbId": "tt2034800",
+    "description": "In ancient China, a group of European mercenaries encounters a secret army that maintains and defends the Great Wall of China against a horde of monstrous creatures.",
+    "rating": "5.9",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Kubo and the Two Strings",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4302938",
+    "description": "A young boy named Kubo must locate a magical suit of armour worn by his late father in order to defeat a vengeful spirit from the past.",
+    "rating": "7.7",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Allegiant",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZlYzZlNDktMDAxMS00OGZiLThkYzAtNWEzNDliYjAyZmM5XkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt3410834",
+    "description": "After the earth-shattering revelations of Insurgent, Tris must escape with Four beyond the wall that encircles Chicago to finally discover the shocking truth of the world outside.",
+    "rating": "5.7",
+    "movieLength": "2h"
+  },
+  {
+    "title": "Gods of Egypt",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5Mzg5MDE0OF5BMl5BanBnXkFtZTgwMDAxMDA1NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2404233",
+    "description": "Mortal hero Bek teams with the god Horus in an alliance against Set, the merciless god of darkness, who has usurped Egypt's throne, plunging the once peaceful and prosperous empire into chaos and conflict.",
+    "rating": "5.4",
+    "movieLength": "2h 7m"
+  },
+  {
+    "title": "The Huntsman: Winter's War",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjY0YTM4ZTAtZjliYS00YzgwLTg0NWEtYzgwNWViMTNiOTQ1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt2381991",
+    "description": "Eric and fellow warrior Sara, raised as members of ice Queen Freya's army, try to conceal their forbidden love as they fight to survive the wicked intentions of both Freya and her sister Ravenna.",
+    "rating": "6.1",
+    "movieLength": "1h 54m"
+  },
+  {
+    "title": "The 5th Wave",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQwOTc0Mzg3Nl5BMl5BanBnXkFtZTgwOTg3NjI2NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2304933",
+    "description": "Four waves of increasingly deadly alien attacks have left most of Earth in ruin. Cassie is on the run, desperately trying to save her younger brother.",
+    "rating": "5.2",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "Patriots Day",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYxMDc0NTg2Nl5BMl5BanBnXkFtZTgwNjY0NDYzOTE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4572514",
+    "description": "The story of the 2013 Boston Marathon bombing and the aftermath, which includes the city-wide manhunt to find the terrorists responsible.",
+    "rating": "7.3",
+    "movieLength": "2h 13m"
+  },
+  {
+    "title": "Grimsby",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NTE3MjMwNV5BMl5BanBnXkFtZTgwMDc5NjQxODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3381008",
+    "description": "A new assignment forces a top spy to team up with his football hooligan brother.",
+    "rating": "6.2",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "The Purge: Election Year",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDI0MTA1N15BMl5BanBnXkFtZTgwOTk4NjU5ODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4094724",
+    "description": "Former Police Sergeant Barnes becomes head of security for Senator Charlie Roan, a Presidential candidate targeted for death on Purge night due to her vow to eliminate the Purge.",
+    "rating": "6.0",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Money Monster",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQzMzQ3Nzg5MV5BMl5BanBnXkFtZTgwMDExOTI4NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2241351",
+    "description": "Financial TV host Lee Gates and his producer Patty are put in an extreme situation when an irate investor takes them and their crew as hostage.",
+    "rating": "6.5",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "The Angry Birds Movie",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU3OTE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1985949",
+    "description": "When an island populated by happy, flightless birds is visited by mysterious green pigs, it's up to three unlikely outcasts to figure out what the pigs are up to.",
+    "rating": "6.3",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Resident Evil: The Final Chapter",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2592614",
+    "description": "Alice returns to where the nightmare began: The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.",
+    "rating": "5.5",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDgyNWExMzUtOTAyMy00ZjkzLWFhNzgtZTFhOTBmN2RhZGJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt3949660",
+    "description": "The Turtles get into another battle with their enemy the Shredder, who has acquired new allies: the mutant thugs Bebop and Rocksteady and the alien being Krang.",
+    "rating": "5.9",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "Mechanic: Resurrection",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjYwODExNzUwMV5BMl5BanBnXkFtZTgwNTgwNjUyOTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3522806",
+    "description": "Bishop's most formidable foe kidnaps the love of his life in order to make him complete three impossible assassinations and make them look like accidents.",
+    "rating": "5.7",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Underworld: Blood Wars",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3717252",
+    "description": "Vampire death dealer Selene (Kate Beckinsale) fights to end the eternal war between the Lycan clan and the Vampire faction that betrayed her.",
+    "rating": "5.8",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Zoolander 2",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjM2NDEwOWQtOGMyOS00ZjVhLWEyNDUtNzQ0M2Y5ODFhNWE5XkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+    "imdbId": "tt1608290",
+    "description": "Derek and Hansel are lured into modelling again, in Rome, where they find themselves the target of a sinister conspiracy.",
+    "rating": "4.7",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Criminal",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0ODc4Mzk2OF5BMl5BanBnXkFtZTgwNDk2MDkyODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3014866",
+    "description": "A dangerous convict receives an implant containing the memories and skills of a dead CIA agent.",
+    "rating": "6.3",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "Keeping Up with the Joneses",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDU2OTU1NzE2Ml5BMl5BanBnXkFtZTgwMDQzMzgwMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2387499",
+    "description": "A suburban couple becomes embroiled in an international espionage plot when they discover that their seemingly perfect new neighbors are government spies.",
+    "rating": "5.9",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Blood Father",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MzU4ODk1Ml5BMl5BanBnXkFtZTgwNzc5MzE2OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3647498",
+    "description": "An ex-con reunites with his estranged wayward 17-year old daughter to protect her from drug dealers who are trying to kill her.",
+    "rating": "6.4",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Spectral",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViYTRlMzMtNjlhMS00OTUxLTk4MTMtNjBkMDI0NTQyMGE4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt2106651",
+    "description": "A sci-fi/thriller story centered on a special-ops team that is dispatched to fight supernatural beings.",
+    "rating": "6.3",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "The Girl with All the Gifts",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0NzA4NDcxM15BMl5BanBnXkFtZTgwMTk1NjUzOTE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt4547056",
+    "description": "A scientist and a teacher living in a dystopian future embark on a journey of survival with a special young girl named Melanie.",
+    "rating": "6.6",
+    "movieLength": "1h 51m"
+  },
+  {
+    "title": "Free State of Jones",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA4NTYyMTcwNTFeQTJeQWpwZ15BbWU4MDI0NTg0MDkx._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt1124037",
+    "description": "A disillusioned Confederate army deserter returns to Mississippi and leads a militia of fellow deserters and women in an uprising against the corrupt local Confederate government.",
+    "rating": "6.9",
+    "movieLength": "2h 19m"
+  },
+  {
+    "title": "Ride Along 2",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4ODAzMzcxOV5BMl5BanBnXkFtZTgwODkxMDI1NjE@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+    "imdbId": "tt2869728",
+    "description": "As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in-law James to bring down a drug dealer who's supplying the dealers of Atlanta with product.",
+    "rating": "5.9",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Batman: The Killing Joke",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzJiZTJmNGItYTUwNy00ZWE2LWJlMTgtZjJkNzY1OTRiNTZlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4853102",
+    "description": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness.",
+    "rating": "6.4",
+    "movieLength": "1h 16m"
+  },
+  {
+    "title": "Pete's Dragon",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBiYTdjZDUtYjg3ZS00YTA0LTkzZGUtMzA2OWEyOGZiN2VhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2788732",
+    "description": "The adventures of an orphaned boy named Pete and his best friend Elliott, who happens to be a dragon.",
+    "rating": "6.7",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Pride and Prejudice and Zombies",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzA3NzYxMl5BMl5BanBnXkFtZTgwMzQ0NDA5NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1374989",
+    "description": "Five sisters in 19th century England must cope with the pressures to marry while protecting themselves from a growing population of zombies.",
+    "rating": "5.8",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Anthropoid",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxNzE0NjY1Nl5BMl5BanBnXkFtZTgwNjYzOTkxOTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4190530",
+    "description": "Based on the extraordinary true story of Operation Anthropoid, the WWII mission to assassinate SS General Reinhard Heydrich, the main architect behind the Final Solution and the Reich's third in command after Hitler and Himmler.",
+    "rating": "7.2",
+    "movieLength": "2h"
+  },
+  {
+    "title": "Sultan",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Y4YWZlYjQtNWI3OC00MmQ0LWE2NGItMTdmZWMyNDEzZDgxXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt4832640",
+    "description": "Sultan is a classic underdog tale about a wrestler's journey, looking for a comeback by defeating all odds.",
+    "rating": "7.1",
+    "movieLength": "2h 50m"
+  },
+  {
+    "title": "Keanu",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwODA0NzQxMl5BMl5BanBnXkFtZTgwNzUyMjY3ODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4139124",
+    "description": "When the adorable kitten of an L.A. crime kingpin unexpectedly enters the life of two cousins, they will have to go through tough gangs, pitiless hit-men, and ruthless drug dealers who all claim him, to get him back. How hard can it be?",
+    "rating": "6.2",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "The Do-Over",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNDY2NzAxNV5BMl5BanBnXkFtZTgwOTMxMzg2ODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4769836",
+    "description": "Two down-on-their-luck guys decide to fake their own deaths and start over with new identities, only to find the people they're pretending to be are in even deeper trouble.",
+    "rating": "5.7",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "The Take",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyNDc3MDMwMDNeQTJeQWpwZ15BbWU4MDkyMzc5MjAy._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2368619",
+    "description": "A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.",
+    "rating": "6.3",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Free Fire",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk5MzJhNjItZTRlOC00YWRlLTgyYmUtZmZhZjA0NmFmNjE2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4158096",
+    "description": "Set in Boston in 1978, a meeting in a deserted warehouse between two gangs turns into a shoot-out and a game of survival.",
+    "rating": "6.3",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Ben-Hur",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ2NzYxMDQ2OV5BMl5BanBnXkFtZTgwMDk2MzczOTE@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+    "imdbId": "tt2638144",
+    "description": "Judah Ben-Hur, a Jewish prince falsely accused of treason by his adopted brother, an officer in the Roman army, returns to his homeland after years at sea to seek revenge, but finds redemption.",
+    "rating": "5.7",
+    "movieLength": "2h 3m"
+  },
+  {
+    "title": "Morgan",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MjYyNDkxN15BMl5BanBnXkFtZTgwMTgxODAwOTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4520364",
+    "description": "A corporate risk-management consultant must decide whether or not to terminate an artificially created humanoid being.",
+    "rating": "5.8",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "The Siege of Jadotville",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJhZGY0NTUtOTI0Yi00NGY5LTk4ZWYtYmVmNGFiMTZiZTgwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt3922798",
+    "description": "Irish Commandant Pat Quinlan leads a stand off with troops against French and Belgian Mercenaries in the Congo during the early 1960s.",
+    "rating": "7.2",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "ARQ",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ2MzkyMV5BMl5BanBnXkFtZTgwNjU3MTE5OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5640450",
+    "description": "Trapped in a lab and stuck in a time loop, a disoriented couple fends off masked raiders while harboring a new energy source that could save humanity.",
+    "rating": "6.3",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Shin Godzilla",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjg5ODA1NzQtZmNmNy00MmFhLTk1YjUtYTM2NDNmNjY4ODA1XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4262980",
+    "description": "Japan is plunged into chaos upon the appearance of a giant monster.",
+    "rating": "6.8",
+    "movieLength": "2h"
+  },
+  {
+    "title": "The Bad Batch",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA3NTI2MzMwMF5BMl5BanBnXkFtZTgwNzY0OTcyMjI@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt4334266",
+    "description": "In a desert dystopia, a young woman is kidnapped by cannibals.",
+    "rating": "5.2",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "Risen",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAzNjQ1Mzk2MjNeQTJeQWpwZ15BbWU4MDU0MDk1Mjcx._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3231054",
+    "description": "In 33 AD, a Roman Tribune in Judea is tasked to find the missing body of Jesus Christ, who rose from the dead.",
+    "rating": "6.3",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Cell",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNTQ2OTYxMjheQTJeQWpwZ15BbWU4MDc0OTkzNzgx._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0775440",
+    "description": "When a mysterious cell phone signal causes apocalyptic chaos, an artist is determined to reunite with his young son in New England.",
+    "rating": "4.4",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "True Memoirs of an International Assassin",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjI0Mzc5MV5BMl5BanBnXkFtZTgwODExMDgxMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1542768",
+    "description": "After a publisher changes a writer's debut novel about a deadly assassin from fiction to non-fiction, the author finds himself thrust into the world of his lead character, and must take on the role of his character for his own survival.",
+    "rating": "5.9",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Billy Lynn's Long Halftime Walk",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NDI1Nzg4OF5BMl5BanBnXkFtZTgwNjYxOTg4ODE@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+    "imdbId": "tt2513074",
+    "description": "19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks, the film shows what really happened to his squad - contrasting the realities of war with America's perceptions.",
+    "rating": "6.2",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "Our Kind of Traitor",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MjY2ODgxMF5BMl5BanBnXkFtZTgwNzYxNjc2ODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1995390",
+    "description": "A couple finds themselves lured into a Russian oligarch's plans to defect, and are soon positioned between the Russian Mafia and the British Secret Service, neither of whom they can trust.",
+    "rating": "6.2",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Marauders",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODU2OTc1OTgyMF5BMl5BanBnXkFtZTgwOTU4OTMxOTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3963816",
+    "description": "When a bank is hit by a brutal heist, all evidence points to the owner and his high-powered clients. But as a group of FBI agents dig deeper into the case - and the deadly heists continue - it becomes clear that a larger conspiracy is at play.",
+    "rating": "5.5",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Kingsglaive: Final Fantasy XV",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTEwNzMxNTU5M15BMl5BanBnXkFtZTgwMzMyMjg3OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5595168",
+    "description": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal which gives Lucis its magic and power.",
+    "rating": "6.7",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Skiptrace",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NzgxMjY2NV5BMl5BanBnXkFtZTgwMzcxMjc0OTE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt2238032",
+    "description": "A detective from Hong Kong teams up with an American gambler to battle against a notorious Chinese criminal.",
+    "rating": "5.6",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Beta Test",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhlM2ZhMzUtMzU4ZC00ZjAyLWIxZmYtOWY4N2RlMWEzYTcwXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt4244162",
+    "description": "Champion gamer Max Troy discovers events in a new video game are being mirrored in the real world, and must join forces with the game's protagonist, Orson Creed, to unravel the conspiracy before the game's sinister plot overwhelms the city.",
+    "rating": "4.8",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "In a Valley of Violence",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMjExOTA2OF5BMl5BanBnXkFtZTgwMzI3NTgxMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3608930",
+    "description": "A mysterious stranger and a random act of violence drag a town of misfits and nitwits into the bloody crosshairs of revenge.",
+    "rating": "6.1",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "The Trust",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA4NjE3OTk1MzdeQTJeQWpwZ15BbWU4MDMwMTk1Mjgx._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3733774",
+    "description": "A pair of cops investigating a drug invasion stumble upon a mysterious bank vault.",
+    "rating": "5.5",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2MzM5NTk4NTBeQTJeQWpwZ15BbWU4MDk0NjgyNDcx._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2652118",
+    "description": "A story of lost love, young love, a legendary sword and one last opportunity at redemption.",
+    "rating": "6.1",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Max Steel",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2MTMwOTk3N15BMl5BanBnXkFtZTgwMDI5OTYxMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1472584",
+    "description": "The adventures of teenager Max McGrath and his alien companion, Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.",
+    "rating": "4.6",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "War on Everyone",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTU2MjAxMjk3Nl5BMl5BanBnXkFtZTgwMjM5NzI5MDI@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt3708886",
+    "description": "Two corrupt cops set out to blackmail and frame every criminal unfortunate enough to cross their path. Events, however, are complicated by the arrival of someone who appears to be even more dangerous than they are.",
+    "rating": "5.8",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Monster Trucks",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMjAzMDk4ODZeQTJeQWpwZ15BbWU4MDUxNzMzMDEy._V1_QL75_UX140_CR0,6,140,207_.jpg",
+    "imdbId": "tt3095734",
+    "description": "A young man working at a small town junkyard discovers and befriends a creature which feeds on oil being sought by a fracking company.",
+    "rating": "5.7",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "Message from the King",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODg0YmI2MDAtZGVkMi00NzMzLTg1ZGQtNmNiZmJhYTZmNmUwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt1712192",
+    "description": "Jacob King, a mysterious outsider from South Africa, arrives in Los Angeles to look for his missing younger sister.",
+    "rating": "6.4",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Collide",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzc3NmMzM2MtMDc1OC00ZTQ4LWE3NzItMzgwM2NmMzNhOTAzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2126235",
+    "description": "An American backpacker gets involved with a ring of drug smugglers as their driver, though he winds up on the run from his employers across Cologne high-speed Autobahn.",
+    "rating": "5.7",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Headshot",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI2MzU2ODQ4M15BMl5BanBnXkFtZTgwOTgxMTU5OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5147214",
+    "description": "Uwais plays a young man who washes ashore, an amnesiac with a serious head injury whose past comes back to haunt him shortly after being nursed back to health by a young doctor. Violence ensues. Sweet, sweet violence.",
+    "rating": "6.3",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "I Am Wrath",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTMzMjZkYTktZDA2ZC00MzQyLTlkODUtZjdkM2VlMTIyNDQ0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3212232",
+    "description": "Stanley Hill opens a can of brutal vengeance on the thugs who murdered his wife and the corrupt cops who are protecting them.",
+    "rating": "5.4",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Yoga Hosers",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0MjUzMDc3Ml5BMl5BanBnXkFtZTgwNjg5NjYwOTE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt3838992",
+    "description": "Two teenage yoga enthusiasts must do battle with an evil presence that is threatening to rise from its underground lair and endanger their major party plans.",
+    "rating": "4.3",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Kill Command",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDk3ZTJjMjUtMmZlMC00NjZiLWE0ZWEtOGIxOTRkZGJhN2I1XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt2667380",
+    "description": "Set in a near future, technology-reliant society that pits man against killing machines.",
+    "rating": "5.7",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "USS Indianapolis: Men of Courage",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTNjOGRhNDktZWI1MC00OWE2LWIxMmUtNWI3ZDk2ZWM3Yjc5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2032572",
+    "description": "During World War II, an American navy ship is sunk by a Japanese submarine leaving 890 crewmen stranded in shark infested waters.",
+    "rating": "5.3",
+    "movieLength": "2h 8m"
+  },
+  {
+    "title": "Mindhorn",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzRkZmIwZjItMGNmNS00YzZlLWJlZDYtY2Y0YjBjMjdkY2UxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4799064",
+    "description": "A has-been actor best known for playing the title character in the 1980s detective series \"Mindhorn\" must work with the police when a serial killer says that he will only speak with Detective Mindhorn, whom he believes to be a real person.",
+    "rating": "6.3",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Armageddon America",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmE1YTBlYzYtOGE5NC00OGQ2LWJjMDMtMDAyMjYxZjM2YTRjXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt4059702",
+    "description": "A family of dedicated patriots living in the United States decide to defend their country against a terrorist organization that shuts down electricity in America and tries to take over the nation.",
+    "rating": "3.8",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Kickboxer: Vengeance",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODAwNjYyNjcxOF5BMl5BanBnXkFtZTgwODcyMDA1OTE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt3082898",
+    "description": "A kick boxer is out to avenge his brother.",
+    "rating": "4.9",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Ratchet & Clank",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDMxMjkzOTEzOV5BMl5BanBnXkFtZTgwNDExNjk5NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2865120",
+    "description": "When the galaxy comes under the threat of a nefarious space captain, a mechanic and his newfound robot ally join an elite squad of combatants to save the universe.",
+    "rating": "5.5",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "The Age of Shadows",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDk2MzYxM15BMl5BanBnXkFtZTgwNzA4MDYyMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4914580",
+    "description": "Korean resistance fighters smuggle explosives to destroy facilities controlled by Japanese forces in this period action thriller.",
+    "rating": "7.1",
+    "movieLength": "2h 20m"
+  },
+  {
+    "title": "The Thinning",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDM2NjAyNl5BMl5BanBnXkFtZTgwODA1MTUyMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5254868",
+    "description": "In a future, overcrowded, dystopian society, students with the lowest test scores are culled. Two students discover errors with the test.",
+    "rating": "5.3",
+    "movieLength": "1h 21m"
+  },
+  {
+    "title": "Precious Cargo",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTc3NDUyMF5BMl5BanBnXkFtZTgwMTAxMDIxODE@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt4651410",
+    "description": "A crime boss tries to make off with loot that belongs to another thief.",
+    "rating": "4.6",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Come and Find Me",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMTMzMjgzMV5BMl5BanBnXkFtZTgwODg2ODI0MDI@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt2597768",
+    "description": "When his girlfriend goes missing, David must track down her whereabouts after he realizes she's not who she was pretending to be.",
+    "rating": "5.7",
+    "movieLength": "1h 52m"
+  },
+  {
+    "title": "From a House on Willow Street",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjU3YTU3ZjAtOTY3MS00ZGE4LWJhYjItYzAwODU2ODBjYjAyXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt4961380",
+    "description": "After a young woman is kidnapped, her captors soon come to realize that in fact they may be the ones in danger and this young woman has a dark secret inside her.",
+    "rating": "4.6",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Tomboy",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjczMTcxOTM1NF5BMl5BanBnXkFtZTgwNjk3MTY2MTI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5034474",
+    "description": "After waking up and discovering that he has undergone gender reassignment surgery, an assassin seeks to find the doctor responsible.",
+    "rating": "4.7",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Science Fiction Volume One: The Osiris Child",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmRmOTBlMGQtMjU1ZC00NzM3LTlkODQtZjIxMmI3ODg1NWNjXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4536768",
+    "description": "Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.",
+    "rating": "5.5",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Trespass Against Us",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTc3MTU0MjYtYmI4Yy00MWI3LWE3ZmYtMGU5ZmY2ZjEzZTEyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt3305308",
+    "description": "A man looks to find a way to escape the criminal ways of his outlaw family.",
+    "rating": "5.8",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Standoff",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NTk0OTE5OF5BMl5BanBnXkFtZTgwNDI0MjI5NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3703908",
+    "description": "A young girl photographs an assassin killing 4 at a cemetery. He wants no witnesses. Carter, a veteran in a farmhouse, is all standing between him and the girl.",
+    "rating": "6.1",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Birth of the Dragon",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NWM5YWMtNGNhNi00NTMxLWFhNWEtMGFlNjE4YmM0ZmY5XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt2720826",
+    "description": "Set against the backdrop of 1960s San Francisco, BIRTH OF THE DRAGON is a modern take on the classic movies that Bruce Lee was known for. It takes its inspiration from the epic and still controversial showdown between an up-and-coming Bruce Lee and kung fu master Wong Jack Man - a battle that gave birth to a legend.",
+    "rating": "5.7",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Pandemic",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0OTk0ODA4MV5BMl5BanBnXkFtZTgwMjM1MzA5NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3774802",
+    "description": "A New York doctor travels with her team to Los Angeles to find survivors of a worldwide pandemic.",
+    "rating": "4.4",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Baar Baar Dekho",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjAyNWE4ZGUtMmZhYy00NTEwLWJmZWYtNjJjOTZkZTZkMmI4XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt5197544",
+    "description": "The highs and lows of a romantic relationship are examined through flashbacks and flash-forwards.",
+    "rating": "5.4",
+    "movieLength": "2h 21m"
+  },
+  {
+    "title": "Catfight",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTM4Nzg2MTI1NV5BMl5BanBnXkFtZTgwNjIwODcyMTI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5294198",
+    "description": "The rivalry between two former college friends comes to a head when they both attend the same glamorous event.",
+    "rating": "5.9",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Detour",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2ODI2NjQ0Nl5BMl5BanBnXkFtZTgwODM5OTM2MDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4372390",
+    "description": "Driven by the motive to avenge his mother's accident, a young man blindly enters into a pact with a hoodlum who offers to kill his stepfather - the man he feels was responsible.",
+    "rating": "6.2",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Batman: Return of the Caped Crusaders",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzczMWZmYzQtMjQ4Mi00MWNjLTgyNWYtYjE0ZTEyMmZhMzJiXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5973626",
+    "description": "Batman and Robin of the 1960s live action series are back in action to take down their fiendish foes united once more against them.",
+    "rating": "6.7",
+    "movieLength": "1h 18m"
+  },
+  {
+    "title": "Daylight's End",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZmZmRiNTItMzYzNC00MDAxLWE2ODgtYTM1NGUwNTUwNWU3XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt3007132",
+    "description": "A vengeful drifter takes up with a group of survivors in an abandoned police station during an apocalypse overrun by blood-hungry creatures.",
+    "rating": "5.4",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Goldstone",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQxYmViYTUtMjc2NS00MTA2LWFmYTEtYzNmOTEyYzdlODQ1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4911996",
+    "description": "Indigenous detective Jay Swan arrives in the town of Goldstone to search for a missing person, and his simple duty becomes complicated when he uncovers a web of crime and corruption.",
+    "rating": "6.6",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Operation Chromite",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWRiODc4MDMtZTkyNy00NzA0LWIzMGEtOGMwYjljY2MwZTY2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4939066",
+    "description": "A team of spies is sent into Incheon to gain intelligence on North Korean positions ahead of the invasion by UN forces.",
+    "rating": "6.2",
+    "movieLength": "1h 51m"
+  },
+  {
+    "title": "Flight Crew",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyZmU0ZDgtOTQxNS00YTMxLWI3NTItODljYTI3N2NiNDA0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5653294",
+    "description": "Aircraft crew members must put off their differences when a natural disaster threatens to death hundreds of tourists.",
+    "rating": "6.6",
+    "movieLength": "2h 18m"
+  },
+  {
+    "title": "Panfilov's 28 Men",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ4MTVjZjktN2MzMy00ZDQwLTlkMmItODc3YWVjYjc1ZmI4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5207204",
+    "description": "In November 1941, remaining squad of Soviet soldiers must stop a column of Nazi Germany tanks.",
+    "rating": "6.7",
+    "movieLength": "2h 1m"
+  },
+  {
+    "title": "The Warriors Gate",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MWVlOWQtNWZjYy00ZWRiLWFkYzItNzU5MTRjNWJjZTBlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4652532",
+    "description": "A teenager is magically transported to China and learns to convert his video game skills into those of a Kung Fu warrior.",
+    "rating": "5.4",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "The Last Face",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NTU3OTcyMF5BMl5BanBnXkFtZTgwMDY5Njc3MDI@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+    "imdbId": "tt3286560",
+    "description": "In the midst of African social horror, a love between two volunteers fades out and is reborn.",
+    "rating": "5.0",
+    "movieLength": "2h 10m"
+  },
+  {
+    "title": "Operation Mekong",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI2ZmZjMzgtOTNlNS00ODk0LWJiMDEtYzhjZWVlZjgzNGRkXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt6044910",
+    "description": "Inspired by the true story known as the Mekong Massacre--two Chinese commercial vessels are ambushed while traveling down the Mekong River in the waters of the Golden Triangle, one of the largest drug-manufacturing regions in the world. 13 sailors are executed at gunpoint, and 900,000 methamphetamine pills are recovered at the scene. Upon discovery, the Chinese government immediately sends a band of elite narcotics officers led by Captain Gao Gang (Zhang Hanyu) to the Golden Triangle to uncover the truth behind the murders. Tea field owner and Golden Triangle-based intelligence officer Fang Xinwu (Eddie Peng) joins the investigation. After it is discovered that the drugs seized on the Chinese ships had been planted by the henchman of a notorious drug cartel leader named Naw Khar, the governments of Thailand, Laos, Myanmar and China launch a joint task force to apprehend the criminal. The road to justice is, however, paved with dangerous and deadly obstacles.",
+    "rating": "6.5",
+    "movieLength": "2h 4m"
+  },
+  {
+    "title": "Phantasm: Ravager",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzEzNzQzNjg0N15BMl5BanBnXkFtZTgwNDgyMzUyMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3627704",
+    "description": "The final installment of the long-running Phantasm series.",
+    "rating": "4.9",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Range 15",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWM0ZjBhM2EtZmMzZi00ZjVhLWJjYjctMTU5NWJmMTM0OGZlXkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt4687276",
+    "description": "Veterans wake up after a night of partying to find out that the zombie apocalypse has spread across the United States.",
+    "rating": "4.0",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Don't Kill It",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRiNGJiY2EtM2MxYi00ZDE3LWI4OWEtMmYyYWMyMTMyMDA2XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt3113696",
+    "description": "An ancient demon terrorizes a tiny Mississippi town.",
+    "rating": "5.2",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Railroad Tigers",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzRmMTczMzItZGM3My00MmM4LWJjNWYtNjczZDY1Y2FjNjI1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4687848",
+    "description": "A railroad worker in China in 1941 leads a team of freedom fighters against the Japanese in order to get food for the poor.",
+    "rating": "5.8",
+    "movieLength": "2h 4m"
+  },
+  {
+    "title": "Eliminators",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmE3OTFiYzktNzJlZi00YTRiLWI3ODQtYjM3YzkwZWI0ZjNmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4587366",
+    "description": "Thomas, widower and ex federal agent, hides in London with his daughter. 3 men break in. Thomas kills them. His photo ends on TV. A US crime boss sends a killer to London.",
+    "rating": "5.6",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Wild Oats",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE0OTcyNDExNF5BMl5BanBnXkFtZTgwMjk5OTU4OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1655461",
+    "description": "Everything changes for Eva when she receives a life insurance check accidentally made out for five million dollars instead of the expected fifty thousand dollars. She and her best friend take the money and head out for the adventure of a lifetime.",
+    "rating": "5.7",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Vigilante Diaries",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODc0MTkzMDU0M15BMl5BanBnXkFtZTgwMzMwMTIxOTE@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt3903852",
+    "description": "After killing a lot of bad guys including Armenians, Vigilante is wanted by the Armenian mafia boss, who gets help - but so does Vigilante.",
+    "rating": "4.1",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Maximum Ride",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQyMjEzMjU3M15BMl5BanBnXkFtZTgwMDExNTU1OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt0825283",
+    "description": "A flock of winged children mount a rescue plan when wolf-boys abduct their youngest member and return her to the militarized institution that created them all.",
+    "rating": "3.6",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "R.A.I.D. Special Unit",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI5ZDJhN2YtM2ZiYy00MDQ1LWFiY2UtMmJkZjQ0YzdkMzZhXkEyXkFqcGc@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+    "imdbId": "tt5736696",
+    "description": "A clumsy girl dreams about joining to an elite special forces team.",
+    "rating": "5.6",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Kindergarten Cop 2",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzRjZDZlNjMtMDNkNS00OTQyLThjOGMtZjdjYTNmYzYwZDRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4763168",
+    "description": "Assigned to recover sensitive stolen data, a gruff FBI agent goes undercover as a kindergarten teacher, but is overwhelmed by the school's liberal, politically correct environment.",
+    "rating": "4.4",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "The Call Up",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5NTUyMzU2Nl5BMl5BanBnXkFtZTgwMjc0OTEwOTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3923388",
+    "description": "A group of online gamers are invited to try a state-of-the-art virtual reality video game but things take a sinister turn when these masters of the shoot-'em-up discover that they will actually be fighting for their lives.",
+    "rating": "4.9",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Rogue Warrior: Robot Fighter",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1Njk0MTE1Ml5BMl5BanBnXkFtZTgwNTQ4MjM5NzE@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt4937114",
+    "description": "In the distant future, humanity is overthrown by artificial intelligence on Earth and other worlds.",
+    "rating": "3.1",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "The Stakelander",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2NzE2NDU0OF5BMl5BanBnXkFtZTgwOTk4MDY3MDI@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt5843670",
+    "description": "When his home of New Eden is destroyed by a revitalized Brotherhood and its new Vamp leader, Martin finds himself alone in the badlands of America with only the distant memory of his mentor and legendary vampire hunter, Mister, to guide him.",
+    "rating": "5.3",
+    "movieLength": "1h 21m"
+  },
+  {
+    "title": "Take Down",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE5MTNiYWMtNzU4Yi00YmIwLWEyMDgtY2JhNWEwNDExZjI5XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt2782844",
+    "description": "Students at a reforming school for rebellious rich kids take matters into their own hands after the campus is taken hostage by a group of criminals.",
+    "rating": "5.5",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Carnage Park",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE3MTA2MTQ0Ml5BMl5BanBnXkFtZTgwMzkxNTAwOTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4335650",
+    "description": "It's 1978 and a bank robbery gone wrong leaves Vivian the hostage of two criminals on the run. But things go from bad to off-the-rails berserk when she and her captors wind up on the sun-baked desert outpost of a deranged ex-military sniper, who ensnares them in his deadly game of cat and mouse.",
+    "rating": "4.9",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Outlaws and Angels",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTU4MzA0OV5BMl5BanBnXkFtZTgwMTYxOTAyOTE@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+    "imdbId": "tt3491962",
+    "description": "When outlaws on the lam invade the home of an unsuspecting, seemingly innocent, frontier family to hide out for the night, an unexpected game of cat and mouse ensues, leading to seduction, role reversal, and ultimately, bloody revenge.",
+    "rating": "5.4",
+    "movieLength": "2h"
+  },
+  {
+    "title": "Sniper: Special Ops",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNTI3MDE0MF5BMl5BanBnXkFtZTgwMTkwNTc3NzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5344794",
+    "description": "When the mission to rescue a U.S. Congressman who has been kidnapped by the Taliban goes sideways, Army sniper and his partner are left behind. Now, they must survive in enemy territory and wait for their unit to come back for them.",
+    "rating": "3.0",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Rampage: President Down",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWEwYTgyYjAtYmNjOC00NWQyLWI4OGQtYzdlMzJhZGJlNWRmXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt4146622",
+    "description": "Bill Williamson returns to bring down the president of the United States and his Secret Service detail.",
+    "rating": "4.7",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Xi you ji zhi: Sun Wukong san da Baigu Jing",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzRhMzg5MDYtNTk0Mi00MzIzLWI5MDQtMTBkM2M2NjkyMGJiXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4591310",
+    "description": "When a travelling monk is stranded in a wasteland, The Monkey King must escort him across the land to retrieve sacred scriptures and protect him from an evil demon.",
+    "rating": "5.9",
+    "movieLength": "1h 59m"
+  },
+  {
+    "title": "Terra Formars",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZiNjY2ZjctYjhmYy00OWU5LWE0ODMtZDViZTM0ZTU4YmNhXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt4433646",
+    "description": "To colonize Mars, 21st century scientists seed the planet with algae and cockroaches. 500 years later, the first manned mission to Mars loses contact with Earth, and a second spacecraft is sent to investigate.",
+    "rating": "4.7",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Lady Bloodfight",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBmZDA2ZjQtZDI1Mi00MjE1LWEwZTItNGI3YjBiNmE5YzM2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4327752",
+    "description": "Upon arriving in Hong Kong, an American woman is beaten up and mugged by thugs. She's taken in by a martial arts master who trains her for a formidable fight competition known as the Kumite.",
+    "rating": "5.6",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Dead Rising: Endgame",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NzY2MzgxMF5BMl5BanBnXkFtZTgwMzIxNjE1OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5481404",
+    "description": "In a zombie-infested quarantined zone of East Mission City, investigative reporter Chase Carter must stop a secret government conspiracy.",
+    "rating": "4.8",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Paradox",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk0MTc5MjgwM15BMl5BanBnXkFtZTgwNTQ4Mzc5NzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4540434",
+    "description": "A time machine's tested first time by a man in the team traveling 1 hour into the future. He returns to warn them against killings in the next hour. Is it possible to change things in the \"past\"? Twist after twist follow.",
+    "rating": "4.6",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Cold War II",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGM2MDJiMWItZTlmOS00MDhlLTk5YzMtMGI2NmQ0ZWEzYWM1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5112622",
+    "description": "After the end of Cold War mission, a new incident is happened at Hong Kong. However, cops cannot catch the killer and the police suspects each other in the organization.",
+    "rating": "6.5",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Code of Honor",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWVlNzgzZTAtMzA1Yi00MTM5LWI1N2MtYmEyOGE2MWI1Yjk1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt4060866",
+    "description": "When his family is murdered, a Special Ops operative turns vigilante. Can his former protégé, now an FBI agent, stop him before mobsters and police close in?",
+    "rating": "4.1",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Salt and Fire",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzYzZTU3NTgtODk5My00YmYyLWFmZjYtMTRkYmJlMWNiZjFkXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt4441150",
+    "description": "A scientist blames the head of a large company for an ecological disaster in South America. But when a volcano begins to show signs of erupting, they must unite to avoid a disaster.",
+    "rating": "4.2",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "Zoombies",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDFiZjI1NmItZWE3OC00YTJjLThjZjctZDUzZTU3Y2Q0MzZhXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5340882",
+    "description": "When a strange virus quickly spreads through a safari park and turns all the zoo animals undead, those left in the park must stop the creatures before they escape and zombify the whole city.",
+    "rating": "3.4",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Well",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjk5OGQxNWEtNzJkMi00NjVkLTk1YzctYTVmMTJlYWUxN2JiXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4606770",
+    "description": "Laci comes to live at a run-down gas station with his long-lost father. A van arrives with four prostitutes and their handlers, and we learn that that Laci's father has something to hide. The gang resolves to wait... for what? AKA Primal.",
+    "rating": "6.3",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Traded",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDRhMzMzYzgtNDM2My00MGQwLWI3MmEtNTRhNDZhZDk0YjJlXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt5255524",
+    "description": "In the 1880s western \"Traded\", a father must leave his ranch for Dodge City to save his daughter from an old enemy, putting his reputation as the fastest draw in the west to the test.",
+    "rating": "4.8",
+    "movieLength": "1h 38m"
+  },
+  {
+    "title": "The Last Heist",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzMjk2MzI2Ml5BMl5BanBnXkFtZTgwMjM0OTM3ODE@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4743562",
+    "description": "A bank Robbery goes terribly wrong when one of the hostages turns out to be a wanted serial killer",
+    "rating": "3.6",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "Wrecker",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MTczNjc3Nl5BMl5BanBnXkFtZTgwMTE3MzA4NjE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4227282",
+    "description": "Two beautiful young women taking a trip through the countryside, are terrorized by an unknown driver trying to run them down in a heavy duty tow truck.",
+    "rating": "3.4",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Sundown",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMDgyMDEzOF5BMl5BanBnXkFtZTgwODU1NzA2ODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2381213",
+    "description": "High school seniors Logan and Blake prepare for an epic Spring Break as they travel to the beautiful and exotic Mexican beach resort of Puerto Vallarta hoping to hook up with their high school crushes.",
+    "rating": "5.4",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "The Perfect Weapon",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDc4MTllYTktYWMyMy00M2FiLWEyNzUtYzFkMGRjMjAxZGQwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4616250",
+    "description": "In the not so distant future, society is controlled by the powerful State and a dictator known as the Director. Condor works as a hitman for the State, but a reunion with someone he thought was dead forces him to consider who his enemies really are.",
+    "rating": "2.9",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "End of a Gun",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNzEzODIzNF5BMl5BanBnXkFtZTgwNzk2NzU3OTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2268433",
+    "description": "A mall security guard -- and former federal agent -- crosses paths with a drug kingpin's enforcer after he saves a woman from danger.",
+    "rating": "3.6",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Arrowhead",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDM0MTBkM2UtYmQyNi00ZGM0LWI0MTAtODgyZmQ2YzA4ZGNiXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt3013160",
+    "description": "A tech is sprung from prison by a revolutionary leader who promises him an opportunity to save his father from a scheduled execution if he completes a data-stealing mission. But it goes awry, stranding him on a strange alien moon.",
+    "rating": "4.4",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Officer Downe",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzAyNDA5NTQ2Nl5BMl5BanBnXkFtZTgwNDI4OTMyMDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4439102",
+    "description": "Based on the graphic novel, a police officer who can't be stopped by death returns to the streets time and time again to fight crime.",
+    "rating": "4.2",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Contract to Kill",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MzAyNTYxMF5BMl5BanBnXkFtZTgwNDcwMjgzMDI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5470222",
+    "description": "Islamic extremists will make an alliance with a Mexican cartel to smuggle WMD and terrorists into USA. Harmon's asked to prevent this. He starts in Istanbul with his team.",
+    "rating": "3.2",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Killing Salazar",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZkN2I3ZWItZTBjYy00MzdjLThjZWYtM2YxYjMyNTM3NDU4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4949290",
+    "description": "A drug lord is captured and held \"secretly\" by 6 US agents at a hotel in Constanta, Romania. He agreed to testify against others in the drug business. They send lots of armed men to the hotel. Lots of shooting follows.",
+    "rating": "3.7",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Attack of the Killer Donuts",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU3ZDFlNzQtN2UwZC00NDQ0LWFhMTItNjkyNjFlYTE2Zjg2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4480398",
+    "description": "A chemical accident turns ordinary donuts into bloodthirsty killers.",
+    "rating": "3.8",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "The Worthy",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTIzNjM4MGMtODk1YS00NmI0LTlkNjctNDRkYWQ1NDU2MWRlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4943218",
+    "description": "After the vast majority of the world's water supply is lethally contaminated, a small group of survivors who have taken refuge near a rare clean water source are thrust into a deadly game of cat and mouse and must defend their lives from infiltrators who aren't what they seem.",
+    "rating": "5.1",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Dark Mountain",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NzIxOTc3Nl5BMl5BanBnXkFtZTgwNDE2NjI2OTE@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4247682",
+    "description": "High school friends reunite after many years to spend a weekend in the mountains, but when everything goes wrong, there is no time for girl bonding.",
+    "rating": "2.9",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Three",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDk3MmZmZTItZTk4Zi00NTM4LTgzYWMtNDQyYTU3YTVlNDBlXkEyXkFqcGc@._V1_QL75_UX140_CR0,10,140,207_.jpg",
+    "imdbId": "tt4379728",
+    "description": "Shot and hospitalized, a cunning robber refuses surgery to avoid police custody. A detective sees through this but is resisted by a dedicated doctor. A tense battle of wills ensues, as the threat of a rescue by the robber's gang grows.",
+    "rating": "5.9",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "The Asian Connection",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ2YWM0ZGEtZWZlMy00ODQ5LWJhNDItNDViMTg0ZTJmZTFkXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt3187378",
+    "description": "Two American expatriates, Jack and Sam, unwittingly steal a drug lord's money when they rob a series of banks in Southeast Asia and become the target of the gang's vengeance. When Sam is killed, Jack turns to the love of his life, Pom, and the couple becomes a modern-day Bonnie and Clyde that takes the fight to the gang.Together they must get the job done whilst still protecting jack's nice and nephew.",
+    "rating": "3.2",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Virtual Revolution",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzExYzcyNGItNjU1ZC00YTZlLTk4OTEtZGI2YjdhNTRlYTAxXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt4054004",
+    "description": "In a future mega city, where most people spend most time hooked up to a virtual world, an agent, employed by a corporation supplying virtual reality, is busy tracking down killers/terrorists, both in the virtual and real world.",
+    "rating": "5.1",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Showdown in Manila",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI4MmU3ZGQtM2MyOC00NWFkLWI0YjMtMmE0NjAwYzBhYzMzXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4586626",
+    "description": "Private detectives Nick (Alexander Nevsky) and Charlie (Casper Van Dien) live and work in Manila. A murder investigation leads them to the jungle camp of an international terrorist called The Wrath. Not trusting the police, Nick and Charlie assemble a team of daredevils to walk straight into the Wrath's lair and fight an army of his goons.",
+    "rating": "2.7",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Countdown",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4MTUxMjU5OF5BMl5BanBnXkFtZTgwNTAyMDA5NzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4872162",
+    "description": "When a madman kidnaps a young boy and rigs him with explosives, Ray defies his captain and takes matter into his own hands. Now he must beat the clock and save the innocent child.",
+    "rating": "4.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Nettle",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODkxYzI5NWYtMTUwZC00Yjg1LWEyZmItMGVhMjRiZjMxZjEzXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt6067750",
+    "description": "Mad scientist's serum turns a bush of nettle into a vicious killing machine.",
+    "rating": "4.4",
+    "movieLength": "1h 3m"
+  },
+  {
+    "title": "Selfie 69",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWE2NDRjYWEtNWE4Zi00M2JkLTk1NTYtMzNhOTRiNjNjOTMyXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4796634",
+    "description": "Your best friends are also the friends who'll make you do the stupidest things. After parting hardcore, Roxi, Yasmine and Ana meet in a bet that will change their lives: Who gets married first in three days?",
+    "rating": "6.0",
+    "movieLength": "1h 56m"
+  },
+  {
+    "title": "Interrogation",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyMjg4MTM4Ml5BMl5BanBnXkFtZTgwMzk2MTI0OTE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4497338",
+    "description": "An FBI agent (Copeland) shoots, but not fatally wounds a dissident gunman. His interrogation reveals many pieces to a plot which threatens the city.",
+    "rating": "4.9",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Cyborg X",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgyNDkzNjA0OV5BMl5BanBnXkFtZTgwMTM1Mzc0OTE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt3899262",
+    "description": "After X-Corp, a radical weapons manufacturer, is taken over by a Cyber Virus, a group of survivors must fight to save humanity from the army of Machines the Virus now controls.",
+    "rating": "3.4",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Mythica: The Iron Crown",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ0YjRhYjYtZDJlMy00YTMwLTk2OGUtZGE0Mjk4MGEyMDkyXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt5456798",
+    "description": "Unlikely heroes hijack a battle wagon as a wizard steals an artifact that, in the wrong hands, will flood the land with legions of the evil undead.",
+    "rating": "5.5",
+    "movieLength": "1h 33m"
+  },
+  {
+    "title": "Weaponized",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNjE5ODMyM15BMl5BanBnXkFtZTgwMzk3OTQ2NzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4776564",
+    "description": "A damaged homicide detective (Johnny Messner) must prevent a grieving father from unleashing a \"robotic virus\" that he believes will destroy the terrorist cell that murdered his son, but at an unimaginable cost.",
+    "rating": "3.5",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Neron",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzYwOTIxNzM5OV5BMl5BanBnXkFtZTcwNjg4NjI0OA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2268018",
+    "description": "New mom battles the evil lurking within as her adulterous husband hides a dark secret that may lead to the human extinction.",
+    "rating": "2.5",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Line Walker",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGYwODRmMmEtZjBhYi00Nzk5LWI0MzgtY2IyZGIxZThmNWYxXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt5896962",
+    "description": "Several cops went undercover. Due to some issues, all undercover identities were wiped clean from the police database.",
+    "rating": "6.0",
+    "movieLength": "1h 49m"
+  },
+  {
+    "title": "Mythica: The Godslayer",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU3NzNlZGMtYmVhZS00OGJhLTg4MGMtMGMyNWZkMzE4MzRjXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt5327922",
+    "description": "As the Lich King's zombie legions ravage the world, a cursed young sorceress and her friend Dagen, a self-serving half-elf rogue, embark on a quest to obtain a weapon from the gods.",
+    "rating": "5.5",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "Albion: The Enchanted Stallion",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2IzNTFkNmYtYTJiMS00MTdhLThlNTMtZDEwNjY3MWZjMmYzXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt4518260",
+    "description": "A twelve-year-old girl is transported by a magical black stallion to the mystical world of ALBION, where she discovers that she alone is the key to saving an entire race of people.",
+    "rating": "5.2",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "Submerged",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjcxNDQ1Ml5BMl5BanBnXkFtZTgwNjQ4OTMyNzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3236976",
+    "description": "A young woman and her friends, who've been targeted by kidnappers, must do everything they can to survive after their limo is forced off the road and plunged into a canal.",
+    "rating": "4.1",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "The Fourth Phase",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGY5ZDgyMjktYTNjMi00MzM3LTg0YWEtYzJiYjNkMmI3NmQyXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5226436",
+    "description": "From the innovators of \"The Art Of FLIGHT\" (2011) comes a documentary about the iconic snowboarder Travis Rice. The production of the movie started in 2013.",
+    "rating": "7.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "The Unseen",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTk5ZjY4YjItMDI5OC00ZTQ0LThjNjAtNDZmMTI1MTBhN2ZlXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4667084",
+    "description": "A man who abandoned his family now risks everything to find his missing daughter, including exposing the secret that he is becoming invisible.",
+    "rating": "5.4",
+    "movieLength": "1h 48m"
+  },
+  {
+    "title": "Let Me Make You a Martyr",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE0Mjc3MDY3NTVeQTJeQWpwZ15BbWU4MDAzNTI1NTkx._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt3699372",
+    "description": "A cerebral revenge film about two adopted siblings who fall in love, and hatch a plan to kill their abusive father.",
+    "rating": "4.6",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Hulk: Where Monsters Dwell",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTg2ZDdmOTAtYjA0OS00ZjU4LTliNTMtZjIwZDgxYzUyM2I4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt6173902",
+    "description": "Doctor Strange and a team of monsters must help the Hulk overcome his dream self in order to defeat Nightmare on Halloween night.",
+    "rating": "5.4",
+    "movieLength": "1h 15m"
+  },
+  {
+    "title": "Mercury Plains",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwMzMxOTE5NF5BMl5BanBnXkFtZTgwMzQ1MjQzNzE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt1753786",
+    "description": "A troubled man runs away to Mexico and is recruited to join a paramilitary group of teens fighting the drug cartels. He proves himself to the group, but questions their motive.",
+    "rating": "4.3",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Female Fight Club",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTk5M2E3ZTAtM2MwNS00YjEwLTkzMDgtZGMzMTA0ZTNhOTZmXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt5153860",
+    "description": "A former fighter reluctantly returns to the life she abandoned in order to help her sister survive the sadistic world of illegal fighting and the maniac who runs it.",
+    "rating": "4.3",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Level Up",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU4MjY4NzEtYTBmNS00ZjVhLWJhNDktMmQyN2Q1YWE2YWY4XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt4447108",
+    "description": "A fast-paced, high concept thriller following a 20 something layabout, who over the course of a day, is forced to make his way across an increasingly strange and sinister London, in order to save his kidnapped girlfriend.",
+    "rating": "4.5",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "59 Seconds",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxODQ0NjI2Nl5BMl5BanBnXkFtZTgwNzA4MjUzNTE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt1720035",
+    "description": "ZayVian, a teenager, guilty over the death of his twin brother, commits negative acts in order to gain the attention of his parents. He seeks absolution for the murder. His ultimate decision an impact on eight other troubled teens that changes their lives forever. An haunting story of a boy trying to reclaim a lost hope with no assistance from anyone.",
+    "rating": "5.4",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Spark",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNzc2Mzk2M15BMl5BanBnXkFtZTgwNzU2MzA2MTI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3228088",
+    "description": "Spark, a teenage monkey and his friends, Chunk and Vix, are on a mission to regain Planet Bana, a kingdom overtaken by the evil overlord Zhong.",
+    "rating": "4.4",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "We Still Steal the Old Way",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU1NTkwN2QtOGNkMi00NzAwLTk2M2QtOTgxM2M1NjRiMTUxXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt4418398",
+    "description": "The Archer Gang are back and doing a daring heist in London. Remanded in prison, they will try to break out their old friend Briggs.",
+    "rating": "5.2",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Golden Years",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMDYyNjAyM15BMl5BanBnXkFtZTgwODk1MjE0MDI@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4362646",
+    "description": "Retired couple Arthur and Martha take up bank robbery after their pensions are cut, refusing to accept the injustice of their circumstances.",
+    "rating": "6.1",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "My Entire High School Sinking Into the Sea",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc1ODk0NzEwNl5BMl5BanBnXkFtZTgwMjQ2MzQ1MTI@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt5538568",
+    "description": "An earthquake causes a high school to float into the sea, where it slowly sinks like a shipwreck.",
+    "rating": "6.1",
+    "movieLength": "1h 15m"
+  },
+  {
+    "title": "Day of Reckoning",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjFhOTQ2YzktMDY5YS00NDI3LTk2ODUtYjU1ODQzNTFkN2I2XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt5742568",
+    "description": "Fifteen years ago evil creatures from the underworld plagued the Earth with the intent of eliminating mankind. Dubbed the Day of Reckoning by survivors of the hellish holocaust, warriors of mankind again must battle the forces of darkness.",
+    "rating": "3.4",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Red Billabong",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM5NDg5NzY5NV5BMl5BanBnXkFtZTgwNjM4NDAwMDI@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt4011010",
+    "description": "In the Australian Outback, two estranged brothers discover old secrets and family lies. As their friends start to go missing they fear they are being stalked by someone or something.",
+    "rating": "4.1",
+    "movieLength": "1h 53m"
+  },
+  {
+    "title": "Beyond Valkyrie: Dawn of the 4th Reich",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM0NTQ3NTgxM15BMl5BanBnXkFtZTgwNzE0NTE2OTE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5050200",
+    "description": "Near the end of World War II, American and British Special Forces must extract a resistance fighter behind Nazi lines.",
+    "rating": "5.1",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Sinister Squad",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzRmNDMwY2YtYmJlOS00MjNmLTlhNGQtZDdmZWMzM2Y3MjE1XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5481984",
+    "description": "When a supernatural cult threatens Earth, Alice must assemble a team of fairy tale villains to face the literal forces of Death.",
+    "rating": "2.2",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Bad Black",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE5Mjk1NTQtZDgwNS00N2ExLWFkNDctMDBkMTRjNzc0OTc1XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt6044414",
+    "description": "A mild-mannered doctor is trained in the art of ass-kicking commando vengeance by a no-nonsense ghetto kid named Wesley Snipes.",
+    "rating": "7.3",
+    "movieLength": "1h 8m"
+  },
+  {
+    "title": "Ibiza Undead",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzM0NjRmZjItNTBjYy00M2U1LTllNjItYjUyZDc2ZDZmYTlkXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt3238502",
+    "description": "A group of young people head to Ibiza for the holiday of a lifetime - all the sun, sea, and sex, they can handle. If only there wasn't a zombie outbreak getting in the way.",
+    "rating": "3.2",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Compadres",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkzOTU5N15BMl5BanBnXkFtZTgwMjA3MjgyODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3367294",
+    "description": "As former cop Garza seeks revenge on Santos, the crime lord who framed him, he forms an unlikely team with a young hacker who successfully stole $10 million from Santos.",
+    "rating": "4.8",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Deuces",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTY2Yjk5NjEtYjQ0NS00M2UxLWJjNDEtMmY1ZDNiODQwNDdlXkEyXkFqcGc@._V1_QL75_UY207_CR15,0,140,207_.jpg",
+    "imdbId": "tt5081606",
+    "description": "An undercover agent infiltrates a crime ring run by a charismatic boss.",
+    "rating": "5.8",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "My Father Die",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MjMyMTIwN15BMl5BanBnXkFtZTgwMTA3NjIwODE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt4242100",
+    "description": "Deaf since having his hearing knocked out at the age of 12, Asher has been training for almost two decades to avenge himself on Ivan, the man that killed his older brother, 21 years ago. And now that his nemesis is out of prison, he gets his chance. But Asher's target also happens to be his father.",
+    "rating": "5.6",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Alleycats",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2EyNjgwZTktNzQ3NC00OWEzLThkMjktZDBkOTg4NzA1YWJjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3917318",
+    "description": "When bike courier Chris witnesses what looks like a murder, his first instinct is to cut and run. But when his curiosity draws him back in, he's soon embroiled in a world of corruption, political power, and illegal bike racing.",
+    "rating": "4.8",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "ID2: Shadwell Army",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU3MzYyYzgtY2M5MS00ZWJjLWFjOGQtZDIzZjAzOGYxNzQxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt3652964",
+    "description": "A young British Asian, Mo is a fast-rising police officer who goes under cover infiltrating Shadwell's resurgent hooligan element, who are fired up by Shadwells's takeover by a Russian oligarch and their unlikely adventure into European competition. Mo quickly becomes embroiled in the local schism between the BNP and EDL and plans to build a new mosque in the shadow of the Shadwell ground creates an explosive environment in which football and political violence form a perfect storm of social unrest. In the midst of this, Mo is faced with the essential existential question of of who he really is and where he really belongs. It's 20 years on and clever Trevor is now chief super, but what happens to the rest of the gang?",
+    "rating": "4.6",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Beyond the Call to Duty",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQ3MjM0MTM5NF5BMl5BanBnXkFtZTgwODM0OTE4OTE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt2351392",
+    "description": "Five Spec Ops, Alpha Squad, head a simple Recon Mission that turns into an all out war for survival against a wave of undead experiments. Alpha Squad must fight, not just for the sake of their own survival, but the fate of the world.",
+    "rating": "1.6",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Crossing Point",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYxMjI1OTg1NV5BMl5BanBnXkFtZTgwNzc2NTUzODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3027716",
+    "description": "The girlfriend of a couple vacationing in Baja is kidnapped by a drug dealer who demands that her boyfriend smuggle back cocaine into the US or she will be killed.",
+    "rating": "5.1",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Kill the King",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ4NmQ5ODktYWFiYS00MWIzLWE2MjctYTkwMGNkZDJkNjBmXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt3014078",
+    "description": "Two young, damaged lovers head to Los Angeles to kill the King of Rock n Roll in the summer of 1974.",
+    "rating": "5.1",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Musafir",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIwNGE3NTItMTFmYi00Y2U3LWFlZDYtMzAxMjRhYjBiNjU4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5643942",
+    "description": "A race between secret service agency and underworld mafia to have classified information of the agency.",
+    "rating": "6.3",
+    "movieLength": "2h 28m"
+  },
+  {
+    "title": "Isle of the Dead",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTllZjlhYmYtZmJjYi00MzMzLWIwYjUtZTcyYmQwY2U5ZDY2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5108168",
+    "description": "A military squad is sent to a deserted island in the Pacific Ocean in order to secure top secret records involving a zombie epidemic that wiped out the large scientific team experimenting with various test chemicals and toxins which leads to the team battling not only zombies, but the lone surviving scientist who has plans for the future of the human race.",
+    "rating": "3.9",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Kill Ratio",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MTk4MTQ4NF5BMl5BanBnXkFtZTgwNzk5MzM0MDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5020372",
+    "description": "An attack on the new President of a fledgling Eastern European democracy pits an American covert operative against the country's ruthless military leader determined to seize control of the government.",
+    "rating": "4.0",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "The Rendezvous",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NzA0NzgwN15BMl5BanBnXkFtZTgwMTA5NjU5ODE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4827878",
+    "description": "A Jewish-American doctor and a Muslim State Department employee find themselves in the center of a conspiracy that could bring about the end of days. With time ticking away, they take on a mission to unravel the mystery and save the world.",
+    "rating": "5.2",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Teraa Surroor",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWE1NTkxMDktMDEzZS00OWQ5LWE0ZDAtZGU4YjczY2Y0NDU3XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt5056470",
+    "description": "Tara Wadia (Farah Karimaee), a singer and girlfriend of a gangster Raghu (Himesh Reshammiya) lives with her mother (Shernaz Patel). She goes to Dublin where she gets detained after being caught with drugs. Tara calls Raghua for help now Raghu must help her and find Anirudh Brahman, the stranger who met Tara on Facebook and invited her to Ireland.",
+    "rating": "2.7",
+    "movieLength": "1h 46m"
+  },
+  {
+    "title": "I Had a Bloody Good Time at House Harker",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg5ZGZjNzktOWMxOC00N2EzLTgzYmItMjhiOTUyY2M5ZjRhXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt4779026",
+    "description": "It's been generations since the Harkers' great-great grandfather killed Count Dracula. Now the Harker brothers and their best friend Ned are a town joke - until a real vampire turns up.",
+    "rating": "5.6",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "Darkweb",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI2ZDFiMWYtZmVkZS00MjViLTk0ZTEtZmU2NjU1MGQ4Zjc3XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5247042",
+    "description": "A mysterious group has created a sadistic venture. Kidnapping young women, they auction the rights to hunt them to millionaires with a thirst for blood - and broadcast the hunt on the dark web for the world to see.",
+    "rating": "2.7",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "The Brooklyn Banker",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjhmMGE3MzQtYTgzOS00ZmJiLTg4ZmQtMjcxY2EwY2ZkMWM3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3758564",
+    "description": "A banker with a talent for memorizing numbers is recruited by a mobster looking to get ahead.",
+    "rating": "5.6",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Frankenstein Created Bikers",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM4MDY5Njg2OV5BMl5BanBnXkFtZTgwNzQzODI0NTE@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt2364673",
+    "description": "An outlaw biker finds himself addicted to a diabolical substance and hunted by a grenade-tossing femme fatale, bounty hunters, law enforcement, a rival motorcycle gang, mutations and a topless stripper hit squad.",
+    "rating": "5.1",
+    "movieLength": "2h 5m"
+  },
+  {
+    "title": "Breakdown",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NzAwMjc1Ml5BMl5BanBnXkFtZTgwNDE2ODg0NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3381610",
+    "description": "A professional contract killer, haunted by visions of his violent past, spirals out of control. His work compromised as he reaches breaking point, he is forced to defend his family from his ruthless employers.",
+    "rating": "5.0",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "Off-Piste",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNmZGIxZmEtYzE1Ny00NjMyLTgxMDMtYmQ4MWZmNzNhZjkwXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4443856",
+    "description": "An ex-military recluse, living in the mountains of France to escape a traumatic past, is hunted down by those whose lives he has destroyed.",
+    "rating": "4.6",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "Warrior Savitri",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjY0M2Q3MzktNGZhZi00NzNhLWE4YmItZDdhZjg0ZjhhYzQwXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4642936",
+    "description": "A modern day adaptation of the legendary fable of Savitri, Satyavaan and Yamaraj from Mahabharata, one of the major Sanskrit epics of ancient India. The modern day Savitri is adept in martial arts and will do anything to save her husband.",
+    "rating": "3.1",
+    "movieLength": "2h 16m"
+  },
+  {
+    "title": "Lucky",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJhZTIzOTQtZDVhYy00NjNmLThmY2YtY2U5YTJlMjBiNWVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3890902",
+    "description": "Lucky, an undocumented immigrant, struggles to make his way in New York but finds himself caught in a web of crime and murder, forcing him to take extreme action.",
+    "rating": "4.9",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Zombies",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTkzNzRmYjktMTM5NC00ZmFiLTkwYjMtNWI5M2ViMGQzMDNkXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4969672",
+    "description": "Forced outside the city limits, they make their final stand in a small farmhouse. Paying tribute to Night of the Living Dead, our heroes fight to stay alive against an army of flesh eating monsters.",
+    "rating": "2.9",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Ben Hur",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTc1N2RhNWUtYzFhZi00MmEwLWExMzktMTJmN2U3MTNlOWIxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5582876",
+    "description": "Retired gladiator Juda Ben Hur helps a group of young vigilantes in their quest to remove the Romans from their homeland once and for all.",
+    "rating": "2.7",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Freshwater",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg1MDA4ODE4Ml5BMl5BanBnXkFtZTgwNjE0NjM4MzE@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt2751140",
+    "description": "A new take on the classic story of a group of twenty-something kids' weekend of terror at the lake house.",
+    "rating": "2.8",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Jurassic Wars",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjM2RmY2QtMDFkYy00OWE0LWE5NTgtZDA3NThlNDU5MTdjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt3524346",
+    "description": "When ancient flying reptiles attack Los Angeles, it's up to two working-class friends, the unlikeliest of heroes, to save the day.",
+    "rating": "4.2",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Sharkenstein",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTYyNTQ4MjcyNl5BMl5BanBnXkFtZTgwMjA3NTQ2ODE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5636234",
+    "description": "Sixty years after the end of World War II, a small ocean town is plagued by a blood-thirsty creature that was built and reanimated by using the parts of the greatest sea-killers: the Sharkenstein monster.",
+    "rating": "2.1",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "S Storm",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTg0NzJlNTQtYTIwMy00MmRjLTgwMWItNmIxNGFiOWVhNWQ3XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5998744",
+    "description": "No sooner is a team at ICAC set up to investigate irregularities in soccer official betting in Hong Kong before a suspect is assassinated.",
+    "rating": "5.1",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Bling",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAyODEwOTE4OV5BMl5BanBnXkFtZTgwNDIzMDc3ODE@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt5161658",
+    "description": "Will a 'bling' ring or the courage to save his city from an army of evil robots win the heart of Sam's childhood sweetheart?",
+    "rating": "4.4",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Bitcoin Heist",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjM0ZGNlOTItYmM2ZS00YmNjLThjZmQtMzdjMzVhNjQ2OGIyXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4911780",
+    "description": "To catch the world's most wanted thief, an Interpol agent assembles a team of elite hackers to plan the ultimate crypto-currency heist.",
+    "rating": "5.8",
+    "movieLength": "1h 50m"
+  },
+  {
+    "title": "The Masked Saint",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NzU4MjkxNl5BMl5BanBnXkFtZTgwMTYxMTA1NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3103166",
+    "description": "A pastor and professional wrestler accepts a position at a struggling church where he helps the community both in his official capacity and as his alter ego The Saint.",
+    "rating": "4.7",
+    "movieLength": "1h 45m"
+  },
+  {
+    "title": "Downhill",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTA5ZWYxOWItZjA3YS00M2U5LWE0OTItODhhNzZkZTRmNDA1XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt3684500",
+    "description": "After his best friend dies in a racing accident, biking star Joe agrees to go back on the wheels for an exhibition in Chile. On a test run with his girlfriend Stephanie, they stumble upon a badly injured man dying from a mysterious virus. That's the start of a very bad day for them as they become the target of relentless killers ready to do anything to keep their secret to go out of the mountains.",
+    "rating": "3.5",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Krampus: The Devil Returns",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA0OTYyNjMxNV5BMl5BanBnXkFtZTgwNjQ5NTY4NDE@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt3527772",
+    "description": "Former cop Jeremy Duffin joins hunt for Christmas monster punishing naughty kids after daughter vanished. He uncovers truth about her fate, monster's origins, and must stop its rampage.",
+    "rating": "1.6",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Star Trek: Horizon",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2VjNDAyNDgtNThjYy00YmUxLTljNDctOGY5MzI4YWYzYWM0XkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+    "imdbId": "tt3854562",
+    "description": "In a time prior to the United Federation of Planets, a young coalition of worlds led by Earth battle the Romulan Star Empire for their very survival.",
+    "rating": "5.8",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Tik Tok",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjMxZDhhZGMtYzZhOC00OTQxLTkwZWUtZDg0NjdlYjhiMzVhXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt6033150",
+    "description": "Guo Zhida and his twins brother scheme an bomb explosion near the gym to take away money from gambling group. Korean police officer and psychologist Yang cooperates to prevent this conspiracy.",
+    "rating": "5.5",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Spaghettiman",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzFiYTkxN2MtNDc2ZS00NTYzLWE5ODYtMmNiMzcxYmNiZTMyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4626970",
+    "description": "Clark doesn't care about you. He doesn't care about the world. He barely cares about himself. But after an incident with an old bowl of spaghetti and a malfunctioning microwave, he becomes a superhero that can fight crime with the power of spaghetti. However, you have to pay him.",
+    "rating": "5.3",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Turbulence",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzhjYzQzNTAtNGM4Yi00OGExLWEzYzEtODc0ZDE5MzBlMDhjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5592256",
+    "description": "Sarah Plummer, an FBI agent, faces a hostage situation involving her family during a flight. A stranger, Michelle, sits beside her, forcing Sarah to make a life-or-death decision for her husband and son.",
+    "rating": "4.8",
+    "movieLength": "2h"
+  },
+  {
+    "title": "Fight Valley",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0MjQ2NDE3OV5BMl5BanBnXkFtZTgwOTYzMTMyODE@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt4280822",
+    "description": "A young woman is found dead after getting involved in an underground fighting ring. Her sister Windsor begins training under a respected ex-fighter as she searches for the killer.",
+    "rating": "2.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "David and Goliath",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlZDdiMjEtOTY3My00YzY1LWIwM2QtODM5MTI0MzRjYjA0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4352408",
+    "description": "At the crossroads of two great ancient empires, a simple shepherd named David transforms into a powerful warrior and takes on a terrifying giant. One of history's most legendary battles is retold in a stylistic, bloody tale of courage and faith.",
+    "rating": "3.1",
+    "movieLength": "1h 15m"
+  },
+  {
+    "title": "Mobile Suit Gundam: The Origin III - Dawn of Rebellion",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTBiYmY3MGEtYzIxMi00ODUyLWEwMzItYjlkMWJmNmY0MWExXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt5871184",
+    "description": "Having faked his death at the cost of his friend, Édouard assumes the role of Char and undergoes training as a Zeon soldier.",
+    "rating": "8.0",
+    "movieLength": "1h 8m"
+  },
+  {
+    "title": "Viking Legacy",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTM1ZjVjOTUtYzg4NS00YTM1LThhNGItNTg4NTNkMTdlMmU3XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5555554",
+    "description": "In ancient times, there were seven sacred scrolls believed to grant power and prosperity to those who possessed them. Prophecy told that a child born in pure Royal blood would one day harness power and rule over the nations. As men fought to claim the scrolls, Europe was pushed to the brink of war. In order to maintain peace, a Celtic King, the Father of a pure blood child, obtained the scrolls and gave them to the Christian Council for safe keeping. As word of the King's actions spread, a warlord hell - bent on finding the scrolls murdered him in cold blood. And so, the King's Daughter, like the scrolls, was taken into hiding until the day that the prophecy could be fulfilled.",
+    "rating": "2.4",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Better Criminal",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODA2NjQ2N2ItNGRlMC00ZWU5LWFhMTQtY2EwOWIzZDVlNGYzXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4845940",
+    "description": "A police officer is forced to work for two warring crime syndicates while under an internal investigation.",
+    "rating": "4.2",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Against the Wild 2: Survive the Serengeti",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjEyOTU4Y2YtNDdhNy00ZTI0LTlmODktODk2ZTBhNzRlMGI4XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt4519312",
+    "description": "Two kids and their dog must use all their skills to survive in the African bush after a plane crash.",
+    "rating": "4.6",
+    "movieLength": "1h 31m"
+  },
+  {
+    "title": "She Kills",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NTI0MTYxN15BMl5BanBnXkFtZTgwNDU4ODIxNjE@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt4801352",
+    "description": "When Sadie's husband is murdered by a vicious gang called \"The Touchers\", she finds she possesses a strange hidden power to aid her in her quest for revenge. An homage to Grindhouse/exploitation pictures of the 1970's.",
+    "rating": "5.0",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Rising Fear",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MDIzNTE2Ml5BMl5BanBnXkFtZTcwODkwOTg3OQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3006588",
+    "description": "When terrorists take America hostage, a rogue marine sets out to stop them.",
+    "rating": "4.0",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "The Orphanage",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYwNzdkNjUtZTZlZC00OGFmLWIxYmItODg1ZDM2YjcxYTY2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4190256",
+    "description": "The story of courage and sacrifice of Iranians in the time of war and famine.",
+    "rating": "5.9",
+    "movieLength": "1h 54m"
+  },
+  {
+    "title": "Project 12: The Bunker",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzVlMjc5YTEtYzc3Zi00ZWJkLTg3M2ItMThjNTg1NWNlZmVhXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt3157640",
+    "description": "The Russians scrap a dangerous scientific project designed to change the course of history. A manhunt ensues after they unsuccessfully attempt to exterminate all the scientists involved in the top secret project.",
+    "rating": "3.4",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Ignacio de Loyola",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGRjMTVmMDgtMTVjMy00YzA0LWJkZmItODEyMzFkYTU3NGNkXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt5040624",
+    "description": "'If you could hear the voice of God, would you want to keep it secret?' A historical drama based on the memoirs of St. Ignatius of Loyola, founder of the Jesuit order. This is the story of a soldier, a man of vice and violence who, in his attempt to turn to the light, was forced to wrestle with his inner demons to the very brink of death. A Filipino production shot in Spain and the Philippines, the film chronicles his valiant but futile defense at the Battle of Pamplona, his struggles with depression and near-suicide, his trial before the Inquisition, and his ultimate vindication.",
+    "rating": "5.8",
+    "movieLength": "1h 58m"
+  },
+  {
+    "title": "Caged No More",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxOTYwNDQ5MF5BMl5BanBnXkFtZTgwNjcyMTA1NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4104354",
+    "description": "Aggie Prejean is a godmother on a desperate search to find her two goddaughters, Skye and Elle, who have been kidnapped by their sinister father. As the details behind the girls' disappearance unfold, it's discovered he has taken them overseas to be sold into slavery to settle his drug debt. Aggie enlists the help of the girls' uncle, a well-respected local philanthropist, and his son Wil, who is former Special Forces. A global hunt ensues, and the team will stop at nothing to see the girls safely returned home. \"Caged No More\" is a drama meant to engage and educate audiences on the realities of human trafficking. The film releases January 22, 2016 nationwide. Inspired by real events.",
+    "rating": "5.5",
+    "movieLength": "1h 39m"
+  },
+  {
+    "title": "Tiger Raid",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmFiZjZmZjQtOGQyNC00ZTU4LTg1NzAtNGNiZDdmOGM0MDY0XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+    "imdbId": "tt4447518",
+    "description": "Two cold-blooded mercenaries form an unlikely bond as they race across the desert in the dead of night.",
+    "rating": "4.3",
+    "movieLength": "1h 32m"
+  },
+  {
+    "title": "Playing with Dolls: Bloodlust",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTUwNzRhMWItZmY4Mi00OTNjLTg4NmItODgxZGYzNWJhZDJiXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt4980812",
+    "description": "A group of aspiring actors are chosen for a reality Horror TV show where they must survive a Slasher movie. In time, the actors discover that the show is fake but they Slasher is real; who has been sent out to kill them.",
+    "rating": "2.6",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Bachelor Games",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzBjNWMzMTAtMmZiNy00NzM1LWExYTQtYTAwZGYwMmE0Y2EyXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt2190451",
+    "description": "A group of friends on a stag weekend in the mountains of Argentina are picked off by a dark force called \"The Hunter\", but all is not what it seems.",
+    "rating": "4.3",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Assassination",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODUzNDYzNzcxOV5BMl5BanBnXkFtZTgwMTQ0ODIyMDI@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt4177822",
+    "description": "A retired agent's life is turned upside down when he discovers he's the patsy for an impending CIA planned presidential assassination.",
+    "rating": "3.6",
+    "movieLength": "1h 20m"
+  },
+  {
+    "title": "The River Thief",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjU5YTgzY2MtODFmNy00MDIyLWE5NTItM2E0Zjg5OTNmN2Y5XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt5664502",
+    "description": "A reckless teenage drifter robs a local drug-dealer, he becomes the owner of a giant pile of cash and the target of two vicious killers.",
+    "rating": "5.2",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Nitro Rush",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDIyMGRjZTMtODNkNS00MmQzLWJkYTQtZWYwN2UyZjUyMjAzXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt4579914",
+    "description": "We find Max in jail, after losing his young wife. When he learns that his son Theo has just been hired by a criminal organization, Max will risk everything to save him. His car chase and athletic skills prove to be a great asset.",
+    "rating": "4.9",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Heroes Manufactured",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmZlZTEwYTItOWFhYS00YmY1LTk2MTEtZTI1ZWVjZDY1OGVjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5170670",
+    "description": "A documentary following Canadian artists and their ability to break into the comic book industry while dealing with fandom and the craze of comic book conventions in Canada.",
+    "rating": "8.1",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Karate Kill",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmE1YjBmNDktMTI1ZC00YTQ1LWIwZDAtNjA3Y2Q5MWQ5YzU3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4916744",
+    "description": "When a mysterious loner and Karate master Kenji's little sister goes missing in Los Angeles, whoever stands in his way of finding her will face the wrath of a lethal KARATE KILL!",
+    "rating": "5.2",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Taryn Barker: Demon Hunter",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjg3ODg4NzctZTExNS00MjFmLTliOGEtNzdkYTVlY2NjMmE1XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt2375585",
+    "description": "Detective Ray Beckett seeks the aid of homicide suspect, Taryn Barker, in rescuing his daughter from a demonic force.",
+    "rating": "3.5",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Drone Wars",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzOTE1ODUyMF5BMl5BanBnXkFtZTgwNDE5OTE1MDI@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt5239972",
+    "description": "Filled with smoke and fire, the sky is littered with ships hovering above for miles in every direction. These ships reap the Earth of all its resources, while drones patrol the now ruined cities.",
+    "rating": "2.9",
+    "movieLength": "1h 19m"
+  },
+  {
+    "title": "Gun Self-Defense for Women",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE4NGZjNTItYzFlNC00YmMzLWE3NzAtOTQzOGIzM2NkZjA3XkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+    "imdbId": "tt4780902",
+    "description": "Gun Self-Defense for Women teaches on gun self protection, and how to protect their Family and Friends. Also includes other self-defense methods shown from experts of that field.",
+    "rating": "2.7",
+    "movieLength": null
+  },
+  {
+    "title": "Time Rush",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMyZTQ5MDktYTY5NS00OTBiLWIxODYtOWE4ZjRmMWVlYTRmXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt3399078",
+    "description": "Alex, stuck in a repeating loop of time, must navigate his way through the bustling streets of Bangkok with mysterious men on his heels trying to kill him. Parkour, martial arts, shoot outs and car flips all result in his death until the last loop.",
+    "rating": "3.2",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "The Fight Within",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNkNjU0NjQtYjdhOS00ZjRkLWE0YTUtZGJmNmE1NDM0NjlmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4838334",
+    "description": "Logan Chandler, a young MMA fighter seeks to overcome a troubled past and build a new life based on a new faith and a new found love, but is forced back into the fighting world by Hayden Dressler, a local MMA professional.",
+    "rating": "4.4",
+    "movieLength": "1h 34m"
+  },
+  {
+    "title": "Sinbad and the War of the Furies",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjA3ZjVmMTQtNGVjZi00NzkzLTk4MDAtNzUwZjJhZmQzNmJmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt6231588",
+    "description": "On a treasure hunt gone wrong, modern-day adventurer Sinbad accidentally releases the Furies, three beautiful but terrible ancient beings powerful enough to threaten life on Earth.",
+    "rating": "2.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Parasites",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTRkMWNkZmItNDM4Ny00ZTc0LTkyMGItZjA1ZDNjNDc5MGZhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4688294",
+    "description": "Three friends find themselves lost on Skid Row and are captured by an angry homeless gang.",
+    "rating": "4.3",
+    "movieLength": "1h 21m"
+  },
+  {
+    "title": "Ded Moroz. Bitva Magov",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTZhYmZhZTEtZDM2Yy00ZmQ3LTk5NWYtZDNiMGU0ZGExYWZmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt6011884",
+    "description": "Flying monsters that young Masha has seen in visions suddenly attack her and a group of young magicians. A stranger saves her at the last minute.",
+    "rating": "3.8",
+    "movieLength": "1h 57m"
+  },
+  {
+    "title": "Dead Rush",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI4YzVkMDUtN2U0Yy00ZDk2LTk3MDktMzY5ZDBmNDI4YWM0XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt4899510",
+    "description": "David's life is turned upside down when an unknown illness ignites a full-blown zombie epidemic, leaving survivors with few places to hide. David rushes home to protect his pregnant wife, along the way gathering survivors.",
+    "rating": "3.5",
+    "movieLength": "1h 18m"
+  },
+  {
+    "title": "Black Luck",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGUzMjZkNTctOWQ5Ny00ZDE4LTlkYjUtZjc5M2MyMmZlYmY3XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+    "imdbId": "tt5989056",
+    "description": "A hitman in hiding struggles to keep his monsters at bay when his dark past comes calling. Some days your LUCK just goes BLACK.",
+    "rating": "5.8",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Maverick: Manhunt Brazil",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBhYWE5ODYtNzc3ZS00M2MzLTlhMDctMzZmMTkwNDlkOTU3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt4143066",
+    "description": "A stranger arrives to the small town of Passo Fundo, south of Brazil. And he's on a manhunt of a killer that turns in a giant drug conspiracy running by an international conglomerate.",
+    "rating": "3.7",
+    "movieLength": "1h 54m"
+  },
+  {
+    "title": "Bigfoot Vs. Zombies",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM5NDcwOTc4MV5BMl5BanBnXkFtZTgwNTcwNTM2NzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5307698",
+    "description": "A scientist creates a toxic cocktail that slowly leaks into the local population, creating flesh-eating zombies - and only one creature of legend can stop the growing hordes of the undead.",
+    "rating": "2.3",
+    "movieLength": "1h 19m"
+  },
+  {
+    "title": "Legend Quest: The Legend of the Chupacabra",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQxY2Q2ODctMDFlYi00NjNlLThjZmMtNmRhOTc2MWYxNTBmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5591458",
+    "description": "Leo, Teodora, Don Andrés, Alebrije, Evasito, Finado and Moribunda must stop the Chupacabras from wrecking havoc.",
+    "rating": "5.3",
+    "movieLength": "1h 21m"
+  },
+  {
+    "title": "Bus Driver",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NTY2MDU5MF5BMl5BanBnXkFtZTgwMjg2NDY2NDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3453648",
+    "description": "Drug dealers attack a group of troubled teens when their bus breaks down in the desert.",
+    "rating": "3.7",
+    "movieLength": "1h 15m"
+  },
+  {
+    "title": "Atomic Shark",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTZkODk0YjUtNmMxNC00ZGUzLWE1YjItZGM2OTE5ZTYzMzFiXkEyXkFqcGc@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt5930094",
+    "description": "When a lifeguard catches wind of a dangerous anomaly off the coast of San Diego, she commissions a band of unlikely heroes to assist her on a suicide mission to save the west coast from total destruction.",
+    "rating": "2.7",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Odd Squad: The Movie",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDhjNzk5ZGItNjE0Zi00ZDAxLTgwOTEtZGQ3YzIzMzhkMGI3XkEyXkFqcGc@._V1_QL75_UX140_CR0,21,140,207_.jpg",
+    "imdbId": "tt5889372",
+    "description": "The Odd Squad springs into action when a rival group called Weird Team starts to cover up problems instead of solving them.",
+    "rating": "6.3",
+    "movieLength": "1h 7m"
+  },
+  {
+    "title": "Sheborg Massacre",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJmMjdmMTMtZGJiYS00YTE2LWJiYWMtNDI1MmY0NTNjOGYyXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5196516",
+    "description": "When an alien fugitive crash lands into a local puppy farm and begins turning people into machines that feed on puppy flesh, Dylan and her BFF Eddie have to decide whether or not to take on the SheBorg menace, and save the world.",
+    "rating": "3.9",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Angel of Reckoning",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NTAyMTY1MV5BMl5BanBnXkFtZTgwODk2NzQ2OTE@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+    "imdbId": "tt3677840",
+    "description": "Rachel, a female war veteran, returns home only to launch her own personal vendetta against the criminal underworld when a family member mysteriously dies. The underworld kingpin rules with an iron fist and those below her are terrified when her name is even mentioned. In order to get closer to the inner sanctum, Rachel takes on the identity of \"Angel,\" a go-go dancer at a popular nightclub. As \"Angel\" learns details about the organization, she begins to exact her revenge against anyone she deems responsible for her family member's death. However, a detective is hot on Angel's trail as he investigates the death and destruction left in her wake. When one woman proclaims war against a band of drug dealers, pornographers, and criminal kingpins, will vengeance rule above all else? \"Hot action and intrigue!\" - United Media Network. \"Jessica Kabasinski rocks this film.\" - Extreme DVD. \"Exhilarating, entertaining and fun.\" - Awesome Mag.",
+    "rating": "2.9",
+    "movieLength": "1h 44m"
+  },
+  {
+    "title": "The Persian Connection",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDI1MTA1OV5BMl5BanBnXkFtZTgwNTk2NDExMjI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4831810",
+    "description": "After being wrongly accused of stealing from his former boss, an Iranian gangster with girl problems must hunt down stolen drugs in this neon-noir fever dream set in the bizarre Persian and Russian Los Angeles underworld where obscene reigns supreme.",
+    "rating": "4.7",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "The Code of Cain",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWEwZmM2YTQtNGFhZS00NGU2LTkzNjYtMzJmOWIwNjBjM2ZjXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt3918774",
+    "description": "World renowned journalist Sara Ogden is traversing the world in pursuit of carriers of a fatally dangerous \"Stamp of Cain\" in order to prevent seemingly unrelated events such as mass ...",
+    "rating": "3.3",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Mission Milano",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NDQ4YWYtODI4ZC00MmI5LThkNDUtN2UyYjZhN2ViZjBlXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt5425144",
+    "description": "Rogue terrorists steal the revolutionary invention the Seed of God for world domination. After Interpol agent Sir Sampan's underhanded tactics to recruit young billionaire Huo, the team rallies to rescue and retrieve their prized invention.",
+    "rating": "3.8",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Arcadia",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTgyYjQ1M2QtNDg2MS00ZGI2LWFiNzEtNDg1Mzg3MjMzODBjXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4377942",
+    "description": "One man fights to give his family a future in a world crippled by disease where medical care is controlled by a totalitarian regime.",
+    "rating": "4.2",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Cut to the Chase",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjJlOGI2NjYtMmQ1Ny00NjlkLThjYjEtOGZmYjFmZGI3ZDY3XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt4034390",
+    "description": "An ex-con sets out in search of his kidnapped sister through the criminal underbelly of Shreveport, Louisiana.",
+    "rating": "4.5",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "I Am Hooligan",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJiMzU0MjAtZTZhNC00M2NiLWJmY2ItNDZhMTk1MTNmYTg4XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4717746",
+    "description": "A young lad is brainwashed into thinking his only way out of his life on a London Estate is to become a football hooligan and fight his way out. When his best friend tries to steer him in the right path, there is a tragic turn of events.",
+    "rating": "2.4",
+    "movieLength": "1h 21m"
+  },
+  {
+    "title": "Americano",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg0N2I4NjYtZTkyZC00MzQ2LWI0OTktY2RkMTJkY2Q4ZDlkXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt3181400",
+    "description": "A Mexican parrot named Cuco sets off on an adventure to defend his family.",
+    "rating": "4.0",
+    "movieLength": "1h 28m"
+  },
+  {
+    "title": "Where Love Found Me",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTBiODQ0ZmItZGIwOC00YWJjLThmZTktYmEyMTFlODUyNWZiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt4174926",
+    "description": "Daring escapes, hilarious stunts-and danger turn a Hollywood director's world upside down when he meets a band of street kids living in the slum.",
+    "rating": "5.6",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "First Round Down",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDVkZmEtMGI0MS00NGExLWE3MzUtNWQ1YjkwNWZkYTU4XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt5193408",
+    "description": "When big city problems follow a former hockey star turned hitman to his home town it's clear that he's not the only one with skeletons in his closet in this crime comedy caper involving ex-lovers, old coaches, mobsters and unpaid debts.",
+    "rating": "4.7",
+    "movieLength": "1h 36m"
+  },
+  {
+    "title": "Rumble",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1ZjUwOWYtZGMyNC00MTk4LThiYjUtMzc5OGFmYzhiMWVmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3991302",
+    "description": "Rumble revolves around an aging and injured former MMA champ who is forced back into a deadly Mexican underground fight circuit to save is girlfriend kidnapped by a mysterious cartel leader and criminal mastermind.",
+    "rating": "3.7",
+    "movieLength": null
+  },
+  {
+    "title": "Blood Sombrero",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFiZjgwYzAtZjM5Yy00NDNkLTkxY2ItNzlkY2RlMTIyNzUwXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt3603104",
+    "description": "Set in the south Texas town of Sucio Sangre near the vicious Mexican border, BLOOD SOMBRERO stars Billy Blair as a nameless thief hired by the ruthless crime lord Lucifer (Nick Gomez) to find a strange box with unknown contents. Meanwhile a mysterious yet violent girl named Josephine (Paula Solinger) holds the box while on the run from the deranged cult she once belonged to. Hot on her trail are two crooked cops (Fred Doss and Stephen Brodie) and a psychotic bounty hunter named Coffin. Their paths ultimately collide in an explosion of blood soaked chaos, leaving our anti-heroes to decide whether this box is worth their lives.",
+    "rating": "3.7",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "Slasher House 2",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJhYWM2ZjQtMjIwZi00NDQwLWJiMzMtNDY4MjAwNmEwMTgyXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt4699434",
+    "description": "Red fights her way through a maze filled with assassins, monsters and maniacs she comes closer to discovering the truth behind the mystery and the mastermind behind the Slasher House.",
+    "rating": "4.1",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Red Sonja: Queen of Plagues",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY4ODJjNGYtOTM2NC00YmViLTlhMzctYzc3ZDRkNDlmOTU1XkEyXkFqcGc@._V1_QL75_UY207_CR12,0,140,207_.jpg",
+    "imdbId": "tt5989606",
+    "description": "To pay back her blood debt to a valiant king, Red Sonja, the She-Devil with a Sword, agrees to lead his doomed army to their certain death against the invading plague-ridden forces of Dark Annisia, Sonja's blood sister who's gone mad.",
+    "rating": "3.7",
+    "movieLength": "1h 14m"
+  },
+  {
+    "title": "Blue Jay",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWIwNDg4OTUtOWZkYS00ZmRlLWE5MDYtNzk3NTIyNTE3ZWI1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt3574352",
+    "description": "A couple hiking Mount Whitney runs into a group of mountain men who develop a dark obsession with the young woman.",
+    "rating": "4.6",
+    "movieLength": "1h 23m"
+  },
+  {
+    "title": "Boost",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JmNDQ4NjMtMjRhYy00YmZjLWEwZmItYjBlYzIxNmE3NjFiXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt5308240",
+    "description": "Hakeem and A-Mac are like brothers. Together they face immigrant life in Montreal, while 'spotting' cars after school. Boost gives us a glimpse into the awkward adventures of teenage boyhood, then the jolt, when that innocence ends abruptly.",
+    "rating": "6.3",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "Distance Between Dreams",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDY4NzJiNzAtNmNhZS00ZjQwLWE4OGEtMjMzYjc4NzNjYmIxXkEyXkFqcGc@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+    "imdbId": "tt6255746",
+    "description": "In Distance Between Dreams, the most historic year in big wave surfing comes to life through the eyes of iconic surfer Ian Walsh, as he sets mind and body in motion to redefine the upper limits of what's considered rideable.",
+    "rating": "6.4",
+    "movieLength": "1h 3m"
+  },
+  {
+    "title": "Below the Surface",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NDUxNzkxNl5BMl5BanBnXkFtZTgwMTY4MDA3NzE@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt5174234",
+    "description": "Cameron thought she had the perfect life with a perfect job and a perfect fiancé until he becomes a suspect in a murder case.",
+    "rating": "4.4",
+    "movieLength": "1h 25m"
+  },
+  {
+    "title": "Hatton Garden the Heist",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWY5MGVkOTEtZTNmNC00NDMxLThlZDktNmI4ZTFlODYzNzkxXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt5953854",
+    "description": "Following the lead up to one of the biggest robberies of the century, Hatton Garden The Heist watches the journey of Brian Reader, John Collins, Terry Perkins, Daniel Jones and the mysterious Basil throughout the audacious heist.",
+    "rating": "3.9",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Deadman Apocalypse",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWI3N2RkYzYtMzg0Zi00OWNjLTlmODYtNjFmMzRmNTM1MjE5XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt4606498",
+    "description": "In the distant future, Jack Deadman and his military team are the final hope to save our dying earth from its hellish apocalypse. The mission is to enter the underground world of Labyrinthia and retrieve the water stolen by the savage inhabitants below... 10 years later, the mission has failed, and Jack Deadman exists in isolation, trapped and buried deep within Labyrinthia. A lone wolf anti-hero, changed by failure and guilt. But when the opportunity to escape arises once again, Jack will begin a quest for vengeance and redemption in one last attempt to escape from Labyrinthia.",
+    "rating": "2.2",
+    "movieLength": "1h 18m"
+  },
+  {
+    "title": "The Chemist",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjM0Njg0MTAzMF5BMl5BanBnXkFtZTgwMjk5MTI2OTE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt3616894",
+    "description": "The Chemist is a gritty action thriller about an aging assassin who is double crossed by his employer when he refuses to assassinate a woman he just met. On the run; Steele (Olivier Gruner) becomes the next target in this fast-paced battle, assassin vs. assassin, until he is surprised by a secret that changes everything he thought he knew. To complicate matters even more he begins to fall in love with his would-be target.",
+    "rating": "3.5",
+    "movieLength": "1h 42m"
+  },
+  {
+    "title": "Big Bad",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzIyNjc5NDY2OF5BMl5BanBnXkFtZTgwMDUxMjU3OTE@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt3949216",
+    "description": "A playful nod to 80's adventure films that finds a group kids spending the night in an abandoned jail for a school fundraiser. Things take a chilling turn when their chaperone vanishes just as a vicious beast attacks.",
+    "rating": "4.5",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "The Misty Green Sky",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EzNmQ3ODgtYmExNy00NjNkLWFiNzItNjJiYTYzNzgxZTg2XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt6156136",
+    "description": "A young girl in another solar system asks an innocent question that sets off a chain reaction of adventure, destruction and tragedy.",
+    "rating": "1.9",
+    "movieLength": "1h 21m"
+  },
+  {
+    "title": "Gearheads",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjJhYzgzMDQtMTcwNi00ZTZiLTlkZGYtZDMwNTQxMmFkNmUzXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt2094825",
+    "description": "A mysterious mentor helps a conflicted teen overcome his fear of driving, and win the race of his life at the local dirt track in Smalltown, USA.",
+    "rating": "2.9",
+    "movieLength": "1h 22m"
+  },
+  {
+    "title": "Interstelar 2: Operation Terra 2040",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjIxYjlkNDgtMmM1Ny00ZjY1LTkyOGEtNjViZjU2NjkxZDIyXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt5709892",
+    "description": "16 years after the events of Interstelar (2014) as food shortage attacks yet again, another brave man goes on a space mission to bring food to Earth.",
+    "rating": "1.4",
+    "movieLength": "49m"
+  },
+  {
+    "title": "Revengeance",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDM0NmRiNDUtMmQ2NC00YmM0LTg3ZTEtNzc1NjM3YzU0YTk5XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt3401174",
+    "description": "A low-rent bounty hunter named Rod Rosse, The One Man Posse, gets entangled in a web of danger when he takes on a job from an ex-biker/ex-wrestler turned U.S. senator named \"Deathface.\"",
+    "rating": "6.2",
+    "movieLength": "1h 15m"
+  },
+  {
+    "title": "Six Gun Savior",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgzMDQwMDA3Nl5BMl5BanBnXkFtZTgwODA3ODU1MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2027215",
+    "description": "The road to hell is paved with good intentions.",
+    "rating": "3.3",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Streets of Vengeance",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDc0ZDBhZTUtOTY1OS00ZTcwLThlZjEtZGZkZGU1YjUwZTNmXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt5195832",
+    "description": "Former adult film star, Mila, is attacked by a misogynistic cult known as The Sword. She turns vigilante and puts a group of bad-ass girls together and seeks revenge.",
+    "rating": "4.1",
+    "movieLength": "1h 41m"
+  },
+  {
+    "title": "Criticsized",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU5MjIxMDItMWM4NC00ZTFiLTkxYWItZDIwNzhmNTAxNWI0XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt2370138",
+    "description": "The most vicious serial killer of the 21st-century... and he's just getting warmed up!",
+    "rating": "3.7",
+    "movieLength": "1h 26m"
+  },
+  {
+    "title": "The Contract",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0Nzk1NjgzMV5BMl5BanBnXkFtZTgwMDQxMzYyNzE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt3203364",
+    "description": "Two worlds collide when a wealthy financier returns home to find his country house has been occupied by squatters.",
+    "rating": "3.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Timber the Treasure Dog",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjk4ODQxOTEzNF5BMl5BanBnXkFtZTgwMDg4OTM2NzE@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+    "imdbId": "tt4030354",
+    "description": "A boy rises to the occasion with his best friend (a lovable talking dog) to save his home and family.",
+    "rating": "4.5",
+    "movieLength": "1h 29m"
+  },
+  {
+    "title": "Grindsploitation",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmViZjEwM2EtMmMyMi00ZjYyLThmNmQtMGIwOWZmZGVmMWI1XkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+    "imdbId": "tt4490348",
+    "description": "Exploitation anthology from the twisted minds of established and up and coming directors from across the globe.",
+    "rating": "4.6",
+    "movieLength": "2h 20m"
+  },
+  {
+    "title": "Lucha Mexico",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlkODgzNzMtMDdlZC00NGIyLWIxNGYtZGEwOTJlNzc2OGNkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2662710",
+    "description": "Welcome to the high-flying world of Lucha Libre - Mexican wrestling - where masked warriors fight mythological battles in the squared circle.",
+    "rating": "6.8",
+    "movieLength": "1h 43m"
+  },
+  {
+    "title": "Leap",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTU1NzgxMDcxN15BMl5BanBnXkFtZTgwODY0OTkzNzE@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+    "imdbId": "tt3951298",
+    "description": "A brave Army dog returns to the U.S., where he helps his heroic handler bond with his resentful daughter on a camping trip despite danger lurking around every corner.",
+    "rating": "4.8",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Heroes Don't Come Home",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4OTMxNTQ5Ml5BMl5BanBnXkFtZTgwNTYxMzA2NzE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5086198",
+    "description": "Deep in the woods of Maine, a broken promise made after the September 11th attacks forces two friends to confront the teenagers they were and the men they've become.",
+    "rating": "5.4",
+    "movieLength": "1h 47m"
+  },
+  {
+    "title": "Super Detention",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmNzU3NTQtNWM4MC00NGUwLTk1ZWItYTBjOGNiNzdlNmIxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt5639536",
+    "description": "It's X-Men meets The Breakfast Club. When five superhero teens are hauled into detention at their secret training academy, they have to work together to stop the sinister Kaelus from stealing all the students' powers.",
+    "rating": "4.9",
+    "movieLength": "1h 24m"
+  },
+  {
+    "title": "Game of Aces",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdjZDhjMzEtZGE2Zi00Y2JjLThkMGQtNDc0NWJjNjg5MzA4XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+    "imdbId": "tt3687118",
+    "description": "A rescue attempt of a German traitor during World War I has unexpected consequences and sets off an adventure across the Arabian desert.",
+    "rating": "4.2",
+    "movieLength": "1h 37m"
+  },
+  {
+    "title": "Robot Wars",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1ZjNmNjQtYTc4YS00MWQxLWJlY2QtZTU3MmU4MjUyYTM3XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "imdbId": "tt2179237",
+    "description": "In a dystopian near future, a corporate heist goes wrong and the team members struggle to survive a desperate escape through the apocalyptic sprawl with their stolen prize, a weapon of unspeakable power. As they navigate the urban wasteland, they must contend with barbaric gangs, corporate death squads and the terrifying truth about the weapon they have stolen.",
+    "rating": "2.4",
+    "movieLength": "1h 35m"
+  },
+  {
+    "title": "The Killer Robots! Crash and Burn",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxODgxNjkzOF5BMl5BanBnXkFtZTgwMzcyNDU3ODE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "imdbId": "tt5069090",
+    "description": "Four fallen robot gladiators are rescued from the scrap pile, turned into an elite group of mercenaries and sent on a mission to bring about a new age of enlightenment in a post-apocalyptic universe.",
+    "rating": "3.8",
+    "movieLength": "1h 40m"
+  },
+  {
+    "title": "Black Code",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI0ODcxMWEtZTBlNC00NzU2LWIyY2QtZmVlNmFhNjQ1NDdlXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+    "imdbId": "tt5937964",
+    "description": "A look at the global impact the internet has on free speech, privacy and activism.",
+    "rating": "6.0",
+    "movieLength": "1h 30m"
+  },
+  {
+    "title": "Lone Wolves",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ0NDA2MTI4M15BMl5BanBnXkFtZTgwMzU1NTg1MDI@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+    "imdbId": "tt4982252",
+    "description": "After an apocalypse of questionable origin, Private James Conroy is living in an abandoned shack at the base of a radio tower. When Conroy finally contacts Garry Freeman, marooned in a space station, they have to learn to work together if they're going to save themselves, and maybe all of civilization.",
+    "rating": "2.1",
+    "movieLength": "1h 27m"
+  },
+  {
+    "title": "Gekijôban Urutoraman X: Kita zo! Warera no Urutoraman",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzMyNzJhOGMtYmY3My00ZjY5LTk1MTUtZThkOWE2NWViNTlhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt5264060",
+    "description": "When realty TV host Carlos Kurozaki breaks into a mysterious underground pyramid for a television event, he removes a special gem. . . and unwittingly releases a diabolical monster called Zaigorg! The evil creature wants Kurozaki's gem, so it spawns an army of giant kaijus to get it! It's up to the famous superheroes Ultraman X, Ultraman Tiga, and the one and only original Ultraman to stop the worldwide monster war!",
+    "rating": "6.1",
+    "movieLength": "1h 13m"
+  },
+  {
+    "title": "Medal of Victory",
+    "year": "2016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjk2MWM4ZjQtNjM1NS00OWRhLThhNjYtYmIxNjQ4NGY1YzkxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "imdbId": "tt2535394",
+    "description": "When two soldiers on the run are mistaken for war heroes and dragged into the corrupt politics of a small town, murder and mayhem follow not far behind them.",
+    "rating": "4.2",
+    "movieLength": "1h 29m"
+  }
+]

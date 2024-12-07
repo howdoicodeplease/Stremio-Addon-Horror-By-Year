@@ -4,7 +4,7 @@ const fs = require('fs');
 // Function to scrape movies for a specific year
 async function scrapeMoviesForYear(year) {
     // const url = `https://www.imdb.com/search/title/?genres=horror&release_date=${year}-01-01,${year}-12-31&sort=user_rating,desc&title_type=movie&languages=en`;
-    const url =`https://www.imdb.com/search/title/?genres=horror&release_date=${year}-01-01,${year}-12-31&sort=num_votes,desc&title_type=movie&languages=en&num_votes=200`
+    const url =`https://www.imdb.com/search/title/?genres=action&release_date=${year}-01-01,${year}-12-31&sort=num_votes,desc&title_type=movie&languages=en&num_votes=200`
 
      const browser = await puppeteer.launch({ headless: true });
     // const browser = await puppeteer.launch({
@@ -129,7 +129,7 @@ async function scrapeAllYears(startYear, endYear) {
         const movies = await scrapeMoviesForYear(year);
 
         // Save to a JSON file
-        fs.writeFileSync(`movies_${year}.json`, JSON.stringify(movies, null, 2));
+        fs.writeFileSync(`action_movies_${year}.json`, JSON.stringify(movies, null, 2));
         console.log(`Saved data for ${year}. Total movies: ${movies.length}`);
     }
 }
